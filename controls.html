@@ -1,0 +1,36 @@
+<div class="advices">
+  <div>
+    <label><input type="checkbox" ng-model="shapes.weaknesses" ng-change="draw_shapes()" /> <span class="shape_text">Faiblesses</span> <b>{{weaknesses.text}}</b></label>
+  </div>
+
+  <div>
+    <label><input type="checkbox" ng-model="shapes.targets" ng-change="draw_shapes()" /> <span class="shape_text">Cibles</span> <b>{{targets.text}}</b></label>
+  </div>
+
+  <div>
+    <label><input type="checkbox" ng-model="shapes.arrows" ng-change="draw_shapes()" /> <span class="shape_text">Zone à contrôler</span></label>
+  </div>
+
+  <div>
+    <label><input type="checkbox" ng-model="shapes.ennemies" ng-change="draw_shapes()" /> <span class="shape_text">Ennemis</span> <b>{{ennemies.text}}</b></label>
+  </div>
+
+  <div>
+    <label><input type="checkbox" ng-model="shapes.plans" ng-change="draw_shapes()" /> <span class="shape_text">Plan</span> <b>{{plans.text}}</b></label>
+  </div>
+
+  <div ng-if="actions.colors">
+    <label><input type="checkbox" ng-disabled="true" /> <span class="shape_text">Couleur</span> <b>{{actions.colors}}</b></label>
+  </div>
+
+  <div ng-if="actions.king_attack">
+    <label><input type="checkbox" ng-disabled="true" /> Attaquer le roi</label>
+  </div>
+  <div ng-if="actions.ending">
+    <label><input type="checkbox" ng-disabled="true" /> <span class="shape_text">Viser la finale</span></label>
+  </div>
+  <div ng-if="actions.piece_play">
+    <label><input type="checkbox" ng-disabled="true" /> <span class="shape_text">Jeu de pièces</span></label>
+  </div>
+
+</div>

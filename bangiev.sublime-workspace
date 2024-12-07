@@ -1,0 +1,1835 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"prevent",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"surv",
+				"surveys"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"read",
+				"readonly"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"subs",
+				"subscriptions"
+			],
+			[
+				"absolute",
+				"absoluteParentPath"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"thres",
+				"thresholds"
+			],
+			[
+				"frequ",
+				"frequency_type"
+			],
+			[
+				"frequenc",
+				"frequency_type"
+			],
+			[
+				"freq",
+				"frequency_value"
+			],
+			[
+				"frequen",
+				"frequency_type"
+			],
+			[
+				"include_",
+				"include_incidents"
+			],
+			[
+				"veihc",
+				"vehicule"
+			],
+			[
+				"grad",
+				"gradient2"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"show",
+				"showVehicule"
+			],
+			[
+				"dyn",
+				"dynamicSurveys"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"vehi",
+				"vehicules"
+			],
+			[
+				"th",
+				"thresholds"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"selectedK",
+				"selectedKanban"
+			],
+			[
+				"verify",
+				"verifyAdmin"
+			],
+			[
+				"texc-",
+				"text-decoration\tproperty"
+			],
+			[
+				"p",
+				"primary"
+			],
+			[
+				"no",
+				"nowrap\twhite-space"
+			],
+			[
+				"veri",
+				"verifySuper"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"comp",
+				"company"
+			],
+			[
+				"subsc",
+				"subscription"
+			],
+			[
+				"vehicu",
+				"vehiculeData"
+			],
+			[
+				"bower",
+				"bower_components"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"freque",
+				"frequency_value"
+			],
+			[
+				"vehic",
+				"vehicule"
+			],
+			[
+				"socke",
+				"socketClients"
+			],
+			[
+				"target",
+				"targetNetwork"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"accepte",
+				"acceptedBy"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"conso",
+				"console_log"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"agenc",
+				"agencyId"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"orign",
+				"originalPath"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"collect",
+				"collectEntries"
+			],
+			[
+				"docum",
+				"documents"
+			],
+			[
+				"execu",
+				"executeUpdate"
+			],
+			[
+				"visibility",
+				"visibility\t = 'hidden' Style CSS"
+			],
+			[
+				"thumb",
+				"thumbnail"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"refres",
+				"refreshEvents"
+			],
+			[
+				"elev",
+				"eleveurId"
+			],
+			[
+				"grails",
+				"grailsApplication"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"pagin",
+				"paginationOptions"
+			],
+			[
+				"email",
+				"emailVetotrack"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"md-list",
+				"md-list-item\tAngular Material - The md-list-item directive is a container intended for row items in a md-list container."
+			],
+			[
+				"white",
+				"white-space"
+			],
+			[
+				"prefinan",
+				"prefinancementCaf"
+			],
+			[
+				"mont",
+				"montantEcheancier2"
+			],
+			[
+				"prefi",
+				"prefinancementGps"
+			],
+			[
+				"assurance",
+				"assuranceAnnulation"
+			],
+			[
+				"reserv",
+				"reservations"
+			],
+			[
+				"reglementEc",
+				"reglementEcheancier1"
+			],
+			[
+				"reglemen",
+				"reglementEcheancier2"
+			],
+			[
+				"montantEc",
+				"montantEcheancier1"
+			],
+			[
+				"autre",
+				"autresAidesHebergement"
+			],
+			[
+				"pref",
+				"prefinancementGps"
+			],
+			[
+				"accueil",
+				"accueilEnfant"
+			],
+			[
+				"dateNaissance",
+				"dateNaissanceMaman"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"enga",
+				"engagement"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"drop",
+				"dropdown-menu"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"parten",
+				"partenaire"
+			],
+			[
+				"parte",
+				"partenaires"
+			],
+			[
+				"overfl",
+				"overflow-x"
+			],
+			[
+				"detail-photo",
+				"detail-photo-legend"
+			],
+			[
+				"tet-doc",
+				"text-decoration"
+			],
+			[
+				"back-",
+				"background-color"
+			],
+			[
+				"nomRe",
+				"nomResponsableLegal"
+			],
+			[
+				"exec",
+				"executeQuery"
+			],
+			[
+				"execute",
+				"executeUpdate"
+			],
+			[
+				"exe",
+				"executeUpdate"
+			],
+			[
+				"soucis",
+				"soucisSante"
+			],
+			[
+				"toggle",
+				"toggle_comment"
+			],
+			[
+				"dirClo",
+				"dirClosure"
+			],
+			[
+				"Loisirs",
+				"Loisirs-Pluriel"
+			],
+			[
+				"prev",
+				"preventDefault"
+			],
+			[
+				"tabl",
+				"table_width"
+			],
+			[
+				"tabe",
+				"table_width"
+			],
+			[
+				"tab",
+				"table_height"
+			],
+			[
+				"key",
+				"keydown"
+			],
+			[
+				"prese",
+				"presencesAnims"
+			],
+			[
+				"logo",
+				"logoContrat"
+			],
+			[
+				"commenta",
+				"commentaireFiche"
+			],
+			[
+				"gett",
+				"gettimeofday"
+			],
+			[
+				"chec",
+				"check_attributes"
+			],
+			[
+				"e",
+				"ethis\t<?php echo $this->… ?>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6739,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 718,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "# DISABLE CACHING"
+			}
+		},
+		{
+			"file": "css/theme.css",
+			"settings":
+			{
+				"buffer_size": 1362,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/chessground.css",
+			"settings":
+			{
+				"buffer_size": 3266,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "images/manifest.json",
+			"settings":
+			{
+				"buffer_size": 165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/mainCtrl.js",
+			"settings":
+			{
+				"buffer_size": 10750,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/////////////////////////////////////////"
+			}
+		},
+		{
+			"file": "middlegame.pgn",
+			"settings":
+			{
+				"buffer_size": 499945,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 1557,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"svn",
+				"Preferences: SVN Key Bindings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"htmlprettify",
+				"HTMLPrettify: Set `node` Path"
+			],
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"grails",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Bootstrap toolbar"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"r console",
+				"Set Syntax: R Console"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"console",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 629.0
+	},
+	"console":
+	{
+		"height": 694.0,
+		"history":
+		[
+			"view.encoding()",
+			"subl",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/css"
+	],
+	"file_history":
+	[
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/js/pgn.js",
+		"/Volumes/Fusion/fredericfanien/Library/Mobile Documents/com~apple~CloudDocs/CHESS/BANGIEV/middlegame.pgn",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground-examples/middlegame.pgn",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/css/theme.css",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/theme.css",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground-examples/src/main.ts",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/Middlegame_learning.pgn",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground-examples/src/units/play.ts",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground/dist/chessground.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground-examples/src/units/unit.ts",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/js/app.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/js/utility.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground.css",
+		"/Volumes/Fusion/fredericfanien/Library/Application Support/Sublime Text 3/Packages/User/SVN.errors.log",
+		"/Volumes/Fusion/fredericfanien/Library/Application Support/Sublime Text 3/Packages/SVN/Default (OSX).sublime-keymap",
+		"/Volumes/Fusion/fredericfanien/Library/Application Support/Sublime Text 3/Packages/SVN/SVN.sublime-settings",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/rivarance/index.html",
+		"/Volumes/Fusion/fredericfanien/Library/Mobile Documents/com~apple~CloudDocs/CHESS/BANGIEV/middlegame-training.pgn",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/run.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/angular-pgn-chess-viewer/src/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/angular-pgn-chess-viewer/src/js/app.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground-examples/dist/chessground-examples.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/chessground-examples/src/units/basics.ts",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/i18n/fr_FR.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/conf/config.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/signupCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/user.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/signup.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/signup.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/app.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/cron/invoices.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/server.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/body.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/pack/package.json",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/billing/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/billingCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/billing.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/package-lock.json",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/charts.js",
+		"/Volumes/Fusion/fredericfanien/Downloads/Office.2019.Mac.16.39_Torrentmac.net/TorrentMac.net - More Apps.url",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/cron/stats_tristan.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/veto/main.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/forgot.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/login.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/loginCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/loginApp.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/login.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/service/kanban_util.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/kanban.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/activity/dialog.activity.history.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/admin/dialog.special.sepa.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/billing/dialog.iban.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/docs/dialog.groups.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/docs/dialog.iframe.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/docs/dialog.note.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/docs/dialog.preview.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/docs/dialog.upload.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/invoice/dialog.show.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/kanban/dialog.card.form.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/kanban/dialog.card.show.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.control.create.tasks.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.control.show.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.controls.history.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.survey.config.field.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.survey.config.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.survey.form.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.vehicule.form.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.vehicule.history.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/survey/dialog.vehicule.show.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/pack/www/login.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/less/global.less",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/webcam/dialog.webcam.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/settings/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/models/schema.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/settings.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/pack/gulpfile.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/controls_vehicules.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/controls_dates.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/agency/dialog.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/library/xgrid/xgrid.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/kanban/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/field.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/historyCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/activity.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/kanbanCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/admin/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/adminCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/cron/maj_tetu.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/forms/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/documents/tab_documents.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/docsCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/directives.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/surveyCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/survey.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/services/card.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/chartsCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/cron/maj_projects.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/afac.json",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/controls_history.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/services/survey.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/vehicule.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/cron/controls.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/node_modules/aws-sdk/lib/event-stream/build-message.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/service/mileage_util.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/details/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/agencyCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/projectCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/activityCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/controlsCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/detailsByControlsCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/detailsByDatesCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/ProblemsCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/controllers/settingsCtrl.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/pack/www/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/charts/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/bower_components/angular-material/modules/js/navBar/navBar.min.css",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/activity/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/dashboard.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/cron/email_report.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/includes/controls_problems.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/data/templates/report.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/ressources/videos/ffmpeg/tests/ref/fate/cbs-h264-AUD_MW_E",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/import_script/import_atreize.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/views/user/index.html",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/front/scripts/services/agency.js",
+		"/Volumes/Fusion/fredericfanien/Documents/workspace/vesuv/back/routes/export_excel.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 143.0,
+		"where_history":
+		[
+			"/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev/js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"merida",
+			"paddin",
+			"=>",
+			"/images",
+			"\"/",
+			"coordinate",
+			"MainCtr",
+			"next_pgn",
+			"next(",
+			"comments",
+			"actions",
+			"next_pgn",
+			"plans",
+			"update_comments",
+			"orientat",
+			"$scope.turn",
+			"orientat",
+			"toggleOrientation",
+			"orientat",
+			"toggleOrientation",
+			"togg",
+			"toggle",
+			"toggleOrientation",
+			"whitePov",
+			"details",
+			"draw_sh",
+			"show_shapes",
+			"Plan",
+			"comments",
+			"details",
+			"selection",
+			"+1",
+			"$scope.tar",
+			"weakness",
+			"$scope.shapes",
+			"$scope.sh",
+			"cpt",
+			"flip",
+			"Nxc8 39. b7 $18) 37. Rc7",
+			"console.lo",
+			"console.log(",
+			"moves",
+			"$scope.rewind",
+			"cg.set({\n        fen: chess.fen()\n      })",
+			"cg.set",
+			"load_pgn",
+			"1/2",
+			"1/2 ",
+			"0.5",
+			"1/2",
+			"'",
+			"update_comments",
+			"ennemies",
+			"ennemis.tex",
+			"$",
+			"^",
+			"blackPo",
+			"orienta",
+			"toggleOrientation",
+			"$scope.",
+			"$scope.tur",
+			"gree",
+			"$",
+			"^",
+			"load_",
+			"shape",
+			"update_c",
+			"update_comments",
+			"enabledFalse",
+			"presetUserShapes",
+			"shapeSet1",
+			"preset",
+			"Preset user s",
+			"Preset user c",
+			"arrow",
+			"$",
+			"^",
+			"pla",
+			"$(\"",
+			"'images",
+			"next",
+			"function next",
+			"next",
+			"merida",
+			"$",
+			"^",
+			"\\n",
+			"fen",
+			"read",
+			"read(",
+			"fen",
+			"default",
+			"\\n",
+			"toDests",
+			"dests",
+			"zoom",
+			"width",
+			"zoom",
+			"rook",
+			"svg",
+			"chessground",
+			"initial",
+			"redraw",
+			"render",
+			"fromFen",
+			"Default conf",
+			"boardA",
+			"parseP",
+			"parsePgn",
+			".js"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"lichess",
+			"../images",
+			"',",
+			"'",
+			"',",
+			"'",
+			"',",
+			"'",
+			"'/images",
+			"staunton",
+			"',",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Volumes/Fusion/fredericfanien/Documents/workspace/Bangiev"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1612,
+								1612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1005.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 718,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								718,
+								718
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# DISABLE CACHING",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/theme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1362,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								861,
+								861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/chessground.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "images/manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/mainCtrl.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2435,
+								2438
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/////////////////////////////////////////",
+							"syntax": "Packages/Ecmascript Syntax/ecmascript-js.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1112.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "middlegame.pgn",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 499945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1557,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ecmascript Syntax/ecmascript-js.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 120.0
+	},
+	"output.exec":
+	{
+		"height": 31.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"body",
+				"front/includes/body.html"
+			],
+			[
+				"config",
+				"back/conf/config.js"
+			],
+			[
+				"fr_FR",
+				"front/scripts/i18n/fr_FR.js"
+			],
+			[
+				"signupc",
+				"front/scripts/controllers/signupCtrl.js"
+			],
+			[
+				"signup.",
+				"front/includes/signup.html"
+			],
+			[
+				"signup",
+				"front/signup.html"
+			],
+			[
+				"user.j",
+				"back/routes/user.js"
+			],
+			[
+				"app.",
+				"front/scripts/app.js"
+			],
+			[
+				"user.",
+				"back/routes/user.js"
+			],
+			[
+				"server",
+				"back/server.js"
+			],
+			[
+				"cron/",
+				"back/cron/invoices.js"
+			],
+			[
+				"billing",
+				"back/routes/billing.js"
+			],
+			[
+				"billing.",
+				"back/routes/billing.js"
+			],
+			[
+				"billingctr",
+				"front/scripts/controllers/billingCtrl.js"
+			],
+			[
+				"billing/in",
+				"front/views/billing/index.html"
+			],
+			[
+				"pac",
+				"front/pack/package.json"
+			],
+			[
+				"globa",
+				"front/less/global.less"
+			],
+			[
+				"login",
+				"front/pack/www/login.html"
+			],
+			[
+				"glob",
+				"front/less/global.less"
+			],
+			[
+				"kan",
+				"back/routes/kanban.js"
+			],
+			[
+				"kanba",
+				"back/service/kanban_util.js"
+			],
+			[
+				"includeS/lo",
+				"front/includes/login.html"
+			],
+			[
+				"loginapp",
+				"front/scripts/loginApp.js"
+			],
+			[
+				"loginctr",
+				"front/scripts/controllers/loginCtrl.js"
+			],
+			[
+				"app.js",
+				"front/scripts/app.js"
+			],
+			[
+				"kanban.",
+				"back/routes/kanban.js"
+			],
+			[
+				"kanban_util.js",
+				"back/service/kanban_util.js"
+			],
+			[
+				"settings/in",
+				"front/views/settings/index.html"
+			],
+			[
+				"settings.ht",
+				"front/includes/settings.html"
+			],
+			[
+				"sche",
+				"back/models/schema.js"
+			],
+			[
+				"direct",
+				"front/scripts/directives.js"
+			],
+			[
+				"confi",
+				"back/conf/config.js"
+			],
+			[
+				"gulpf",
+				"front/pack/gulpfile.js"
+			],
+			[
+				"survey.",
+				"front/scripts/services/survey.js"
+			],
+			[
+				"activi",
+				"back/routes/activity.js"
+			],
+			[
+				"cron/control",
+				"back/cron/controls.js"
+			],
+			[
+				"schem",
+				"back/models/schema.js"
+			],
+			[
+				"adminctr",
+				"front/scripts/controllers/adminCtrl.js"
+			],
+			[
+				"admin/inde",
+				"front/views/admin/index.html"
+			],
+			[
+				"docsc",
+				"front/scripts/controllers/docsCtrl.js"
+			],
+			[
+				"docs/",
+				"front/views/docs/dialog.preview.html"
+			],
+			[
+				"documents",
+				"front/includes/documents/tab_documents.html"
+			],
+			[
+				"chartctr",
+				"front/scripts/controllers/chartsCtrl.js"
+			],
+			[
+				"schema",
+				"back/models/schema.js"
+			],
+			[
+				"message.",
+				"back/node_modules/aws-sdk/lib/event-stream/build-message.js"
+			],
+			[
+				"kanb",
+				"back/routes/kanban.js"
+			],
+			[
+				"kanban_ut",
+				"back/service/kanban_util.js"
+			],
+			[
+				"surve",
+				"front/scripts/services/survey.js"
+			],
+			[
+				"survey",
+				"front/scripts/services/survey.js"
+			],
+			[
+				"surveyc",
+				"front/scripts/controllers/surveyCtrl.js"
+			],
+			[
+				"direc",
+				"front/scripts/directives.js"
+			],
+			[
+				"packa",
+				"front/pack/package.json"
+			],
+			[
+				"settings/",
+				"front/views/settings/index.html"
+			],
+			[
+				"dire",
+				"front/scripts/directives.js"
+			],
+			[
+				"kanban/di",
+				"front/views/kanban/dialog.card.form.html"
+			],
+			[
+				"survey.form",
+				"front/views/survey/dialog.survey.form.html"
+			],
+			[
+				"package.json",
+				"front/pack/package.json"
+			],
+			[
+				"kanban",
+				"back/routes/kanban.js"
+			],
+			[
+				"card.j",
+				"front/scripts/services/card.js"
+			],
+			[
+				"kanbanc",
+				"front/scripts/controllers/kanbanCtrl.js"
+			],
+			[
+				"kanban/Di",
+				"front/views/kanban/dialog.card.form.html"
+			],
+			[
+				"acti",
+				"back/routes/activity.js"
+			],
+			[
+				"historyctr",
+				"front/scripts/controllers/historyCtrl.js"
+			],
+			[
+				"chart",
+				"back/routes/charts.js"
+			],
+			[
+				"chartsc",
+				"front/scripts/controllers/chartsCtrl.js"
+			],
+			[
+				"vehic",
+				"back/routes/vehicule.js"
+			],
+			[
+				"surv",
+				"back/routes/survey.js"
+			],
+			[
+				"/views/survey/dialog.controls.history.htm",
+				"front/views/survey/dialog.controls.history.html"
+			],
+			[
+				"/includes/controls_history.html",
+				"front/includes/controls_history.html"
+			],
+			[
+				"activity/di",
+				"front/views/activity/dialog.activity.history.html"
+			],
+			[
+				"HistoryCtrl",
+				"front/scripts/controllers/historyCtrl.js"
+			],
+			[
+				"milea",
+				"back/service/mileage_util.js"
+			],
+			[
+				"vehicu",
+				"back/routes/vehicule.js"
+			],
+			[
+				"sur",
+				"back/routes/survey.js"
+			],
+			[
+				"charts",
+				"back/routes/charts.js"
+			],
+			[
+				"mileage",
+				"back/service/mileage_util.js"
+			],
+			[
+				"mileage_",
+				"back/service/mileage_util.js"
+			],
+			[
+				"vehi",
+				"back/routes/vehicule.js"
+			],
+			[
+				"vehicule",
+				"back/routes/vehicule.js"
+			],
+			[
+				"survey/",
+				"front/views/survey/dialog.control.show.html"
+			],
+			[
+				"surveyctr",
+				"front/scripts/controllers/surveyCtrl.js"
+			],
+			[
+				"index",
+				"front/index.html"
+			],
+			[
+				"routes/charts",
+				"back/routes/charts.js"
+			],
+			[
+				"charts/",
+				"front/views/charts/index.html"
+			],
+			[
+				"agencyctr",
+				"front/scripts/controllers/agencyCtrl.js"
+			],
+			[
+				"kanban/in",
+				"front/views/kanban/index.html"
+			],
+			[
+				"charts/in",
+				"front/views/charts/index.html"
+			],
+			[
+				"surveyct",
+				"front/scripts/controllers/surveyCtrl.js"
+			],
+			[
+				"bod",
+				"front/includes/body.html"
+			],
+			[
+				"settings",
+				"front/scripts/controllers/settingsCtrl.js"
+			],
+			[
+				"settingsc",
+				"front/scripts/controllers/settingsCtrl.js"
+			],
+			[
+				"controlsc",
+				"front/scripts/controllers/controlsCtrl.js"
+			],
+			[
+				"app",
+				"front/scripts/app.js"
+			],
+			[
+				"Survey",
+				"front/scripts/services/survey.js"
+			],
+			[
+				"historyct",
+				"front/scripts/controllers/historyCtrl.js"
+			],
+			[
+				"DetailsByDatesCtrl",
+				"front/scripts/controllers/detailsByDatesCtrl.js"
+			],
+			[
+				"detailsbyc",
+				"front/scripts/controllers/detailsByControlsCtrl.js"
+			],
+			[
+				"problems",
+				"front/scripts/controllers/ProblemsCtrl.js"
+			],
+			[
+				"details/inde",
+				"front/views/details/index.html"
+			],
+			[
+				"chartsctr",
+				"front/scripts/controllers/chartsCtrl.js"
+			],
+			[
+				"detailsc",
+				"front/scripts/controllers/detailsByControlsCtrl.js"
+			],
+			[
+				"includes/sett",
+				"front/includes/settings.html"
+			],
+			[
+				"loginc",
+				"front/scripts/controllers/loginCtrl.js"
+			],
+			[
+				"www/inde",
+				"front/pack/www/index.html"
+			],
+			[
+				"chart/in",
+				"front/views/charts/index.html"
+			],
+			[
+				"details",
+				"front/views/details/index.html"
+			],
+			[
+				"activity/in",
+				"front/views/activity/index.html"
+			],
+			[
+				"activit",
+				"front/views/activity/index.html"
+			],
+			[
+				"details/in",
+				"front/views/details/index.html"
+			],
+			[
+				"kanban/",
+				"front/views/kanban/index.html"
+			],
+			[
+				"details/",
+				"front/views/details/index.html"
+			],
+			[
+				"settings/i",
+				"front/views/settings/index.html"
+			],
+			[
+				"control",
+				"back/cron/controls.js"
+			],
+			[
+				"vehicul",
+				"back/routes/vehicule.js"
+			],
+			[
+				"www/in",
+				"front/pack/www/index.html"
+			],
+			[
+				"schme",
+				"ressources/videos/ffmpeg/tests/ref/fate/cbs-h264-AUD_MW_E"
+			],
+			[
+				"agency/",
+				"front/views/agency/list.html"
+			],
+			[
+				"user/",
+				"front/views/user/index.html"
+			],
+			[
+				"agencyc",
+				"front/scripts/controllers/agencyCtrl.js"
+			],
+			[
+				"gulp",
+				"front/pack/gulpfile.js"
+			],
+			[
+				"/views/survey/dialog.survey.form.html",
+				"front/views/survey/dialog.survey.form.html"
+			],
+			[
+				"agencyct",
+				"front/scripts/controllers/agencyCtrl.js"
+			],
+			[
+				"user",
+				"back/routes/user.js"
+			],
+			[
+				"activity/",
+				"front/views/activity/index.html"
+			],
+			[
+				"agency/i",
+				"front/views/agency/list.html"
+			],
+			[
+				"agency.j",
+				"front/scripts/services/agency.js"
+			],
+			[
+				"export_ut",
+				"back/service/export_util.js"
+			],
+			[
+				"export_ex",
+				"back/routes/export_excel.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 517.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"~/Documents/workspace/datapeche/datapeche.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/workspace/datapeche/datapeche.sublime-project"
+			],
+			[
+				"sentin",
+				"~/Documents/workspace/sentinelle/sentinelle.sublime-project"
+			],
+			[
+				"card",
+				"~/Documents/workspace/cardio/cardio.sublime-project"
+			]
+		],
+		"width": 792.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 316.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

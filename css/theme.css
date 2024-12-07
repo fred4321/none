@@ -1,0 +1,47 @@
+/*
+ * Board
+ */
+.blue .cg-wrap {
+  background-image: url('../images/board/blue.svg');
+}
+
+.brown .cg-wrap {
+  background-image: url('../images/board/brown.svg');
+}
+
+.lichess .cg-wrap piece.pawn.white {
+  background-image: url('../images/pieces/lichess/wP.svg');
+}
+.lichess .cg-wrap piece.bishop.white {
+  background-image: url('../images/pieces/lichess/wB.svg');
+}
+.lichess .cg-wrap piece.knight.white {
+  background-image: url('../images/pieces/lichess/wN.svg');
+}
+.lichess .cg-wrap piece.rook.white {
+  background-image: url('../images/pieces/lichess/wR.svg');
+}
+.lichess .cg-wrap piece.queen.white {
+  background-image: url('../images/pieces/lichess/wQ.svg');
+}
+.lichess .cg-wrap piece.king.white {
+  background-image: url('../images/pieces/lichess/wK.svg');
+}
+.lichess .cg-wrap piece.pawn.black {
+  background-image: url('../images/pieces/lichess/bP.svg');
+}
+.lichess .cg-wrap piece.bishop.black {
+  background-image: url('../images/pieces/lichess/bB.svg');
+}
+.lichess .cg-wrap piece.knight.black {
+  background-image: url('../images/pieces/lichess/bN.svg');
+}
+.lichess .cg-wrap piece.rook.black {
+  background-image: url('../images/pieces/lichess/bR.svg');
+}
+.lichess .cg-wrap piece.queen.black {
+  background-image: url('../images/pieces/lichess/bQ.svg');
+}
+.lichess .cg-wrap piece.king.black {
+  background-image: url('../images/pieces/lichess/bK.svg');
+}

@@ -1,0 +1,3225 @@
+﻿[Event "London"]
+[Site "London"]
+[Date "1851.??.??"]
+[Round "?"]
+[White "Anderssen, Adolf"]
+[Black "Kieseritzky, Lionel"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "rnb1k1nr/p2p1ppp/8/1pbN1N1P/4PBP1/3P1Q2/PqP5/R4KR1 w kq - 0 18"]
+[PlyCount "11"]
+[EventDate "1851.??.??"]
+[EventType "game"]
+[EventCountry "ENG"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%mdl 1] White: SQ: e4; DQ: f5, d5; CQ: black squares. Pay close attention to:
+1). Nd5, Nf5, Bf4; weaknesses on the squares c7, d6, e5, f6, g7;   CM: Pay
+close attention to: Bc5, Qb2, Ng8, Pg7 defending _|__|_ c7, d6, e5, f6, g7; 
+White should challenge these pieces (tie them up in the game, i.e. attack,
+push out of the way, capture); 18.Nxg7, 18.Nd6, 18.Bd6, 18.d4.  GM: 18.Nxg7,
+18.Nd6+ are bad. 18.Bd6, 18.d4 should be looked at. 18.Bd6 looks stronger:
+that move exerts strong pressure on the dark squares.  Weiß: SF: e4; RF: f5,
+d5; FF: schwarzfeldrig. Man beachte: 1). Nd5, Sf5, Bf4; Felderschwächen auf c7,
+d6, e5, f6, g7;   KZ: Man beachte: Bc5, Qb2, Ng8, Pg7 verteidigen _|__|_ c7,
+d6, e5, f6, g7;  Diese Steine soll Weiß durch gezielte Aktionen befragen (ins
+Spiel verwickeln, d.h. angreifen, verdrängen, vernichten); 18.Nxg7, 18.Nd6, 18.
+Bd6, 18.d4.  GZ: 18.Nxg7, 18.Nd6+ sind schlecht. 18.Bd6, 18.d4 sollen
+untersucht werden. 18.Bd6 sieht stärker aus: der Zug übt starken Druck auf die
+schwarzen Felder aus.} 18. Bd6 $3 {This meets the demands of the position and
+from White's point of view is tactically very strong. Note: this involves in
+the action the Bc5, which is defending the _|__|_ e7, f8. Dies entspricht den
+Anforderungen der Stellung aus weißer Sicht, ist taktisch sehr stark. Man
+beachte: Dadurch ist Bc5, der _|__|_ e7,f8 verteidigt, befragt, ins Spiel
+verwickelt.} (18. d4 $1) (18. Re1) (18. Nxg7+ $2 Kf8) (18. Nd6+ $2 Bxd6) 18...
+Bxg1 (18... Qxa1+ 19. Ke2 Qb2 $1 {Attack is the best form of defence. Angriff
+ist die beste Verteidigung} (19... Bxg1 20. e5) 20. Rc1 $1 {This challenges
+the Qb2. Watch out for 20...Qc1. Dadurch ist die Qb2 befragt. Man beachte 20...
+Qc1} Nc6 (20... Qxc1 21. Nxg7+ $18) 21. Bxc5 Kd8 22. Nd6 $18 Nh6) {White: SQ:
+e4; DQ: f5, d5; CQ: black squares. Pay close attention to: 1). Nd5, Nf5, Bd6;
+weak squares on c7, d6, e5, f6, g7;  CM: Pay close attention to: Qb2, Ng8, Pg7
+defending _|__|_ c7, d6, e5, f6, g7;  These pieces should be challenged by
+White by targetted action (tie them up in the action, i.e. attack, push to the
+side, capture); 19.Nxg7+?, (bad because of 19...Qxg7), 19.e5. GM: 18.Nxg7+, 18.
+Nd6+ are bad. 18.Bd6, 18.d4 should be considered. 18.Bd6 looks stronger: it
+exerts strong pressure on the black squares.  Weiß: SF: e4; RF: f5, d5; FF:
+schwarzfeldrig. Man beachte: 1). Nd5, Sf5, Bd6; Felderschwächen auf c7, d6, e5,
+f6, g7;  KZ: Man beachte: Qb2, Ng8, Pg7 verteidigen _|__|_ c7, d6, e5, f6, g7;
+Diese Steine soll Weiß durch gezielte Aktionen befragen (ins Spiel verwickeln,
+d.h. angreifen, verdrängen, vernichten); 19.Nxg7+?, (schlecht wegen 19...Qxg7),
+19.e5. GZ: 18.Nxg7+, 18.Nd6+ sind schlecht. 18.Bd6, 18.d4 sollen untersucht
+werden. 18.Bd6 sieht stärker aus: er übt starken Druck auf die schwarzen
+Felder aus.} 19. e5 $3 {This is really the only move which meets the demands
+of the position. Watch out for: /\Ng7; Ra1 is not really important.  Dies ist
+wohl der einzige Zug, der den Anforderungen der Stellung entspricht. Man
+beachte: /\Ng7; Ra1 spielt keine wichtige Rolle.} Qxa1+ 20. Ke2 (20. Ke2 {
+1-0. Kieseritzky,L resigned. We shall look a bit further into this position.
+1-0. Kieseritzky,L gab auf. Wir betrachten diese Stellung weiter.}) 20... Na6 (
+20... f6 21. Nxg7+ Kf7 22. Nxf6 Bb7 (22... Kxg7 23. Ne8+ Kh6 24. Qf4#) 23. Nd5+
+Kxg7 24. Qf8#) (20... Bb7 21. Nxg7+ Kd8 22. Qxf7 Nh6 23. Ne6+) (20... Ba6 {
+In order to provide the Ke8 with flight squares d8, c8. Dies soll dem Ke8 die
+Fluchtfelder, d8, c8 zugängig machen.} 21. Nc7+ {Unveils the queen on f3. Dies
+öffnet die Dame f3.} Kd8 22. Nxa6 {/\Qxa8 or Bc7+. White is winning, e.g. /
+\Qxa8 sowie Bc7+. Weiß steht auf Gewinn, z.B.} (22. Qxa8 $2 Qc3 23. Qxb8+ Bc8)
+22... Qxa2 (22... Qc3 23. Bc7+) (22... Bb6 23. Qxa8) 23. Bc7+ Ke8 24. Nb4 $18)
+21. Nxg7+ Kd8 22. Qf6+ Nxf6 23. Be7# {It is intersting to note here that all
+the enemy pieces which in the starting position were defending the squares in
+the e5-area (Bc5, Ng8, Qb2, Pg7) have been brought into the game through
+targetted actions and as this has happened they have lost control of the
+squares d6, c7, f6, g7, e7, making it possible for White to seize these
+squares. Es ist hier interessant, dass alle feindlichen Steine, die in der
+Ausgangsstellung die Felder im e5-Raum verteidigten, Bc5, Ng8, Qb2, Pg7, durch
+gezielte Aktionen ins Spiel gekommen sind und dadurch die Kontrolle über die
+Felder d6, c7, f6, g7, e7 verloren, was es dem Weißen ermöglichte, diese
+Felder zu erobern.} 1-0
+
+[Event "New York"]
+[Site "?"]
+[Date "1904.??.??"]
+[Round "?"]
+[White "Capablanca, Jose Raul"]
+[Black "Fonarev"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp3ppp/2pp1b2/4nN2/4P3/6Q1/PPP2PPP/R1B1R1K1 w - - 0 15"]
+[PlyCount "15"]
+[EventDate "1904.??.??"]
+[EventRounds "6"]
+[EventCountry "NED"]
+[EventCategory "15"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yc2e4,Ye4f5,Gg7e5,Gc7e5] White: SQ: e4, DQ: f5, CQ: black squares. Pay
+close attention to: Nf5, Bc1, Qg3; Goal setting: attack ->_|_e5, ->_|_f6,
+->_|_g7.  The black pieces to be challenged are those which defend the black
+squares: ->Pd6, ->Pg7, ->Bf6. CM: 15.Bf4, 15.Bh6. GM: Bf4  Weiß: SF: e4, RF:
+f5, FF: schwarzfeldrig. Man beachte: Nf5, Bc1, Qg3; Zielsetzung: ->_|_e5,
+->_|_f6, ->_|_g7 anzugreifen. Die zu befragenden schwarzen Steine, die die
+schwarzen Felder verteidigen: ->Pd6, ->Pg7, ->Bf6. KZ: 15.Bf4, 15.Bh6. GZ: Bf4
+} 15. Bf4 $1 {-> Pd6 /\Rad1 -> Pd6 /\Rad1} (15. Bh6 $6 Ng6) 15... Qc7 {[%cal
+Gc7e5,Gg7e5]} {White: SQ: e4, DQ: f5, CQ: black squares.  ->_|_ e5, ->_|_f6,
+->_|_g7. -> Pd6, ->Pg7,-> Bf6. CM: 16.Rad1  Weiß: SF: e4, RF: f5, FF:
+schwarzfeldrig. ->_|_ e5, ->_|_f6, ->_|_g7. -> Pd6, ->Pg7,-> Bf6. KZ: 16.Rad1}
+16. Rad1 {[%cal Gg7e5,Gc7e5,Ye4d5,Ye4f5,Yf5g6] ->Pd6, ->Pg7  ->Pd6, ->Pg7} Rad8
+{[%cal Gc7e5,Gg7e5] White: SQ: e4, DQ: f5, CQ: black squares.  ->_|_ e5,
+->_|_f6, ->_|_g7. -> Pd6, ->Pg7,-> Bf6.  CM: 17.Rd6, 17.Nd6, 17.Rd2 /\Rfd1 
+Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->_|_ e5, ->_|_f6, ->_|_g7. -> Pd6,
+->Pg7,-> Bf6. KZ: 17.Rd6, 17.Nd6, 17.Rd2 /\Rfd1} 17. Rxd6 $5 {An active
+continuation intended to disrupt the e5-area. But Black has counterchances,
+see 18...Qa5. Eine aktive Fortsetzung, die den e5-Raum zerstören soll. Schwarz
+verfügt aber über Gegenchancen, siehe 18...Qa5.} (17. Rd2 $1 Qa5 (17... Nc4 18.
+Rxd6) 18. c3 Qxa2 19. Red1 {-> Pd6 -> Pd6}) (17. Nxd6 $2 Rxd6 18. Bxe5 Bxe5 19.
+Qxe5 Rxd1 $19) 17... Rxd6 18. Bxe5 {Take good note: the black squares in the
+e5-area have been weakened by the moves 17.Rd6 and 18.Be5. ->Bf6, ->Pg7.  Man
+beachte: Die schwarzen Felder im e5-Raum sind durch die Züge 17.Rd6 und 18.Be5
+geschwächt. ->Bf6, ->Pg7.} Rd1 $2 (18... Qa5 $1 {-> Be5 with tempo -> Be5 mit
+Tempo} 19. Bc3 (19. f4 Bxe5 20. fxe5 Qc5+ 21. Kh1 Rg6) 19... Bxc3 20. bxc3 Rg6
+21. Ne7+ Kh8 22. Nxg6+ hxg6 $16) 19. Rxd1 Bxe5 {[%cal Gc7e5,Gg7e5,Yc2e4,Ye4f5]
+White: SQ: e4, DQ: f5, CQ: black squares.  ->_|_ e5, ->_|_f6, ->_|_g7. -> Pg7,
+-> Be5. 20.Nh6 /\ Nf7 -> Be5  Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->_|_
+e5, ->_|_f6, ->_|_g7. -> Pg7,-> Be5. 20.Nh6 /\ Nf7 -> Be5} 20. Nh6+ Kh8 {
+White: SQ: e4, DQ: f5, CQ: black squares.  ->_|_ e5, ->_|_f6, ->_|_g7. ->Pg7,
+-> Be5. 21.Nf7 ->Be5; 21.Qe5 Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->_|_
+e5, ->_|_f6, ->_|_g7. ->Pg7,-> Be5. 21.Nf7 ->Be5; 21.Qe5} 21. Qxe5 $1 {[%cal
+Gg7e5,Gc7e5]} (21. Nxf7+ $2 Qxf7 22. Qxe5 Qxf2+ $19) 21... Qxe5 22. Nxf7+ $18
+1-0
+
+[Event "World Championship Amateur"]
+[Site "The Hague"]
+[Date "1928.??.??"]
+[Round "14"]
+[White "Euwe, Max"]
+[Black "Carls, Carl Johan Margot"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r5k1/1pr1pp2/1q1p1np1/p6p/2PR3P/1P3BP1/PQ2PP2/3R2K1 w - - 0 21"]
+[PlyCount "19"]
+[EventDate "1928.07.21"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "NED"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Gc7e5,Gg7e5,Yg2d5,Ya2d5,Ye4f5] White: SQ: e4, DQ: f5: (the white pieces
+(Qb2, Rd4) are more mobile in the direction of f5). CQ: black squares: (be
+aware that _|_e5,_|_f6 are weak). ->Pe7,->Pd6. Goals: occupy _|_e4, _|_f5,
+_|_g6, attack _|_e5, _|_f6; reposition Bf3 to aim towards f5, i.e. place Bf3
+on _|_d5 or. _|_e4, ->Nf6 /\Bd5.  CM: 21. Rf4 /\Rf6, 21.Rd6 /\Qf6. GM: 21.Rd6!
+Weiß: SF: e4, RF: f5: (Die weißen Figuren (Qb2, Rd4) sind in Richtung f5
+beweglich. FF: schwarzfeldrig: (Man beachte; _|_e5,_|_f6 sind schwach). ->Pe7,
+->Pd6. Ziele: _|_e4, _|_f5, _|_g6 besetzen, _|_e5, _|_f6 angreifen; Bf3 in
+Richtung f5 umzustellen, also Bf3 auf _|_d5 bzw. _|_e4 zu platzieren, ->Nf6 /
+\Bd5. KZ: 21. Rf4 /\Rf6, 21.Rd6 /\Qf6. GZ: 21.Rd6!} 21. Rxd6 $1 {21.Rxd6 is
+the strongest continuation, in that it removes the e7-pawn; the squares f6, g7
+are weakened and with them the e5-area. 21.Rxd6 ist die stärkste Fortsetzung.
+Dadurch wird der Pe7 entfernt; die Felder f6, g7 und damit der e5-Raum werden
+geschwächt.} (21. Rf4 Kg7) 21... exd6 22. Qxf6 {[%cal Ya2d5,Yg2d5,Ye4f5,Gg7e5,
+Gc7e5] Be aware: _|_f6, _|_g7 are under the control of White. Man beachte:
+_|_f6, _|_g7 sind unter weißer Kontrolle.} Rf8 (22... Rd7 23. Bd5 {/\Qg6}) 23.
+Rxd6 {[%cal Gg7e5,Gc7e5,Ya2d5,Yg2d5,Ye4f5] The e5-area is now wrecked.  Der
+e5-Raum ist nun zerstört.} Qc5 24. Bd5 {[%cal Ya2d5,Yg2d5,Ye4f5]} Kh7 {[%cal
+Gh8e5,Yc2e4,Ye4f5] White: SQ: e4, DQ: f5, CQ: white squares, (Bd5), -> Pf7,
+Pg6, Ph5. 25.g4 -> Ph5, Pg6.  Be aware: Kh7 now becomes a point to be
+attacked!  Weiß: SF: e4, RF: f5, FF: weißfeldrig, (Bd5), -> Pf7, Pg6, Ph5. 25.
+g4 -> Ph5, Pg6. Man beachte: Kh7 wird nun zum Angriffsziel!} 25. g4 {This
+should challenge the Ph5, Pg6.  Dies soll die Ph5, Pg6 befragen.} Qa3 (25...
+hxg4 26. h5 {-> Pg6 -> Pg6} gxh5 {[%cal Yg2d5,Ye4g6]} 27. Qh6+ Kg8 28. Rg6#)
+26. gxh5 Qc1+ 27. Kh2 Qh6 28. Bxf7 Qg7 29. hxg6+ {[%cal Ya2d5,Ye4d5,Ye4f5,
+Yf5g6,Yg6h7,Gg7e5,Gc7e5] White has managed to achieve the goals of the
+e4-strategy playing in the direction of f5.  Es ist dem Weißen gelungen, die
+Ziele der e4-Strategie in Richtung f5 zu errreichen.} Kh8 30. Qg5 1-0
+
+[Event "?"]
+[Site "Los Angeles"]
+[Date "1933.??.??"]
+[Round "?"]
+[White "Capablanca, Jose Raul"]
+[Black "Steiner, Herman"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2nppp/2ppbn2/4p1B1/2B1P2N/2PP4/P1P2PPP/R2Q1RK1 w - - 0 11"]
+[PlyCount "29"]
+[EventDate "1933.??.??"]
+[EventType "game"]
+[EventCountry "USA"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4f5,Gg7e5,Gc7e5,Ye4d5,Ye6d7,Ye6f7] White: SQ: e4, DQ: f5, CQ: white
+squares. Pay close attention to:  1. Bc4, Nh4, Bg5 -> Nf6; 2. weak squares on
+f6, g7. -> Nf6, Be6.  CM: 11.Bxf6, 12.Be6; 11.Be6, 12.Bf6.  GM: 11.Bf6  Weiß:
+SF: e4, RF: f5, FF: weißfeldrig. Man beachte: 1. Bc4, Nh4, Bg5 -> Nf6; 2.
+Felderschwächen auf f6, g7. -> Nf6, Be6. KZ: 11.Bxf6, 12.Be6; 11.Be6, 12.Bf6.
+GZ: 11.Bf6} 11. Bxf6 $1 {This should challenge the Pg7and weaken the squares
+f6, g7. Dies soll den Pg7 befragen, die Felder f6, g7 schwächen.} (11. Bxe6 $6
+fxe6 12. Bxf6 Rxf6 $11) 11... gxf6 12. Bxe6 {This definitively weakens the
+white squares in the e5-area, and makes possible Qg4.  Dies schwächt die
+weißen Felder im e5-Raum endgültig, Qg4 wird ermöglicht.} fxe6 13. Qg4+ Kf7 {
+[%cal Yc2e4,Ye4f5,Gg7e5] White: SQ: e4, DQ: f5, CQ: black squares. Pay close
+attention to the weak squares on f6, g7.  White should be trying to seize the
+initiative on the black squares and to challenge those black pieces which are
+defending the black squares. ->Pe5, ->Pf6. CM: 14.d4, 14.f4. GM:14.f4 is
+clearly better. /\fe5, /\f5 Weiß: SF: e4, RF: f5, FF: schwarzfeldrig: Man
+beachte: die Felderschwächen auf f6, g7. Weiß soll bestrebt sein, eine
+schwarzfeldrige Initiative zu ergreifen, die schwarzen Steine zu befragen, die
+die schwarzen Felder verteidigen. ->Pe5, ->Pf6. KZ: 14.d4, 14.f4. GZ:14.f4 ist
+klar besser. /\fe5, /\f5} (13... Kh8 14. Qxe6 $16) 14. f4 $1 $36 {[%cal Gh8e5,
+Gb8e5,Yc2f5]} Rg8 (14... exf4 $142 15. Qxf4 Ng6 16. Qh6 {[%cal Gg7e5,Gc7e5]}
+Rh8 17. Rf2 Qe7 18. Raf1) 15. Qh5+ Kg7 {[%cal Gg7e5,Yc2e4,Ye4f5] White: SQ: e4,
+DQ: f5, CQ: black squares. ->Pe5, Pf6. CM: 16.fxe5. Weiß: SF: e4, RF: f5, FF:
+schwarzfeldrig. ->Pe5, Pf6. KZ: 16.fxe5.} (15... Ng6 16. f5) 16. fxe5 $1 dxe5 {
+[%cal Yc2e4,Ye4f5,Gg7e5] White: SQ: e4, DQ: f5, CQ: black squares. ->Pf6. CM:
+17.Rf6 Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->Pf6. KZ: 17.Rf6} 17. Rxf6 $3
+$18 Kxf6 18. Rf1+ Nf5 (18... Kg7 19. Rf7+ Kh8 20. Qxh7# {[%cal Yd3e4,Ye4f5,
+Yf5g6,Yg6h7,Yc2e4]}) 19. Nxf5 $1 (19. exf5 Ke7 20. Qxh7+ Kd6 21. fxe6 $16)
+19... exf5 20. Rxf5+ Ke7 21. Qf7+ Kd6 22. Rf6+ Kc5 23. Qxb7 $1 $18 (23. Qc4+
+Kb6 24. Qb4+ $11) 23... Qb6 24. Rxc6+ $1 {Motif: diversion.  Motiv: Ablenkung}
+Qxc6 25. Qb4# 1-0
+
+[Event "Ujpest"]
+[Site "Ujpest"]
+[Date "1934.??.??"]
+[Round "?"]
+[White "Frydman, Paulino"]
+[Black "Vidmar, Milan Sr"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2rq1rk1/3bbppp/p3pn2/1p1pN3/2nP1B2/P1NBP2Q/1P3PPP/2R2RK1 w - - 0 15"]
+[PlyCount "9"]
+[EventDate "1934.??.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "HUN"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Yd4c5,Gf7d5,Gd5c4] White: SQ: d4, DQ: e5, CQ: white squares
+-> _|_d5, ->_|_e6, ->_|_f7. ->Pd5, ->Pe6, ->Pf7, ->Bd7, ->Nf6:  CM: 15.Nd7, 15.
+Nd5, 15.Bh7. GM: 15.Nd5  Weiß: SF: d4, RF: e5, FF: weißfeldrig -> _|_d5,
+->_|_e6, ->_|_f7. ->Pd5, ->Pe6, ->Pf7, ->Bd7, ->Nf6: KZ: 15.Nd7, 15.Nd5, 15.
+Bh7. GZ: 15.Nd5} 15. Nxd5 $1 {A strong move which tangles up in the game the
+opponent's pieces which are defending the squares d5,e6,h7. Ein starker Zug:
+dadurch werden die feindlichen Steine ins Spiel verwickelt, die die Felder d5,
+e6,h7 verteidigen.} (15. Nxd7 Qxd7 $11) (15. Bxh7+ $2 Nxh7) 15... g6 {[%cal
+Yb2d4,Yd4e5,Ye5f6,Gg8e6] This defends the white squares, but weakens the black
+ones. Dies verteidigt die weißen, schwächt aber die schwarzen Felder.} (15...
+h6 {This defends the h7-square, and enables a challenge to be made on the
+black squares. White: SQ: d4, DQ: e5, CQ: black squares (!). Pay close
+attention: h6 enables Bxh6 and the resulting weakness on the squares f6, g7 ->
+_|_f6, ->_|_g7; ->Pg7, ->Ph6, ->Be7: CM: 16.Ne7 /\Bh6, 16.Bh6. Dies verteidigt
+das Feld h7, ermöglicht die Befragung der schwarzen Felder. Weiß: SF: d4, RF:
+e5, FF: schwarzfeldrig (!), Man beachte, h6 ermöglicht Bxh6 und dadurch die
+Felderschwäche auf den Feldern f6, g7 -> _|_f6, ->_|_g7; ->Pg7, ->Ph6, ->Be7:
+KZ: 16.Ne7 /\Bh6, 16.Bh6.} 16. Nxe7+ {The strongest continuation. Die stärkste
+Fortsetzung} (16. Nxf6+ Bxf6 17. Bxh6 $18) 16... Qxe7 17. Bxh6 gxh6 18. Qxh6 {
+/\Ng4 /\Ng4}) (15... exd5 $2 16. Nxd7 Qxd7 17. Bxh7+ Kh8 18. Bf5+) {White: SQ:
+d4, DQ: e5, CQ: black squares -> _|_f6, ->_|_g7. ->Be7, ->Nc4.  CM: 16.Be7, 17.
+Bc4 /\Bg5. GM: 16.Ne7 followed by Nc4. Weiß: SF: d4, RF: e5, FF:
+schwarzfeldrig -> _|_f6, ->_|_g7. ->Be7, ->Nc4. KZ: 16.Be7, 17.Bc4 /\Bg5. GZ:
+16.Ne7gefolgt von Nc4} 16. Nxe7+ Qxe7 17. Bxc4 Rxc4 (17... Nh5 18. Bb3) (17...
+bxc4 18. Bg5) 18. Rxc4 bxc4 19. Bg5 {[%cal Yb2d4,Yd4e5,Ye5f6]} 1-0
+
+[Event "Nottingham"]
+[Site "Nottingham"]
+[Date "1936.??.??"]
+[Round "?"]
+[White "Botvinnik, Mikhail"]
+[Black "Vidmar, Milan Sr"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2q1rk1/pp2bppp/4pn2/3nN1B1/3P4/1B5Q/PP3PPP/3R1RK1 w - - 0 17"]
+[PlyCount "15"]
+[EventDate "1936.08.10"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "ENG"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd4c5,Yd4e5,Gf7d5,Gb7d5,Ye5f6] White: SQ: d4, DQ: e5, CQ: white squares
+-> _|_d5, ->_|_e6, ->_|_f7; ->Nd5, ->Pe6, ->Pf7, ->Nf6: CM: 17.f4 /\f5, 17.Re1
+-> Pe6. GM: 17.f4  Weiß: SF: d4, RF: e5, FF: weißfeldrig -> _|_d5, ->_|_e6,
+->_|_f7; ->Nd5, ->Pe6, ->Pf7, ->Nf6: KZ: 17.f4 /\f5, 17.Re1 -> Pe6. GZ: 17.f4} 
+17. f4 {/\f5} (17. Rfe1 Qd6) 17... Rc8 {White: SQ: d4, DQ: e5, CQ: white
+squares -> _|_d5, ->_|_e6, ->_|_f7. ->Nd5, ->Pe6, ->Pf7, ->Nf6: 18.f5 -> Pe6 
+Weiß: SF: d4, RF: e5, FF: weißfeldrig -> _|_d5, ->_|_e6, ->_|_f7. ->Nd5, ->Pe6,
+->Pf7, ->Nf6: 18.f5 -> Pe6} 18. f5 exf5 (18... Ne4 {[%cal Yb2d4,Yd4e5,Ye5f6]
+Take note: the Ne4 is posted outside of the d5-area -> Ne4, 19.Be7 /\Rde1 Man
+beachte: der Ne4 ist außerhalb des d5-Raums platziert -> Ne4, 19.Be7 /\Rde1}
+19. Bxe7 Qxe7 20. Rde1 (20. Rfe1 Nef6 21. fxe6 fxe6 22. Nf3 $16) 20... Nef6 (
+20... Nd2 21. fxe6 fxe6 22. Ng6 hxg6 23. Bxd5 exd5 24. Qxc8 Rxc8 25. Rxe7) 21.
+fxe6 Qxe6 (21... fxe6 22. Nd3) 22. Qxe6 fxe6 23. Nd3 $16) (18... Qd6 19. fxe6
+Qxe6 {White: SQ: d4, DQ: e5, CQ: white squares -> _|_d5, ->_|_e6, ->_|_f7;
+->Nd5, ->Pf7, ->Nf6:  CM: 20.Rf5, 20.Qf3. GM: 20.Rf5 ->_|_d5, ->Nf6 Weiß: SF:
+d4, RF: e5, FF: weißfeldrig -> _|_d5, ->_|_e6, ->_|_f7; ->Nd5, ->Pf7, ->Nf6:
+KZ: 20.Rf5, 20.Qf3. GZ: 20.Rf5 ->_|_d5, ->Nf6} 20. Rf5 $1 {-> Nd5, /\Bf6, z.B.
+-> Nd5, /\Bf6, z.B.} g6 21. Rf3 Qxh3 22. Rxh3 $16 {/\Rf3}) 19. Rxf5 {[%cal
+Gf7d5,Yb2d4,Yd4e5] better than 19.Qf5. Pay attention to: Rf5 -> Nf6, ->_|_d5 
+besser als 19.Qf5. Man beachte: Rf5 -> Nf6, ->_|_d5} Qd6 $2 {This weakens the
+Rc8. White: SQ: d4, DQ: e5, CQ: white squares -> _|_d5, ->_|_e6, ->_|_f7.
+->Nd5, ->Pf7, ->Nf6:  CM: 20.Nf7, 20.Bf6 Dies schwächt Rc8. Weiß: SF: d4, RF:
+e5, FF: weißfeldrig -> _|_d5, ->_|_e6, ->_|_f7. ->Nd5, ->Pf7, ->Nf6: KZ: 20.
+Nf7, 20.Bf6} (19... Rc7 {White: SQ: d4, DQ: e5, CQ: white squares -> _|_d5,
+->_|_e6, ->_|_f7. ->Nd5, ->Pf7, ->Nf6:  CM: 20.g4 /\g5, 20.Ng4. GM: 21.g4 Weiß:
+SF: d4, RF: e5, FF: weißfeldrig -> _|_d5, ->_|_e6, ->_|_f7. ->Nd5, ->Pf7,
+->Nf6: KZ: 20.g4 /\g5, 20.Ng4. GZ: 21.g4} 20. g4 (20. Ng4 Rc6) 20... Qd6 21.
+Bxf6 Nxf6 (21... Bxf6 22. Nxf7 $18) 22. g5) 20. Nxf7 $1 (20. Bxf6 Bxf6 21. Nxf7
+) 20... Rxf7 21. Bxf6 Bxf6 22. Rxd5 Qc6 23. Rd6 Qe8 24. Rd7 1-0
+
+[Event "Belgrad"]
+[Site "?"]
+[Date "1946.??.??"]
+[Round "?"]
+[White "Gligoric, Svetozar"]
+[Black "Bidev, Pavle"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "1nqr1rk1/1bp2p1p/p4bp1/1p1P1NN1/n7/7P/PPBB1PP1/R2QR1K1 w - - 0 1"]
+[PlyCount "11"]
+[EventDate "1946.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yc2e4,Ye4f5,Gg7e5,Ye4d5,Gc7e5] White: SQ: e4, DQ: f5, CQ: white squares.
+(Watch out for: Bc2, Ng5, Qd1, Nf5-discovery, but also the weak squares on h7,
+g6) -> _|_g6, ->_|_h7; ->Ph7, ->Pg6, ->Pf7. 1.Nh7; 1.Nh6  Weiß: SF: e4, RF: f5,
+FF: weißfeldrig. (Man beachte: Bc2, Ng5, Qd1, Nf5-Abzug, aber auch die
+Felderschwächen auf h7, g6) -> _|_g6, ->_|_h7; ->Ph7, ->Pg6, ->Pf7. 1.Nh7; 1.
+Nh6} 1. Nxh7 {The strongest move: it weakens the white squares and, among
+other things, enables Qh5. Der stärkste Zug, der die weißen Felder schwächt
+und u.a. Qh5 ermöglicht.} (1. Nh6+ Kg7 2. Ng4 Nxb2 (2... Bxb2 3. Bxa4) 3. Qf3
+$18) 1... Kxh7 2. Ne7 {In order to open up the way for the Bc2, and to enable
+Qh5. Um den Bc2 zu öffnen, Qh5 zu ermöglichen.} Bxe7 3. Qh5+ Kg8 {[%cal Yc2e4,
+Ye4f5,Yf5g6,Gg7e5]} (3... Kg7 4. Qh6+) 4. Bxg6 fxg6 5. Qxg6+ Kh8 6. Rxe7 $18
+1-0
+
+[Event "Moscow-Prague"]
+[Site "Moscow"]
+[Date "1946.??.??"]
+[Round "6"]
+[White "Zita, Frantisek"]
+[Black "Bronstein, David I"]
+[Result "0-1"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1b1r1k1/1p3pbp/1qpp2p1/2n5/2PNP1n1/1PN3PP/3Q1PB1/BR2R1K1 b - - 0 17"]
+[PlyCount "27"]
+[EventDate "1946.??.??"]
+[EventType "schev"]
+[EventRounds "6"]
+[EventCountry "URS"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yg7e5,Gg2e4,Gc2e4,Ye3f2,Ye3d2,Ye5d4] Black: SQ: e5; DQ: d4, CQ: black
+squares. Pay close attention to:  1.the weak squares on c3,d2,e3;  2. Ng4, Bg7,
+Qb6, Ra1 -> Ba1; ->Ba1, ->Pf2. CM: 17...Rxa1, 17..Nxf2. GM: 17...Rxa1  Schwarz:
+SF: e5; RF: d4, FF: schwarzfeldrig. Man beachte: 1. die Felderschwächen auf c3,
+d2,e3; 2. Ng4, Bg7, Qb6, Ra1 -> Ba1; ->Ba1, ->Pf2. KZ: 17...Rxa1, 17..Nxf2. GZ:
+17...Rxa1} 17... Rxa1 $3 {A strong move: it weakens the black squares in the
+e4-area and diverts the Rb1, ->Pb3. Ein starker Zug: Die schwarzen Felder im
+e4-Raum werden dadurch geschwächt, der Rb1 abgelenkt, ->Pb3.} (17... Nxf2 $2
+18. Na4 $1) 18. Rxa1 {[%cal Yg7e5,Ye5d4,Gg2e4,Gc2e4,Ye3d2,Ye3f2] Black: SQ: e5;
+DQ: d4, CQ: black squares. ->Pf2. CM: 18...Nxf2.  Schwarz: SF: e5; RF: d4, FF:
+schwarzfeldrig. ->Pf2. KZ: 18...Nxf2.} Nxf2 $1 {This definitively weakens the
+black squares in the e4-area. The tactical motif: pin on the g1-a7 diagonal.
+White's position now falls apart.  Dies schwächt die schwarzen Felder im
+e4-Raum endgültig. Das taktische Motiv: Fesselung auf der Diagonale g1-a7. Die
+weiße Stellung bricht nun zusammen.} 19. Re3 (19. Qxf2 Nd3 $19) (19. Kxf2 Nxb3
+$19) 19... Nxh3+ 20. Kh2 Nf2 $19 21. Rf3 (21. Bf3 Ncd3 22. Nc2 Bh6 $19) (21.
+Qxf2 Bxd4 22. Rf1 Be6 $19) 21... Ncxe4 22. Qf4 Ng4+ 23. Kh1 f5 24. Nxe4 Rxe4
+25. Qxd6 Rxd4 26. Qb8 Rd8 27. Ra8 Be5 28. Qa7 Qb4 29. Qa2 Qf8 30. Bh3 Qh6 0-1
+
+[Event "Saltsjobaden Interzonal"]
+[Site "Saltsjobaden"]
+[Date "1948.??.??"]
+[Round "9"]
+[White "Boleslavsky, Isaak"]
+[Black "Steiner, Lajos"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r3kb1r/1bqn1ppp/p3p2n/1p2P3/1P1N4/P1N2BQ1/1BP3PP/4RR1K w kq - 0 22"]
+[PlyCount "21"]
+[EventDate "1948.07.15"]
+[EventType "tourn"]
+[EventRounds "19"]
+[EventCountry "SWE"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Gf7d5,Gb7d5,Ye5f6] White: SQ: d4, DQ: e5: (White is active
+on the kingside.) CQ: white squares:  attack _|_e6,_|_f7, pay attention to:
+Nd4, Nc3, Bf3. ->Pe6, ->Pf7, ->Bb7.  Targets: attack _|_e6, _|_f7; ->Bb7,
+->Nh6 , ->Pe6, ->Pf7. KZ: 22.Bxb7 followed by 23.Bc1 /\Bxh6, in order to
+weaken the white squares.  Weiß: SF: d4, RF: e5: (Weiß ist am Königsflügel
+aktiv.) FF: weißfeldrig: _|_e6,_|_f7 anzugreifen, man beachte: Nd4, Nc3, Bf3.
+->Pe6, ->Pf7, ->Bb7. Ziele: _|_e6, _|_f7, anzugreifen; ->Bb7, ->Nh6 , ->Pe6,
+->Pf7. KZ: 22.Bxb7 gefolgt von 23.Bc1 /\Bxh6, um die weißen Felder zu
+schwächen.} 22. Bxb7 {This is intended to weaken the white squares in the
+d5-area.  Dies soll die weißen Felder im d5-Raum schwächen.} Qxb7 {[%cal Gf7d5,
+Gd5c4,Yb2e5,Ye5f6]} 23. Bc1 $1 {/\Bh6} g6 24. Bxh6 {This aims to further
+weaken the white squares in the d5-area and the squares f7, e6.  Dies soll die
+weißen Felder im d5-Raum und die Felder f7, e6 weiter schwächen.} Bxh6 {
+[%cal Gf7d5,Yd4e5,Yb2d4,Ye5f6] White: SQ: d4, DQ: e5: CQ: white squares:
+attack _|_e6,_|_f7 . ->Pe6,->Pf7.  Take into account: 1. Nc3, Nd4;  2. the
+weak squares on e6, f7.  Aims: attack _|_e6, _|_f7;Note also: Bh6 is posted
+outside of the d5-area. CM: 25.Qh3 ->Bh6, ->Pe6  Weiß: SF: d4, RF: e5: FF:
+weißfeldrig: _|_e6,_|_f7 anzugreifen. ->Pe6,->Pf7. Man beachte: 1. Nc3, Nd4; 2.
+Die Felderschwächen auf e6, f7. Ziele: _|_e6, _|_f7, anzugreifen; Man beachte
+auch: Bh6 ist außerhalb des d5-Raums platziert. KZ: 25.Qh3 ->Bh6, ->Pe6} 25.
+Qh3 $1 {[%cal Gf7d5,Yd4e5,Yb2d4] -> Pe6 (gaining a tempo ->Bh6).  -> Pe6 (mit
+Tempogewinn ->Bh6).} Bg5 {[%cal Gf7d5,Yb2e5,Ye5f6] White: SQ: d4,DQ: e5: CQ:
+white squares: attack _|_e6,_|_f7. ->Pe6,->Pf7.  CM: 26.Ne6; 26.Ne4 /\Nd6 ->
+Pf7; 28.Rf7. GM: 28.Ne4. Weiß: SF: d4, RF: e5: FF: weißfeldrig: _|_e6,_|_f7
+anzugreifen. ->Pe6,->Pf7. KZ: 26.Ne6; 26.Ne4 /\Nd6 -> Pf7; 28.Rf7. GZ: 28.Ne4.}
+(25... Bg7 26. Rxf7 $1 Kxf7 27. Qxe6+ Kf8 28. Rf1+) 26. Ne4 $18 {This
+stregthens White's light-squared initiative without any risk. Dies verstärkt
+die weißfeldrige Initiative des Weißen ohne jedes Risiko.} (26. Rxf7 $5 Kxf7
+27. Rf1+ Kg7 28. Nxe6+ Kg8 29. Nxg5 $16) (26. Nxe6 $1 fxe6 27. Qxe6+ Kd8 28.
+Rd1 Re8 29. Qg4 $18) 26... Be7 {[%cal Gf7d5,Gd5c4,Yb2d4,Yd4e5] White: SQ: d4,
+DQ: e5: CQ: white squares: attack _|_e6,_|_f7. ->Pe6,->Pf7. CM: 27.Ne6, 27.Rf7,
+27.Qf3. 27.Ne6; GM: 27.Rf7  Weiß: SF: d4, RF: e5: FF: weißfeldrig: _|_e6,_|_f7
+anzugreifen. ->Pe6,->Pf7. KZ: 27.Ne6, 27.Rf7, 27.Qf3. 27.Ne6; GZ: 27.Rf7} 27.
+Rxf7 $1 {This is more elegant and stronger than 27.Nxe6, since the Ke8 comes
+under direct attack. Dies ist schöner und stärker als 27.Nxe6, da der Ke8
+direkt angegriffen wird.} (27. Qf3 {->Pf7} O-O-O (27... O-O 28. Nf6+) 28. Qc3+
+$18) (27. Nxe6 {This wins, e.g. Dies gewinnt, z.B.} fxe6 28. Qxe6 Kd8 (28...
+O-O-O 29. Qxe7) 29. Rf7 Re8 30. Rd1 Ra7 31. Nd6 Bxd6 32. Qxd6 Qc7 33. Rxd7+
+Qxd7 34. Qb6+ Kc8 35. Rxd7 Rxd7 36. Qxa6+ Kc7 37. Qa7+ Kc8 38. Qc5+ $18 {
+... ...}) 27... Qd5 {[%cal Yd4c5,Yd4e5,Gb7d5,Gf7d5,Yd6c7,Yd6e7]} (27... Kxf7
+28. Qxe6+ Kf8 29. Rf1+ $18) (27... O-O-O 28. Rxe7) 28. Rxe7+ $1 {Allows the
+Qh3 to come into the game.  Erlaubt die Dame h3 ins Spiel einzuschalten.} Kxe7
+29. Qh4+ Kf7 30. Nd6+ (30. Rf1+ {Mate in 6 Matt in 6}) 30... Kg7 {[%cal Gf7d5,
+Gd5c4,Yb2d4,Yd4e5,Ye5f6]} 31. Qe7+ Kh6 32. Re3 1-0
+
+[Event "Riga"]
+[Site "Riga"]
+[Date "1955.??.??"]
+[Round "?"]
+[White "Neistadt, Yakov"]
+[Black "Gipslis, Aivars"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1b1qr1k/1pp3pp/p3p3/n1b1PpN1/5N1P/6B1/PPP1QPP1/2KR3R w - - 0 16"]
+[PlyCount "13"]
+[EventDate "1955.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd4e5,Ye5f6,Gf7d5] White: SQ: d4, DQ: e5, CQ: white squares; ->_|_e6,
+->_|_f7; ->Ph7, ->Qe8, ->Pe6.  CM: 18.Rd8 ->Qe8, 18.h5 /\Ng6; GM: 18.Rd8  Weiß:
+SF: d4, RF: e5, FF: weißfeldrig; ->_|_e6, ->_|_f7; ->Ph7, ->Qe8, ->Pe6. KZ: 18.
+Rd8 ->Qe8, 18.h5 /\Ng6; GZ: 18.Rd8} 16. Rd8 $3 {This is intended to divert the
+Qe8 and allow, Qh5. Dies soll die Qe8 ablenken, Qh5 ermöglichen.} (16. h5 Kg8
+$1) 16... Qxd8 17. Qh5 $18 {[%cal Gf7d5]} h6 {This weakens the white squares. 
+Dies schwächt die weißen Felder.} 18. Qg6 {The key move! Der Schlüsselzug!}
+hxg5 19. hxg5+ Kg8 20. Qh5 {/\g6 /\g6} (20. Rh7 $18) 20... Nc4 21. Kb1 Na3+ 22.
+bxa3 1-0
+
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1958.??.??"]
+[Round "6"]
+[White "Fischer, Robert James"]
+[Black "Reshevsky, Samuel Herman"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1bq1rk1/pp1pppbp/5np1/n7/3NP3/1BN1B3/PPP2PPP/R2QK2R w KQ - 0 9"]
+[PlyCount "9"]
+[EventDate "1958.12.??"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4d5,Ye4f5,Yf5g6,Gg7e5,Gc7e5,Ye6d7,Ye6f7] White: SQ: e4, DQ: f5, CQ:
+white squares. Pay close attention to: Nc3, Nd4, Bb3, Qd1. ->Nf6, ->Pd7, ->Pf7.
+CM: 9.e5  Weiß: SF: e4, RF: f5, FF: weißfeldrig. Man beachte: Nc3, Nd4, Bb3,
+Qd1. ->Nf6, ->Pd7, ->Pf7. KZ: 9.e5} 9. e5 $1 {[%cal Gb8e5,Gh8e5]} Ne8 $2 {
+[%cal Gc7e5,Gg7e5,Ye6f7,Yd4e5,Yf4e5,Ye6d7] White: SQ: d4, DQ: e5; CQ: white
+squares. Pay close attention to:  1. Bb3, Nd4, Nc3, Qd1;  2. The weak squares
+on e6, f7. ->Pf7, ->Pd7. CM: 10.Bxf7+ Weiß: SF: d4, RF: e5; FF: weißfeldrig.
+Man beachte: 1. Bb3, Nd4, Nc3, Qd1; 2. Die Felderschwächen auf e6, f7. ->Pf7,
+->Pd7. KZ: 10.Bxf7+} (9... Nxb3 $142 10. exf6 Nxa1 11. fxg7 Nxc2+ 12. Nxc2 Kxg7
+13. Qd2 $16) 10. Bxf7+ $1 Kxf7 (10... Rxf7 11. Ne6) 11. Ne6 $1 {The key move,
+which constitutes the main motif of the whole combination. White has managed
+to exploit the white squared weaknesses in the e5-area.  Der Schlüsselzug, der
+das Hauptmotiv der ganzen Kombi darstellt. Es ist dem Weißen gelungen die
+weißfeldrigen Schwächen im e5-Raum auszunutzen.} dxe6 (11... Kxe6 12. Qd5+ Kf5
+13. f4 $18) 12. Qxd8 Nc6 13. Qd2 $18 {1-0 (42)} 1-0
+
+[Event "Candidates Tournament"]
+[Site "Bled/Zagreb/Belgrade"]
+[Date "1959.09.18"]
+[Round "8"]
+[White "Tal, Mihail"]
+[Black "Smyslov, Vassily"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1b2rk1/p2nbppp/2pN1n2/qp4B1/2BQ4/5N2/PPP2PPP/2KR3R w - - 0 12"]
+[PlyCount "29"]
+[EventDate "1959.09.07"]
+[EventType "tourn"]
+[EventRounds "28"]
+[EventCountry "CRO"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Gf7d5,Yd4e5,Yd6e7,Gb7d5,Yd4c5,Yd6c7] White: SQ: d4, DQ: e5, CQ: black
+squares. Pay close attention to: the weak squares on d6, e7, g7.  Goal setting:
+occupy f6, g7. -> Pg7, ->Be7. Plan: Nf5, Bd2-c3, Qh4-g5.  CM: 12.Bd2, 12.Nf5.
+GM: 12.Bd2  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. Man beachte: Die
+Felderschwächen auf d6, e7, g7. Zielsetzung: die Felder f6, g7 zu besetzen. ->
+Pg7, ->Be7. Plan: Nf5, Bd2-c3, Qh4-g5. KZ: 12.Bd2, 12.Nf5. GZ: 12.Bd2} 12. Bd2
+$5 {/\Bc3; clears _|_g5 for the Qd4 /\Bc3; räumt _|_g5 für die Qd4} (12. Bb3 c5
+$5) (12. Nf5 $2 Bc5) 12... Qa6 {[%cal Yd4e5,Ge6d5,Yd6e7]} (12... Qb6 13. Nf5
+Bc5 14. Qh4 bxc4 15. Bc3) {White: SQ: d4, DQ: e5, CQ: black squares. -> _|_f6,
+_|_g7, -> Pg7. CM: 13.Nf5  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. -> _|_f6,
+_|_g7, -> Pg7. KZ: 13.Nf5} 13. Nf5 $1 {-> Pg7, ->Be7 -> Pg7, ->Be7} Bd8 {
+[%cal Yb2d4,Yd4e5,Gf7d5,Yd6e7]} (13... Bc5 14. Qf4 $1 bxc4 15. Bc3 $40 Qxa2 16.
+Nxg7) {White: SQ: d4, DQ: e5, CQ: black squares. -> Pg7. CM: 14.Bc3, 14.Qh4.
+GM: 14. Qh4. Watch out: Bc4 exerts no influence on the squares f6, g7.  Weiß:
+SF: d4, RF: e5, FF: schwarzfeldrig. -> Pg7. KZ: 14.Bc3, 14.Qh4. GZ: 14. Qh4.
+Man beachte: Bc4 wirkt nicht auf die Felder f6, g7.} 14. Qh4 {/\Qg5. White is
+sacrificing the Bc4, which in any case cannot play a role in the attack on the
+black squares. /\Qg5. Weiß opfert damit Bc4, der kann allerdings keine Rolle
+im Angriff auf die schwarzen Felder spielen.} (14. Bc3 $2 bxc4) 14... bxc4 {
+White: SQ: d4, DQ: e5, CQ: black squares. -> Pg7. CM: 15.Bc3; 15.Qg5; GM: 15.
+Qg5  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. -> Pg7. KZ: 15.Bc3; 15.Qg5; GZ:
+15.Qg5} 15. Qg5 {[%cal Yb2d4,Yd4e5,Gf7d5,Gd5c4] -> Pg7. This is the position
+White was obviously aiming at,. -> Pg7. Die Stellung, die Weiß offenbar
+angestrebt hatte.} (15. Bc3 $2 Qxa2 16. Qg5 Qa1+ 17. Kd2 Ne4+) 15... Nh5 (15...
+g6 {Pay attention: this weakens the black squares g7, f6. Man beachte: dies
+schwächt die schwarzen Felder g7,f6.} 16. Nh6+ Kg7 (16... Kh8 17. Bc3) 17. Bc3
+(17. Nf5+ Kg8 18. Nh6+ $11) 17... Re8 {White: SQ: d4, DQ: e5, CQ: black
+squares. -> Pg7, ->Nd7, ->Bd8. 18.Nf5, 18.Rae1 /\Nf5 Weiß: SF: d4, RF: e5, FF:
+schwarzfeldrig. -> Pg7, ->Nd7, ->Bd8. 18.Nf5, 18.Rae1 /\Nf5} (17... Qxa2 18.
+Nh4 (18. Nf5+ Kg8 19. Nh6+ Kg7 $11) 18... Re8 19. Rhe1 Re6 (19... Rxe1 20. Rxe1
+Kf8 21. Qe3 {/\N6f5 /\N6f5}) 20. Ng4 Qa1+ 21. Kd2 Qa6 22. Qh6+ Kg8 23. Rxe6
+fxe6 24. Nxg6 hxg6 (24... Ne4+ 25. Ke2 Nxc3+ 26. bxc3 hxg6 27. Qxg6+ $16) 25.
+Qxg6+ Kf8 26. Nxf6 Bxf6 27. Bxf6 Qa5+ 28. Ke2 $16) (17... Qb5 18. h4 (18. Qh4
+Qh5) 18... Ba5 (18... Qxg5+ 19. hxg5 $16) 19. Bxa5 Ne4 20. Nd4 Qa4 21. Bc3 $18)
+18. Nf5+ (18. Rhe1 $5 Rxe1 19. Nf5+ Kg8 20. Rxe1 Qxa2 21. Qh6 gxf5 22. Qg5+ Kf8
+23. Qh6+ Kg8 $11) 18... Kg8 19. Qh6 (19. Rhe1 $5) 19... gxf5 {White: SQ: d4,
+DQ: e5, CQ: black squares. -> Nd7. 20.Rxd7 Weiß: SF: d4, RF: e5, FF:
+schwarzfeldrig. -> Nd7. 20.Rxd7} 20. Rxd7 Bxd7 21. Qg5+ (21. Ng5 Re6 22. Bxf6
+Rxf6 23. Qxh7+ Kf8 24. Qh8+ Ke7 25. Nh7 Kd6) (21. Rd1 Re2 22. Qg5+ Kf8) 21...
+Kh8 (21... Kf8 22. Qh6+ Kg8) 22. Rd1 $40 Qb7 23. Qh6 Kg8 24. Ng5 Re6 25. Bxf6
+Rxf6 26. Qxh7+ Kf8 27. Qh8+ Ke7 28. Nh7) (15... Ne8 16. Qxd8 Qxa2 17. Qa5 $14)
+{White: SQ: d4, DQ: e5, CQ: black squares. -> Pg7, ->Nd7, ->Nh5. CM: 16.Nh6+
+followed by Qxh5; 16.Qxh5 GM: 16.Nh6+.  Be careful: it is not good idea to
+exchange the Bc8. Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. -> Pg7, ->Nd7,
+->Nh5. KZ: 16.Nh6+ gefolgt von Qxh5; 16.Qxh5 GZ: 16.Nh6+. Man beachte: es
+machte wenig Sinn den Bc8 abzutauschen.} 16. Nh6+ (16. Qxh5 Nf6 17. Qg5 Bxf5)
+16... Kh8 {White: SQ: d4, DQ: e5, CQ: colour question. -> Pg7, ->Nd7, ->Nh5.
+17.Qxh5  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. -> Pg7, ->Nd7, ->Nh5. 17.
+Qxh5} 17. Qxh5 {Of course, the Nh5 is defending the black squares.  Klar, der
+Nh5 verteidigt die schwarzen Felder.} Qxa2 {/\Qa1#} (17... Bf6 18. Nxf7+ Kg8
+19. N7g5 h6 20. Ne4) {White: SQ: d4, DQ: e5, CQ: black squares. -> Pg7, ->Nd7.
+CM: 18.Bc3  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. -> Pg7, ->Nd7. KZ: 18.Bc3
+} 18. Bc3 {[%cal Yb2d4,Yd4e5,Gf7d5,Gd5c4]} Nf6 $2 {This weakens the black
+squares. Note that the Nf6 is covering white squares, Bd8 is under attack.
+White: SQ: d4, DQ: e5, CQ: black squares. -> Pg7, ->Bd8, ->Rd8; CM: 19.Nxf7+,
+19.Qxf7!? (to divert Rf8). 19.Qe5. GM: 19.Qxf7 Dies schwächt die schwarzen
+Felder. Man beachte: der Nf6 wirkt weißfeldrig, Bd8 ist angegriffen. Weiß: SF:
+d4, RF: e5, FF: schwarzfeldrig. -> Pg7, ->Bd8, ->Rd8; KZ: 19.Nxf7+, 19.Qxf7!? 
+(Rf8 abzulenken). 19.Qe5. GZ: 19.Qxf7} (18... Bf6 $1 {[%cal Yb2d4,Yd4e5,Gf7d5]
+White: SQ: d4, DQ: e5, CQ: white squares. -> Pay attention to : 1. the weak
+squares on f7, h7; and  2. Nh6, Qh5. ->Pf7, ->Ph7.  CM: 19.Nxf7+, 19.Ng5. GM:
+19.Ng5 Weiß: SF: d4, RF: e5, FF: weißfeldrig. -> Man beachte: 1. Die
+Felderschwächen auf f7, h7; 2. Nh6, Qh5. ->Pf7, ->Ph7. KZ: 19.Nxf7+, 19.Ng5.
+GZ: 19.Ng5} 19. Ng5 (19. Nxf7+ Kg8 {White: SQ: d4, DQ: e5, CQ: white squares.
+->Ph7. 19.N3g5-> Ph7 Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->Ph7. 19.N3g5->
+Ph7} 20. N3g5 Qa1+ 21. Kd2 Bxc3+ 22. bxc3 Nf6 $17) 19... Bxg5+ 20. Qxg5 f6 {
+White: SQ: d4, DQ: e5, CQ: black squares. -> Pg7, ->Pf6, ->Nd7. 21.Qh4, 21.Qf4
+Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. -> Pg7, ->Pf6, ->Nd7. 21.Qh4, 21.Qf4}
+21. Qf4 Nb6 (21... gxh6 22. Rhe1 $18 {/\Qh6, /\Re7}) 22. Nf7+ Kg8 23. Nh6+ gxh6
+(23... Kh8 $11) 24. Qg3+ Kf7 25. Qh4 $44) 19. Qxf7 {-> Bd8; ->Rd8} Qa1+ (19...
+Rxf7 20. Rxd8+ $18) 20. Kd2 Rxf7 21. Nxf7+ Kg8 22. Rxa1 $18 Kxf7 23. Ne5+ Ke6
+24. Nxc6 Ne4+ 25. Ke3 Bb6+ 26. Bd4 1-0
+
+[Event "USA-ch"]
+[Site "New York"]
+[Date "1963.12.18"]
+[Round "3"]
+[White "Byrne, Robert E"]
+[Black "Fischer, Robert James"]
+[Result "0-1"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2qr1k1/p4pbp/bp3np1/3p4/8/BPNnP1P1/P1Q1NPBP/R2R2K1 b - - 0 15"]
+[PlyCount "13"]
+[EventDate "1963.12.15"]
+[EventType "tourn"]
+[EventRounds "11"]
+[EventCountry "USA"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb7d5,Yd5e4,Gf2d4,Gb2d4,Yd3c2,Yd3e2] Black: SQ: d5, DQ: e4, CQ: black
+squares. -> _|_e3, ->_|_f2; ->Pe3, ->Pf2, ->Ne2.  CM: 15...Nxf2; 15...Ng4.
+Since Nd3 is being attacked, only 15...Nxf2 comes into consideration.  Schwarz:
+SF: d5, RF: e4, FF: schwarzfeldrig. -> _|_e3, ->_|_f2; ->Pe3, ->Pf2, ->Ne2. KZ:
+15...Nxf2; 15...Ng4. Da Nd3 angegriffen ist, kommt nur 15...Nxf2 in Betracht.} 
+15... Nxf2 $1 {[%cal Gf2d4] This sacrificial manoeuvre (knight for two pawns)
+is intended not only to weaken the defence considerably, but also to
+strengthen Black's dark-squared intitiative.  Diese Opferaktion (Springer für
+zwei Bauern) soll die Verteidigung deutlich schwächen, aber auch die
+schwarzfeldrige Initiative des Schwarzen stärken.} 16. Kxf2 Ng4+ {[%cal Gf2d4]
+This commits all the black pieces to the attack on _|_d4, _|_e3, _|_f2 (Re8
+->Pe3; Ba6 ->Ne2, Bg7 -> _|_d4, Ng4 ->Pe3, ->_|_f2).  Damit sind alle
+schwarzen Figuren gegen _|_d4, _|_e3, _|_f2 (Re8 ->Pe3; Ba6 ->Ne2, Bg7 ->
+_|_d4, Ng4 ->Pe3, ->_|_f2) eingesetzt.} 17. Kg1 {[%cal Yd5e4,Gf2d4] Black: SQ:
+d5, DQ: e4, CQ: black squares. -> _|_e3, ->_|_f2; ->Pe3, ->Ne2. (For the
+moment all these pieces are being challenged). 17...Qg5, 17..Nxe3, 17...Rc8. 
+Schwarz: SF: d5, RF: e4, FF: schwarz. -> _|_e3, ->_|_f2; ->Pe3, ->Ne2. 
+(Momentan sind alle diese Steine befragt worden). 17...Qg5, 17..Nxe3, 17...Rc8.
+} Nxe3 {[%cal Gf2d4] Intended to finally break down the d4-area. Dies soll den
+d4-Raum endgültig brechen.} (17... Qg5 {->Pe3} 18. Nxd5 $1) (17... Rc8 {
+->Nc3 ->Ne2. /\Bxe2} 18. Qd2) 18. Qd2 $8 {[%cal Yd5e4,Gf2d4] Black: SQ: d5, DQ:
+e4, CQ: white squares -> Pay attention to the fact that there are no more
+points of attack on the g1-d4 diagonal. -> _|_f3, ->_|_g2; ->Bg2. 18...Nxg2 /
+\d4 followed by Bb7. Schwarz: SF: d5, RF: e4, FF: weißfeldrig -> Man beachte:
+auf der Diagonale g1-d4 gibt es keine Angriffsziele mehr. -> _|_f3, ->_|_g2;
+->Bg2. 18...Nxg2 /\d4 gefolgt von Bb7.} Nxg2 $1 (18... Nxd1 19. Rxd1 $10) 19.
+Kxg2 {[%cal Yb7d5,Yd5e4,Gf2d4]} d4 $1 {/\Bb7, Qd5.} 20. Nxd4 Bb7+ 21. Kf1 {
+Black: SQ: d5, DQ: e4, CQ: white squares -> _|_f3, ->_|_g2; CM: 21...Qd7 (21...
+Qc8) /\Qh3->_|_g2 Schwarz: SF: d5, RF: e4, FF: weißfeldrig -> _|_f3, ->_|_g2;
+KZ: 21...Qd7 (21...Qc8) /\Qh3->_|_g2} (21. Kg1 {[%cal Yb7d5,Yd5e4,Gf2d4,Gb2d4,
+Yd5c4] Black: SQ: d5, DQ: e4, CQ: black squares, -> _|_d4,->Nd4. Schwarz: SF:
+d5, RF: e4, FF: schwarzfeldrig, -> _|_d4,->Nd4.} Bxd4+ 22. Qxd4 Re1+ $1 23. Kf2
+Qxd4+ 24. Rxd4 Rxa1 $19) (21. Kf2 {Black: SQ: d5, DQ: e4, CQ: white squares ->
+_|_f3, ->_|_g2; CM: 21...Qd7 (21...Qc8) /\Qh3->_|_g2 Schwarz: SF: d5, RF: e4,
+FF: weißfeldrig -> _|_f3, ->_|_g2; KZ: 21...Qd7 (21...Qc8) /\Qh3->_|_g2} Qd7 $1
+(21... Qc8 22. Re1 Bxd4+ 23. Qxd4 Qh3 $19) 22. Rac1 Qh3 23. Nf3 Bh6 24. Qd3
+Be3+ 25. Qxe3 Rxe3 26. Kxe3 Re8+ 27. Kf2 Qf5 $1 $19) 21... Qd7 $1 (21... Qd7 $1
+22. Qf2 (22. Ndb5 Qh3+ 23. Kg1 Bh6 $19) 22... Qh3+ 23. Kg1 Re1+ $3 24. Rxe1
+Bxd4 $19) (21... Qc8) 0-1
+
+[Event "Candidats qf1"]
+[Site "Bled"]
+[Date "1965.??.??"]
+[Round "2"]
+[White "Tal, Mihail"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r3k2r/pp3ppp/1qp1pb2/3n4/3P2Q1/2PB3P/PP3PP1/R1B1R1K1 w kq - 0 15"]
+[PlyCount "25"]
+[EventDate "1965.??.??"]
+[EventType "match"]
+[EventRounds "8"]
+[EventCountry "YUG"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd4e5,Gf7d5,Yd6c7,Yd6e7,Yd4c5,Gb7d5] White: SQ: e4, DQ: f5, CQ: white
+squares. Pay close attention to: 1. Bc2, Qg4, Re1 -> Pe6)  and  2. the weak
+squares on e6, f7; Bf6, Nd5 are protecting the black squares; ->_|_d5, ->_|_e6,
+->_|_f7; ->Pe6, ->Pf7. 15.c4-> _|_d5; /\d5; /\Rxe6; 15.Qh5 ->Pf7.  Weiß: SF:
+e4, RF: f5, FF: weißfeldrig. (Man beachte: 1. Bc2, Qg4, Re1 -> Pe6) 2. Die
+Felderschwächen auf e6, f7; Bf6, Nd5 sichern die schwarzen Felder) ->_|_d5,
+->_|_e6, ->_|_f7; ->Pe6, ->Pf7. 15.c4-> _|_d5; /\d5; /\Rxe6; 15.Qh5 ->Pf7.} 15.
+c4 {An active continuation, but a very risky one. White attacks the d5-area,
+but palpably weakens the d4-area, i.e. there is no going back for him. Why at
+this particular moment? White has only a small advantage in development, and
+the black position is solid? The answer is "Tal". Eine aktive, aber auch
+risikoreiche Fortsetzung. Weiß greift den d5-Raum an, schwächt aber den
+d4-Raum erheblich, d.h. es gibt für ihn kein Zurück mehr. Warum ausgerechnet
+jetzt? Weiß verfügt nur über einen geringen Entwicklungsvorsprung, die
+schwarze Stellung ist jedoch stabil? Die Antwort ist "Tal".} (15. Qh5 g6 16.
+Qf3 Bg7) 15... Nb4 {Other moves are also possible, e.g. Die anderen
+Möglichkeiten sind auch gut möglich, z.B.} (15... Bxd4 16. cxd5 Bxf2+ 17. Kh1 (
+17. Kf1 Bxe1 18. Kxe1 $13) 17... Bxe1 18. dxe6 Bb4 19. Qxg7 (19. exf7+ Kf8 20.
+Bf4 $36) 19... O-O-O 20. exf7 Rhf8 21. Bf5+ Kb8 22. Bh6 $16 {/\Qf6}) (15... Ne7
+{!? "Tal"} 16. d5 (16. Be3 Qxb2 17. Rab1 Qc3 18. Be4 b6 19. Rec1 Qa3 20. c5)
+16... cxd5 17. cxd5 Nxd5 18. Qa4+ Kf8 19. Be4 Rd8 (19... Bd4 20. Re2) 20. Bxd5
+Rxd5 (20... exd5 21. Bd2 $14) 21. Be3 Qa5 22. Qb3 b6 23. Red1 (23. Rac1 g5)
+23... Rxd1+ 24. Rxd1 g5 25. Rd7 Rg8 26. Qc4 Bxb2 27. Qc7 Qf5 28. Qxa7 Kg7 29.
+Qxb6 Be5) {White: SQ: e4, DQ: f5, CQ: white squares. ->_|_d5, ->_|_e6, ->_|_f7;
+->Pe6, ->Pf7. 16. Rxe6; 16.Bf5 Weiß: SF: e4, RF: f5, FF: weißfeldrig. ->_|_d5,
+->_|_e6, ->_|_f7; ->Pe6, ->Pf7. 16. Rxe6; 16.Bf5} 16. Rxe6+ {definitively
+weakens the squares e6,f7! schwächt die Felder e6,f7 endgültig!} (16. Bf5 $2 {
+is harmless ist harmlos} O-O-O) 16... fxe6 17. Qxe6+ {Here Black has three
+apparently equally valid options 17..Kf8, 17...Kd8, 17...Be7.It is obviously
+difficult to distinguish the best from among three.  Schwarz verfügt hier über
+drei scheinbar gleichwertige Möglichkeiten, 17..Kf8, 17...Kd8, 17...Be7. Es
+ist offenbar schwierig zwischen drei relativ guten die beste herauszufinden.}
+Kf8 $6 {[%cal Yd4e5,Gf7e6,Ge6d5,Yd6e7] This continuation has the disadvantage
+that it allows White to hope that he can play Bf4-d6. Diese Fortsetzung hat
+den Nachteil, dass Weiß nun die klare Idee Bf4-d6 umsetzen möchte.} (17... Be7
+18. Bg6+ $1 {At first glance, this move does not appear possible. But it comes
+into consideration, because 18.Bg5 does not work at once. Ein auf den ersten
+Zug nicht nachvollziehbarer Zug. Dies kommt aber in Betracht, weil 18.Bg5
+gleich nicht geht.} (18. Bg5 Qc7 19. Re1 Nxd3 $17) 18... Kd8 (18... hxg6 $2 19.
+Bg5 Qc7 20. Re1 $18 Nd3 21. Qxg6+) 19. Bf5 Qxd4 (19... Qc7 20. Bf4) 20. Bf4 Re8
+21. Be5 Qd2 22. Bf4 Qd4 $11) (17... Kd8 18. Qd6+ Ke8 19. Qe6+ $11) 18. Bf4 {
+/\Bd6} Rd8 {[%cal Yd6e7,Yd4e5,Gf7e6,Ge6d5]} (18... Qd8 19. Re1 Be7 20. Bb1 Na6
+21. Re5 Nc7 22. Rf5+ Ke8 23. Qe5 $16) (18... Be7 19. Re1 Qd8 20. Bb1 {- 18...
+Qd8}) 19. c5 Nxd3 $8 20. cxb6 Nxf4 21. Qg4 Nd5 22. bxa7 $16 Ke7 23. b4 {
+White tries to support the Pa7. /\b5 followed by b6.  Weiß bemüht sich den Pa7
+zu stützen. /\b5 gefolgt von b6.} Ra8 24. Re1+ Kd6 25. b5 Rxa7 $2 (25... Rhd8
+26. b6 Nxb6 27. Qf4+ Kd7 28. Rb1 Rxa7 29. Rxb6 Kc8 $16) 26. Re6+ Kc7 27. Rxf6
+1-0
+
+[Event "Monte Carlo"]
+[Site "Monte Carlo"]
+[Date "1968.??.??"]
+[Round "7"]
+[White "Botvinnik, Mikhail"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "rn1qrbk1/1pR2ppp/2b5/p3p3/Q7/P2PBNP1/1P2PPBP/2R3K1 w - - 0 17"]
+[PlyCount "19"]
+[EventDate "1968.04.??"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "MNC"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4d5,Gg7e5,Gc7e5,Ye4f5,Ye6d7,Ye6f7] White: SQ: e4, DQ: d5. CQ: white
+squares.  Pay close attention to: 1. the discovery after Nf3, Rc7 -> Bf7, Rc1
+-> Bc6; ->Bc6, Pf7, Pb7, CM: 17.R1xc6; 17.R7xc6. GM: 17.R1xc6  Weiß: SF: e4,
+RF: d5. FF: weißfeldrig. Man beachte: 1. Abzug des Nf3, Rc7 -> Bf7, Rc1 -> Bc6;
+->Bc6, Pf7, Pb7, KZ: 17.R1xc6; 17.R7xc6. GZ: 17.R1xc6} 17. R1xc6 $1 {Note: the
+Rc7 is already in action against the Pf7 or the Pb7. Man beachte: der Rc7 ist
+schon gegen den Pf7 bzw. den Pb7 eingesetzt.} (17. R7xc6 Nxc6 $11) 17... bxc6 {
+[%cal Ye4d5,Ye4f5,Ye6d7,Ye6f7,Gg7e5,Gc7e5] White: SQ: e4, DQ: d5. CQ: white
+squares. -> Pf7. 18.Rf7. This must be investigated. Weiß: SF: e4, RF: d5. FF:
+weißfeldrig. -> Pf7. 18.Rf7. Dies muss überprüft werden.} (17... Nxc6 18. Rxb7)
+18. Rxf7 $3 {Examination proves, it works!. This definitively weakens the
+white squares in the e5-area (d7,e6,f7) and White can exploit this in what
+follows. See 18...Kxf7. Die Überprüfung zeigt, es geht!. Damit sind die weißen
+Felder im e5-Raum (d7,e6,f7) endgültig geschwächt, und Weiß kann dies in der
+Folge ausnutzen. Siehe 18...Kxf7.} (18. Rb7 $36) 18... h6 (18... Kxf7 19. Qc4+
+Kg6 20. Qe4+ Kf7 21. Ng5+ $18) (18... e4 19. Ng5 $1 h6 20. Qb3 Qd5 21. Qb7 hxg5
+22. Rxf8+ Rxf8 23. Bxe4 $18) 19. Rb7 $18 Qc8 20. Qc4+ Kh8 21. Nh4 Qxb7 22. Ng6+
+Kh7 23. Be4 Bd6 24. Nxe5+ g6 25. Bxg6+ Kg7 26. Bxh6+ 1-0
+
+[Event "IBM"]
+[Site "Amsterdam"]
+[Date "1969.??.??"]
+[Round "10"]
+[White "Darga, Klaus"]
+[Black "Stein, Leonid"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2rq1rk1/pp2bppp/1npp1n2/3PpN1b/2P5/2N3PP/PP2PPB1/R1BQ1RK1 w - - 0 12"]
+[PlyCount "9"]
+[EventDate "1969.??.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "NED"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4d5,Ye4f5,Gg7e5,Gc7e5] White: SQ: e4, DQ: d5, CQ: black squares. (Pay
+close attention to the weak squares on d6, e5, Nb6, Nf6, Pc6) -> _|_d6,
+->_|_c7; ->Pd6, ->Pe5, ->Be7: CM: 12.c5, 12.Nxe7+, 12.dxc6. GM: 12.c5 Weiß: SF:
+e4, RF: d5, FF: schwarzfeldrig (Man beachte: die Felderschwächen auf d6, e5,
+Nb6, Nf6, Pc6) -> _|_d6, ->_|_c7; ->Pd6, ->Pe5, ->Be7: KZ: 12.c5, 12.Nxe7+, 12.
+dxc6. GZ: 12.c5} 12. c5 $1 (12. dxc6 bxc6 13. c5 dxc5 14. Qxd8 Bxd8 15. Be3 Bg6
+$1) (12. Nxe7+ Qxe7 $14) 12... Nbxd5 $8 {White: SQ: e4, DQ: d5, CQ: black
+squares. -> _|_d6, ->_|_c7; ->Pd6, ->Pe5, ->Be7: CM: 13.cxd6. Weiß: SF: e4, RF:
+d5, FF: schwarzfeldrig. -> _|_d6, ->_|_c7; ->Pd6, ->Pe5, ->Be7: KZ: 13.cxd6.} (
+12... dxc5 13. d6) 13. cxd6 Bxd6 14. Nxd6 Qxd6 {[%cal Yg2e4,Ye4d5,Gc7e5]} 15.
+g4 $1 {/\e4 Be aware: the d6-square is unprotected. Man beachte: das Feld d6
+ist nicht gedeckt.} Bg6 16. e4 $16 {1-0 (52)} 1-0
+
+[Event "Budapest playoff"]
+[Site "Budapest"]
+[Date "1979.??.??"]
+[Round "4"]
+[White "Adorjan, Andras"]
+[Black "Ribli, Zoltan"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2595"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2rq1rk1/1p2bppp/p2pbn2/4p2P/2n1P1P1/1NN1BP2/PPPQ4/2KR1B1R w - - 0 14"]
+[PlyCount "17"]
+[EventDate "1979.10.??"]
+[EventType "match"]
+[EventRounds "6"]
+[EventCountry "HUN"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4d5,Ye4f5,Yf5g6,Gg7e5,Gc7e5] White: SQ: e4, DQ: f5: (White is active
+in the direction of f5). CQ: black squares. Pay close attention to: the weak
+squares: (_|_h6,_|_g7) ->Pe5, ->Pg7, ->Be7.  Goals: attack _|_e5, _|_f6,_|_g7;
+weaken the e5-area. CM: 14. Bxc4.  Weiß: SF: e4, RF: f5: (Weiß ist in Richtung
+f5 aktiv). FF: schwarzfeldrig: Man beachte: Die Felderschwächen: (_|_h6,_|_g7)
+->Pe5, ->Pg7, ->Be7. Ziele: _|_e5, _|_f6,_|_g7 anzugreifen; den e5-Raum
+schwächen. KZ: 14. Bxc4.} 14. Bxc4 {This is White setting out his marker that
+in the long run the black squares in the e5-area, _|_f6, _|_g7, _|_h6, should
+come under attack.  Damit setzt Weiß ein Zeichen dafür, dass die schwarzen
+Felder im e5-Raum, _|_f6, _|_g7, _|_h6 langfristig gesehen angegriffen werden
+sollen.} Rxc4 {[%cal Yc2e4,Ye4f5,Yf5g6,Gg7e5,Ge5d4] White: SQ: e4, DQ: f5: CQ:
+white squares. Be aware: White wants to occupy the squares f5, g6 in order to
+be able to attack the g7-square. ->_|_f5, ->_|_g6; ->Nf6, ->Be6. CM: 15.g5
+->Nf6  Weiß: SF: e4, RF: f5: FF: weißfeldrig: Man beachte: Weiß will die
+Felder f5, g6 besetzen, um das Feld g7 angreifen zu können. ->_|_f5, ->_|_g6;
+->Nf6, ->Be6. KZ: 15.g5 ->Nf6} 15. g5 {White would like to weaken _|_d5, and
+make possible Nd5 (-> Be7, ->_|_f6). Weiß möchte damit _|_d5 schwächen, Nd5 
+(-> Be7, ->_|_f6) ermöglichen.} (15. h6 g6 16. g5 Nd7 17. Nd5 $36) 15... Nd7 {
+[%cal Ye4d5,Ye4f5,Gg7e5] White: SQ: e4, DQ: f5:CQ: white squares: ->_|_g6. 16.
+Rhg1 /\g6; 16.Qg2 /\g6; 16.Nd5 is questionable because of 16...Bd5.  Weiß: SF:
+e4, RF: f5: FF: weißfeldrig: ->_|_g6. 16.Rhg1 /\g6; 16.Qg2 /\g6; 16.Nd5 ist
+fraglich wegen 16...Bd5.} 16. Rdg1 {Planning the attack -> Pg7 strengthened by
+g5-g6. Damit wird der Angriff -> Pg7 mittels g5-g6 verstärkt geplant.} (16. g6
+{This push is to attack the g7-square, in order to prevent the move g7-g6.
+Dieser Vorstoß sollte das Feld g7 angreifen, da dadurch der Zug g7-g6
+verhindert wird.} Qc7 (16... fxg6 17. hxg6 h6 18. Kb1 {/\Bh6 /\Bh6} Rxf3 19.
+Bxh6 $18) 17. Kb1 Rxc3 18. bxc3 Rc8 $16) (16. Nd5 Bxd5 17. Qxd5 b5 18. g6 h6) (
+16. Qg2 Rxc3 $1 17. bxc3 Qc7 $132) 16... Qc7 {[%cal Ye4f5,Yf5g6,Gg7e5] White:
+SQ: e4,DQ: f5: CQ: white squares: Goals: occupy _|_g6 in order to attack _|_g7;
+->Pf7, ->Ph7. CM: 17.g6.  Weiß: SF: e4, RF: f5: FF: weißfeldrig: Ziele: _|_g6
+besetzen um _|_g7 anzugreifen; ->Pf7, ->Ph7. KZ: 17.g6.} 17. g6 $1 {[%cal
+Ye4f5,Ye4d5,Yf5g6,Gg7e5] This is to establish Pg7 as a point of attack for
+White. The other moves lead to the loss of the initiative.  Dies soll den Pg7
+als ein Angriffsziel für Weiß festlegen. Die anderen Züge führen zum Verlust
+der Initiative.} Rc8 {[%cal Yc2e4,Ye4f5,Yf5g6,Gg7e5,Ge5d4] White: SQ: e4, DQ:
+f5: CQ: black squares. Pay close attention to; weak squares on g7, h6. Goals:
+attack _|_h6, _|_g7; ->Pg7. CM: 18.Bh6, 18.h6. GM: 18.Bh6 is very strong,
+gaining time and enabling Qh6. Weiß: SF: e4, RF: f5: FF: schwarzfeldrig: Man
+beachte: Felderschwächen auf g7, h6. Ziele: _|_h6, _|_g7 anzugreifen; ->Pg7.
+KZ: 18.Bh6, 18.h6. GZ: 18.Bh6 ist sehr stark, gewinnt Zeit, ermöglicht Qh6.} (
+17... Rxc3 18. gxh7+ Kxh7 19. bxc3) 18. Bh6 $1 {[%csl Gg7][%cal Gg7e5,Ge5d4,
+Yc2e4,Ye4f5,Yf5g6] The best move, aimed above all at Rxc3. You should be aware
+that the g7-square constitues the basis for the e5-strategy in the direction
+of d4 and is thus a point of attack for White. Der beste Zug, der vor allem
+gegen Rxc3 gerichtet ist. Es soll beachtet werden, dass das Feld g7 die Basis
+der e5-Strategie in Richtung d4 und dadurch ein Angriffsziel für Weiß
+darstellt.} (18. h6 fxg6 (18... hxg6 19. hxg7 Rxc3 20. bxc3 Qxc3 21. Rh8+ Kxg7
+22. Rxc8 Qxc8 $14) 19. hxg7 Rxc3 20. bxc3 Qxc3) 18... Bf6 {White: SQ: e4, DQ:
+f5: CQ: black squares: Goals: attack _|_ f6,g7; ->Pg7. 18.gxh7+ opening the
+g-file. Weiß: SF: e4, RF: f5: FF: schwarzfeldrig: Ziele: _|_ f6,g7 anzugreifen;
+->Pg7. 18.gxh7+ öffnen der g-Linie.} (18... gxh6 19. Qxh6) (18... Rxc3 19.
+gxh7+ Kxh7 20. Rxg7+ Kh8 21. bxc3) (18... Bf8 19. gxh7+ Kxh7 20. Bxg7) 19.
+gxh7+ {[%csl Gg7][%cal Gg7e5] Exposes the g7-square.  Öffnet das Feld g7.} Kxh7
+{[%cal Gg7e5,Ge5d4,Yc2e4,Ye4f5,Yf5g6] White: SQ: e4, DQ: f5: CQ: black squares:
+Goals: attack _|_ f6,g7; ->Pg7. Take note: Kh7 is posted outside the e5-area.
+CM: 20.Bg7 (/\ Qh6) followed by Qg2, 20.Bg5.  Weiß: SF: e4, RF: f5: FF:
+schwarzfeldrig: Ziele: _|_ f6,g7 anzugreifen; ->Pg7. Man beachte: Kh7 ist
+außerhalb des e5-Raums platziert. KZ: 20.Bg7 (/\ Qh6) gefolgt von Qg2, 20.Bg5.}
+20. Bxg7 $1 {This weakens the squares f6, g7,and allows the attack down the
+g-file. /\Qh6 Dies schwächt die Felder f6, g7, ermöglicht den Angriff auf der
+g-Linie. /\Qh6} (20. Bg5 $6 {This diminishes the attack. Dies lässt den
+Angriff nach.} b5 21. Bxf6 Nxf6 22. Qg5 Ne8) 20... Bxg7 {[%cal Gg7e5,Yc2e4,
+Ye4f5,Yf5g6,Yg6h7]} 21. h6 {An important intermediate move! Ein wichtiger
+Zwischenzug!} (21. Qg5 $2 Bh6) (21. Qg2 $2 Bh6+) 21... Bf6 {[%cal Yc2e4,Ye4f5,
+Gg7e5] White: SQ: e4, DQ: f5: CQ: black squares: Goals: attack _|_f6, _|_g7;
+->Bf6. CM: 22.Rg7+, 22.Qg2 /\Qg7. GM: 22.Qg2  Weiß: SF: e4, RF: f5: FF:
+schwarzfeldrig: Ziele: _|_f6, _|_g7 anzugreifen; ->Bf6. KZ: 22.Rg7+, 22.Qg2 /
+\Qg7. GZ: 22.Qg2} 22. Qg2 {/\Qg7} (22. Qg2 {/\Qg7} Rxc3 23. Qg7+ $1 Bxg7 24.
+hxg7+ Kg8 25. Rh8# {[%cal Gh8e5] White has managed to meet all the targets set
+by the e4-strategy in the direction of f5, i.e. against the e5-area and on the
+black squares. Es ist dem Weißen gelungen die Ziele der e4-Strategie in
+Richtung f5, gegen den e5-Raum, d.h. schwarzfeldrig, zu erfüllen.}) (22. Rg7+
+Kh8) 1-0
+
+[Event "Moscow Interzonal"]
+[Site "Moscow"]
+[Date "1982.??.??"]
+[Round "4"]
+[White "Tal, Mihail"]
+[Black "Van der Wiel, John TH"]
+[Result "1-0"]
+[WhiteElo "2610"]
+[BlackElo "2520"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1q1kb1r/pb1p1p1p/1pn1p1p1/2p2P2/2P1B3/2NP4/PP4PP/R1BQ1RK1 w kq - 0 13"]
+[PlyCount "19"]
+[EventDate "1982.09.??"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "URS"]
+[EventCategory "12"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{White: SQ: d4; Look out for: the weak squares e5, f6, g7 are unoccupied and
+do not present a target.DQ: e5; White is obviously active on the kingside; CQ:
+white squares. Pay close attention to . 1. the white pieces (Be4, Nc3, Qd1,
+Pe4) are active on the white squares; 2. the weak squares f7, g6 -> _|_f7,
+_|_e6. -> Pe6, ->Pf7, ->Pg6.  Be aware:Black is threatening to taket Pf5and
+White should defend Pf5; CM: 13.f6, 13.Bg5, because Bf6 Black is forced to
+take Pf5 .  Weiß: SF: d4; Man beachte: Die Felderschwächen auf e5, f6, g7 sind
+leer, stellen keine Angriffsziele dar. RF: e5; Weiß ist offenbar am
+Königsflügel aktiv; FF: weißfeldrigfeldrig. Man beachte. 1. Die weißen Steine 
+(Be4, Nc3, Qd1, Pe4) sind weißfeldrig aktiv; 2. Die Felderschwächen auf f7, g6
+-> _|_f7, _|_e6. -> Pe6, ->Pf7, ->Pg6. Man beachte: Schwarz bedroht Pf5 zu
+nehmen, Weiß soll Pf5 zu stützen, KZ: 13.f6, 13.Bg5, wegen Bf6 ist Schwarz
+erzwungen Pf5 zu nehmen.} 13. Bg5 $1 {/\Bf6. White prepares to contest the
+capture on f5. /\Bf6. Weiß bereitet sich darauf vor, das Nehmen auf f5 zu
+bekämpfen.} (13. f6 $6 {This blocks the attack on the f7-pawn, thus getting in
+the way of White's initiative.  Dies blockiert den Angriff auf den Bauern f7,
+verhindert deswegen die weiße Initiative.}) (13. Qe1 $6 gxf5 (13... Be7) 14.
+Bxf5 Be7) (13. g4) 13... gxf5 {[%cal Yd4e5,Gf7d5,Yd6e7]} (13... Bg7 14. Nb5 (
+14. f6 Bf8) 14... O-O 15. f6 Bh8 16. Bh6 (16. Qe1 d5) 16... Rd8 17. Nd6 Qc7 18.
+Bf4 e5 19. Nxb7 Qxb7 20. Bd2 {/\Qg4 followed by h4 /\h5 /\Qg4 gefolgt von h4 /
+\h5}) (13... Bd6 14. Nb5) (13... Be7 14. Bxe7 Nxe7 15. Nb5 $18) (13... exf5 $2
+14. Qe1) {White: SQ: d4, DQ: e5, CQ: white squares. Pay attention to: 1.the
+squares e5, f6, g7 are unoccupied ; 2. the white pieces (Be4, Nc3, Qd1, Pe4)
+are active on the white squares. -> _|_f7, _|_e6. Black must be compelled to
+react on the white squares. -> Pf5, ->Pf7, ->Pe6. CM: 14.Bf5  Weiß: SF: d4, RF:
+e5, FF: weißfeldrig. Man beachte: 1. Die Felder e5, f6, g7 sind leer; 2. Die
+weißen Steine (Be4, Nc3, Qd1, Pe4) sind weißfeldrig aktiv. -> _|_f7, _|_e6.
+Man muss Schwarz dazu zwingen, weißfeldrig zu reagieren. -> Pf5, ->Pf7, ->Pe6.
+KZ: 14.Bf5} 14. Bxf5 $1 $40 {White wishes to remove the Pe6 ( and by Nd5 allow
+an attack down the e-file). Weiß möchte damit den Pe6 entfernen (Nd5, den
+Angriff auf der e-Linie ermöglichen).} Be7 {[%cal Yd4e5,Gf7d5,Yd6e7,Ye5f6]} (
+14... exf5 15. Qe2+ (15. Nd5 Bg7 16. Qe2+ Kf8) 15... Ne7 16. Rae1 Rg8 (16...
+Qd8 17. Nb5) 17. Bxe7 Rxg2+ 18. Qxg2 Bxg2 19. Bh4+ Be4 20. Nxe4 fxe4 21. Rxe4+
+$16 {Tal}) (14... Bg7 15. Qh5 Bd4+ 16. Kh1) {White: SQ: d4, DQ: e5, CQ: white
+squares.  1.the squares e5, f6,g7 are unoccupied. 2.Bf5, Nc3; attack -> _|_e6,
+->_|_f7. -> Pf7, ->Pe6. CM: 15.Qh5  Weiß: SF: d4, RF: e5, FF: weißfeldrig. 1.
+Die Felder e5, f6,g7 sind leer. 2.Bf5, Nc3; -> _|_e6, ->_|_f7 angreifen. ->
+Pf7, ->Pe6. KZ: 15.Qh5} 15. Qh5 $40 {Note: the squares e6, f7 are being
+attacked! Man beachte: die Felder e6, f7 sind angegriffen!} (15. Bxe7 Nxe7 $17)
+15... Bxg5 (15... exf5 16. Nd5 (16. Rae1 $1) 16... Kd8 17. Rae1) 16. Qxg5 Ne7 {
+[%cal Yd4e5,Ye5f6,Gf7d5,Yd6e7]} (16... exf5 17. Rae1+ Kf8 18. Qh6+ Kg8 19. Nd5
+$18) {White: SQ: d4, DQ: e5, CQ: black squares. Look out for the weak squares
+on d6, e5, f6. CM: 17.Be4 in order to enable /\Ne4.  Weiß: SF: d4, RF: e5, FF:
+schwarzfeldrig. Man beachte die Felderschwächen auf d6, e5, f6. KZ: 17.Be4 /
+\Ne4 zu ermöglichen.} 17. Be4 {This is to protect the e4-square for the knight
+on c3, but also to attack Pf7.  Dies soll das Feld e4 für den Springer c3
+sichern, aber auch Pf7 angreifen.} Bxe4 $2 (17... Bc6 18. Qh5 Rf8 19. Rf6 {
+/\Raf1 /\Raf1}) 18. Nxe4 $18 {[%cal Gf7d5,Yd4e5,Yd6e7,Yb2d4] Now the squares
+d6, e5, f6 are unprotected. White enjoys full control over the squares e5,f6,
+i.e. he is pursuing the d4-strategy in the direction of e5 (!); he now needs
+to attack the squares e6, f7.  Nun sind die Felder d6, e5, f6 schutzlos. Weiß
+verfügt über die volle Kontrolle der Felder e5,f6, d.h. er verfolgt die
+d4-Strategie in Richtung e5 (!), er soll nun die Felder e6, f7 angreifen.} Qc6
+{[%cal Gf7d5,Yd4e5,Yd6e7] White: SQ: d4, DQ: e5, CQ: black squares. You should
+pay attention to:  1. the weak squares on e5, f6, g7, e7, f7; 2. Ne4, Qg5 are
+protecting the black squares. -> _|_f6, ->_|_d6.  CM: 19.Qf6, 19.Rxf7 /\ Kxf7
+20.Qf6+, 19.Nf6+. GM: 19.Rxf7! Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. Man
+beachte: 1. Die Felderschwächen auf e5, f6, g7, e7, f7; 2. Ne4, Qg5 sichern
+die schwarzen Felder. -> _|_f6, ->_|_d6. KZ: 19.Qf6, 19.Rxf7 /\ Kxf7 20.Qf6+,
+19.Nf6+. GZ: 19.Rxf7!} 19. Rxf7 $1 $18 {This is to strengthen the Qf6. Dies
+soll Qf6 verstärken.} (19. Qf6 Rf8 20. Ng5 $16) 19... Kxf7 (19... Nf5 20. Qf6
+Rg8 21. Rf1 $18) 20. Qf6+ Kg8 21. Qxe7 {/\Nf6} Rf8 22. Rf1 $1 1-0
+
+[Event "Rubinstein mem"]
+[Site "Polanica Zdroj"]
+[Date "1985.??.??"]
+[Round "4"]
+[White "Cvitan, Ognjen"]
+[Black "Lerner, Konstantin Z"]
+[Result "0-1"]
+[WhiteElo "2465"]
+[BlackElo "2520"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2r2bk1/p2q1p2/2p1r1p1/3p1n2/Q2Pp3/2R1P1PP/PP1BB1K1/R7 b - - 0 24"]
+[PlyCount "15"]
+[EventDate "1985.08.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "POL"]
+[EventCategory "9"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Gb2d4,Gf2d4,Yb7d5,Yd5e4,Ye4f3] Black: SQ:d5, DQ: e4, CQ: black squares
+-> _|_e3, _|_f2; ->Pd4, ->Bd2.  Pay close attention to: 1. Die weak squares on
+e3,f2,g3;  and  2.Nf5, Bf8: -> Pb2, ->Pe3, CM: 24...Rb8, 24...Bh6, 24...Qc7.
+24...Rb8 is the best, enabling Bb4.  Schwarz: SF:d5, RF: e4, FF:
+schwarzfeldrig -> _|_e3, _|_f2; ->Pd4, ->Bd2. Man beachte. 1. Die
+Felderschwächen auf e3,f2,g3; 2.Nf5, Bf8: -> Pb2, ->Pe3, KZ: 24...Rb8, 24...
+Bh6, 24...Qc7. 24...Rb8 ist der beste, ermöglicht Bb4.} 24... Rb8 $1 {/\Bb4,
+-> Pb2} (24... Qc7 25. Be1 Rb8 26. g4 Rxb2 27. Qd1) (24... Bh6 25. Bg4 $1) 25.
+Rb3 {This prevents Bb4, but enables the attack on Pg3. Dies verhindert Bb4,
+ermöglicht aber den Angriff auf Pg3.} (25. Qc2 Bb4) (25. b3 Bb4) 25... Rxb3 26.
+Qxb3 {[%cal Yb7d5,Yd5e4,Ye4f3,Gf2d4,Gd4c5] Black: SQ: d5, DQ: e4, CQ: black
+squares, -> _|_e3, _|_f2; ->Pe3, ->Pd4, ->Pg3. 26...Qd6, 26...Qc7 followed by
+Bh6; both are OK.  Schwarz: SF: d5, RF: e4, FF: schwarzfeldrig, -> _|_e3,
+_|_f2; ->Pe3, ->Pd4, ->Pg3. 26...Qd6, 26...Qc7 gefolgt von Bh6; beide sind OK.}
+Qd6 (26... Qc7 27. Be1 Bh6 $19) 27. Be1 Bh6 28. Bf2 {[%cal Gf2d4,Gd4c5,Yb7e4,
+Ye4f3] Black: SQ: d5, DQ: e4, CQ: black squares, -> _|_e3, _|_f2; -> Pb2,
+->Pe3, ->Pd4, ->Bf2: 28...Be3!  Schwarz: SF: d5, RF: e4, FF: schwarzfeldrig,
+-> _|_e3, _|_f2; -> Pb2, ->Pe3, ->Pd4, ->Bf2: 28...Be3!} Bxe3 29. g4 (29. Bxe3
+Qxg3+) 29... Qf4 (29... Bxf2 30. gxf5 e3 $19) 30. Rf1 Bxf2 31. gxf5 e3 {
+[%cal Gg1d4,Yb7e4,Ye4f3]} 0-1
+
+[Event "USSR"]
+[Site "?"]
+[Date "1986.??.??"]
+[Round "2"]
+[White "Glek, Igor"]
+[Black "Ivanenko"]
+[Result "1-0"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2qr1nk/1p2b2p/pnb3pB/3p4/3P1Q2/2N3N1/PP4PP/3BRRK1 w - - 0 1"]
+[PlyCount "1"]
+[EventDate "1986.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%csl Yd4][%cal Yd4e5,Gg8d5,Ye5f6,Yf6g7] White: SQ: d4, DQ: e5; occupy the
+squares e5,f6,g7 or attack the squares e6,f7? CQ: black squares. Occupy the
+squares f6, g7, h8. Why? The black king is no longer in the d5-area, the
+squares e6, f7 are not occupied. CM: The following sequence of moves or plan
+is possible: Qf7, Bc2 (to attack Pg6), Nh5 followed by Qg7. Another line: Nh5
+and if gxh5 then Qf7 followed by Bc2 and Qh7 mate. But you must be careful:
+the Bh6 is under attack. White must act quickly. 1.Nh5 is the first move that
+needs investigated.  Weiß: SF: d4, RF: e5; die Felder e5,f6,g7 besetzen oder
+die Felder e6,f7 angreifen? FF: schwarzfeldrig. Die Felder f6, g7, h8 besetzen.
+Warum? Der schwarze König ist nicht mehr im d5-Raum, die Felder e6, f7 sind
+nicht besetzt. KZ: Es bietet sich die folgende Zugfolge bzw. Plan an: Qf7, Bc2
+(um Pg6 anzugreifen), Nh5 gefolgt von Qg7. Eine andere Zugfolge: Nh5 und falls
+gxh5 so Qf7 gefolgt von Bc2 und Qh7 Matt. Zu beachten ist aber: der Bh6 ist
+angegriffen. Weiß soll schnell handeln. 1.Nh5 soll in erster Linie überprüft
+werden.} 1. Nh5 $3 {[%csl Yd4][%cal Yd4e5,Ye5f6,Yf6g7] With this move White
+strengthens the pressure on the squares f6, g7, he threatens to occupy the
+g7-square (Bg7#). Weiß verstärkt damit den Druck auf die Felder f6, g7, er
+droht das Feld g7 (Bg7#) zu besetzen.} (1. Nh5 $3 Bf6 (1... Nxh6 2. Qxh6 $18) (
+1... gxh5 2. Bg7+ (2. Qf7 Nxh6) 2... Kxg7 3. Qf7+ Kh6 (3... Kh8 4. Bc2) 4.
+Qxh5+ Kg7 5. Rf7+) 2. Rxe8 Bxe8 3. Nxf6 Qxf6 4. Qxf6+ Nxf6 5. Rxf6 $18) (1. Bc2
+$2 Nxh6) 1-0
+
+[Event "URS-ch U20"]
+[Site "Tallinn"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Bareev, Evgeny"]
+[Black "Yakovich, Yuri"]
+[Result "1-0"]
+[WhiteElo "2365"]
+[BlackElo "2480"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r3kb1r/2pn1p1p/p3p1p1/1P1q2NQ/2pP4/2P3P1/5P1P/R1B1R1K1 w kq - 0 18"]
+[PlyCount "1"]
+[EventDate "1986.01.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "URS"]
+[EventCategory "8"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Gf7d5,Gd5c4] White: SQ: White pursues the goals of the
+d4-strategy;  DQ: in the direction of e5, (Take note of: Qh5, Ng5, Bc1), he
+should be striving either to occupy the squares e5,f6 or to attack the squares
+d5, e6, f7.  CQ: white squares: the white pieces (Ng5, Qh5, Re1 -> Pe6)
+cooperate at their best when converging on the squares e6, f7. Pieces to be
+challenged: White should play on the white squares, challenging the black
+pieces which are defending the squares f7,e6,d5. Sie sind Qd5, Pe6, Pf7.
+Candidate moves: moves like Nxe6, Rxe6, Nxf7, should then be considered and
+checked out.  Abbrev.: White: SQ: d4, DQ: e5, CQ: white squares -> _|_e6,
+->_|_f7, -> ; ->Qd5, ->Pe6, ->Pf7. CM: 18.Nxe6, 18.Rxe6, 18.Nxf7. GM: 18.Nxe6
+since it attacks the Qd5.  Weiß: SF: Weiß verfolgt die Ziele der d4-Strategie;
+RF: in Richtung e5, (Man beachte: Qh5, Ng5, Bc1), er soll bestrebt sein
+entweder die Felder e5,f6 zu besetzen oder die Felder d5, e6, f7 anzugreifen.
+FF: weißfeldrig: Die weißen Steine (Ng5, Qh5, Re1 -> Pe6) wirken auf die
+weißen Felder e6, f7 optimal zusammen. Befragung: Weiß soll "weißfeldrig"
+spielen, die schwarzen Steine befragen, die die Felder f7,e6,d5 verteidigen.
+Sie sind Qd5, Pe6, Pf7. Kandidatenzüge: Dann sollen die Züge, wie Nxe6, Rxe6,
+Nxf7, in Betracht gezogen und überprüft werden. Abk:. Weiß: SF: d4, RF: e5, FF:
+weißfeldrig -> _|_e6, ->_|_f7, -> ; ->Qd5, ->Pe6, ->Pf7. KZ: 18.Nxe6, 18.Rxe6,
+18.Nxf7. GZ: 18.Nxe6 da dadurch Qd5 angegriffen ist.} 18. Nxe6 $1 (18. Nxe6 {
+After this move, Black's defence falls apart. Nach diesem Zug bricht die
+schwarze Verteidigung zusammen.} Qxe6 (18... gxh5 19. Ng7+ Kd8 20. Re8#) (18...
+c6 19. Nc7+) 19. Rxe6+ fxe6 20. Qf3) 1-0
+
+[Event "URS-ch U20"]
+[Site "Tallinn"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Epishin, Vladimir"]
+[Black "Dokhoian, Yury"]
+[Result "0-1"]
+[WhiteElo "2350"]
+[BlackElo "2365"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "5rk1/1p3qpp/p2b3r/3pnp2/P7/2PB1PP1/1P2R2P/1Q2RKN1 b - - 0 30"]
+[PlyCount "15"]
+[EventDate "1986.01.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "URS"]
+[EventCategory "8"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb7d5,Yd5e4,Gf2d4,Gb2d4] Black; SQ: d5, DQ: e4, CQ: black squares. Pay
+close attention to:  1. the white position has black squared weaknesses (the
+squares e3, f2, g1 are not sufficiently well protected).  2. Bd6 or. Ne5 can
+only cooperate on the dark squares. So Black must try to attack the dark
+squares. (-> Pg3, ->Ph2).  CM:Thus Black must consider, how he could attack
+the squares d4, e3, f2, by moves like Bc5 or Ng4. CM: 1...Bc5; 1...Ng4.  GM: 1.
+..Ng4 decisively increases the pressure on the squares e3, f2.  SF: d5, RF: e4,
+FF: schwarzfeldrig. Man beachte: 1. Die weiße Stellung weist schwarzfeldrige
+Schwächen auf (die Felder e3, f2, g1 sind nicht ausreichend gedeckt). 2. Bd6
+bzw. Ne5 können nur Richtung schwarze Felder zusammen wirken. Schwarz muss
+also versuchen die schwarzen Felder anzugreifen. (-> Pg3, ->Ph2). KZ: Aus
+diesem Grund soll Schwarz überlegen, wie er die Felder d4, e3, f2 angreifen
+könnte, durch Züge wie Bc5 oder Ng4. KZ: 1...Bc5; 1...Ng4. GZ: 1...Ng4
+verstärkt den Druck auf die Felder e3, f2 entscheidend.} 30... Ng4 {Obviously
+the knight cannot be taken. See 31.fxg4. So the pressure on the squares e3, f2
+remains. Der Springer kann offenbar nicht geschlagen werden. Siehe 31.fxg4.
+Der Druck auf die Felder e3, f2 bleibt daher bestehen.} (30... Bc5 31. Rxe5
+Rxh2 32. R5e2 Rh1 33. Rg2 Qh5 34. Ke2 Rh2 35. Kf1 Rh1 $11) 31. Qc2 {[%cal
+Yb7d5,Yd5e4,Gf2d4] Black: SQ: d5, DQ: e4, CQ: black squares. Pat close
+attention to: 1. (Bd6,Ng4). 2. the weak squares g3, h2. ->_|_e3, ->_|_f2. ->
+Pg3, -> Ph2. Candidate moves are: 2...f4 ->Pg3, 2...Qh5 -> Ph2. Schwarz: SF:
+d5, RF: e4, FF: schwarzfeldrig. Man beachte: 1. (Bd6,Ng4). 2. Die
+Felderschwächen auf g3, h2. ->_|_e3, ->_|_f2. -> Pg3, -> Ph2. Kandidatenzüge
+sind: 2...f4 ->Pg3, 2...Qh5 -> Ph2.} (31. fxg4 fxg4+ 32. Kg2 {[%cal Yb7d5,
+Yd5e4,Ye4f3,Gf2d4]} Qh5 33. Kh1 Bxg3 $19) {Black: SQ: d5, DQ: e4, CQ: black
+squares. ->Pg3, ->Ph2. 31...f4 ->Pg3, 31...Qh5 -> Ph2  Schwarz: SF: d5, RF: e4,
+FF: schwarzfeldrig. ->Pg3, ->Ph2. 31...f4 ->Pg3, 31...Qh5 -> Ph2} 31... f4 $19
+{A strong move which completely meets the demands of the position and is
+tactically the correct one. The white d4-area now crumbles. Ein starker Zug,
+der den Anforderungen der Stellung völlig entspricht und taktisch korrekt ist.
+Der weiße d4-Raum bricht nun zusammen.} (31... Qh5 $5 32. fxg4 (32. h3 Bxg3)
+32... fxg4+ 33. Rf2 Rxf2+ 34. Qxf2 Rf6 $19) 32. Rg2 (32. h3 Ne3+) (32. gxf4
+Qxf4) (32. c4 fxg3) 32... fxg3 33. hxg3 Rh1 34. f4 Bxf4 {This removes the
+defenders Pf4 und Pg3.  Die Verteidiger Pf4 und Pg3 werden dadurch entfernt.}
+35. gxf4 Qxf4+ 36. Ke2 Ne3 37. Qb3 Nxg2 0-1
+
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1986.??.??"]
+[Round "?"]
+[White "Geller, Efim P"]
+[Black "Yap, Andronico"]
+[Result "1-0"]
+[WhiteElo "2525"]
+[BlackElo "2470"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2r1nrk1/2qbbpp1/p3p2p/1p1pP1N1/3B1P2/6Q1/PPP1B1PP/3R1R1K w - - 0 18"]
+[PlyCount "23"]
+[EventDate "1986.03.??"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "URS"]
+[EventCategory "11"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Gf7d5] White: SQ: d4, DQ: e5: (White is active in the
+direction of e5). Goals: occupy _|_f6, _|_g7, attack _|_e6, _|_f7;  CQ: white
+squares: (_|_d5, _|_e6, _|_f7) Why?:  1). Ng5, Be2 can cooperate to the best
+effect on the white squares, e.g. the squares e6, f7. ->Pe6,->Pf7,->Bd7,  2).
+the weak squares on h7, g6, f7; Bd7 is out of the way. -> Pe6, Pf7;  CM: 18.f5,
+18.Bd3, 18.Nf7, 18.Ne6; GM: 18.Bd3. The Bd3 will have an important role to
+play, in supporting the white-square initiative.  Weiß: SF: d4, RF: e5: (Weiß
+ist in Richtung e5 aktiv). Ziele: _|_f6, _|_g7 zu besetzen, _|_e6, _|_f7
+anzugreifen; FF: weißfeldrig: (_|_d5, _|_e6, _|_f7) Warum?: 1). Ng5, Be2
+können optimal weißfeldrig zusammen wirken, u.a. auf die Felder e6, f7. ->Pe6,
+->Pf7,->Bd7, 2). Die Felderschwächen auf h7, g6, f7; Bd7 ist entfernt. -> Pe6,
+Pf7; KZ: 18.f5, 18.Bd3, 18.Nf7, 18.Ne6; GZ: 18.Bd3. Der Bd3 soll eine wichtige
+Rolle spielen, die weißfeldrige Initiative stützen.} 18. Bd3 $3 {A strong move,
+but also a risky one. White strengthens his white-square initiative and forces
+Black to take the Ng5.The threat is 19.Nxf7 or Nxe6 followed by Qg6, but also
+19.Nh7. Ein starker, aber auch risikoreicher Zug. Weiß verstärkt damit die
+weißfeldrige Initiative, zwingt Schwarz den Ng5 zu nehmen. Es droht 19.Nxf7
+bzw. Nxe6 gefolgt von Qg6, aber auch 19.Nh7.} (18. Nxe6 Bxe6 (18... fxe6 19.
+Bd3 Bc5 20. Bxc5 Qxc5 21. Qg6 $40) 19. f5 Bd7 20. f6 (20. c3 f6) 20... Bxf6) (
+18. f5 $2 Bxg5) (18. Nxf7 Rxf7 19. Qg6 Bc5 20. f5 exf5 21. e6 Bxe6 22. Qxe6 Qc6
+$13) 18... g6 (18... hxg5 {White: SQ: d4, DQ: e5: CQ: white squares. -> Pe6,
+->_|_h7; CM: 19.Qh3 ->_|_h7, ->Pe6; /\Qh7. Weiß: SF: d4, RF: e5: FF:
+weißfeldrig. -> Pe6, ->_|_h7; KZ: 19.Qh3 ->_|_h7, ->Pe6; /\Qh7.} 19. Qh3 g6 {
+White: SQ: d4, DQ: e5: CQ: white squares. 20.f5 -> Pg6, ->Pe6 Weiß: SF: d4, RF:
+e5: FF: weißfeldrig. 20.f5 -> Pg6, ->Pe6} (19... f5 20. exf6 Nxf6 21. Bxf6 $18
+{Be aware: the Nf6 was defending the white squares. Man beachte: der Nf6
+verteidigt die weißen Felder.} Rxf6 22. fxg5) 20. f5 $1 {A strong move,
+consistent with the idea of directing the white-squared initiative against
+those of the opponent's pieces which are defending the white square, (-> Pg6,
+Pe6, Pf7, Bd7) with the aim of getting these pieces tangled up in the play!
+Ein starker Zug, der der Idee zugeordnet ist: die weißfeldrige Initiative
+richtet sich gegen diejenigenen der feindlichen Steinen, die die weißen Felder
+verteidigen. (-> Pg6, Pe6, Pf7, Bd7) mit dem Ziel diese Steine ins Spiel zu
+verwickeln!} exf5 {[%cal Yb2d4,Yd4e5,Ye5f6,Gg8e6] White: SQ: d4, DQ: e5: CQ:
+white squares. 21.e6! Weiß: SF: d4, RF: e5: FF: weißfeldrig. 21.e6!} 21. e6 $3
+{-> Bd7, ->Pf7. /\Qh8 mate -> Bd7, ->Pf7. /\Qh8 matt} f6 (21... fxe6 22. Qh8+
+Kf7 23. Qh7+ Ng7 24. Bxg7 (24. Qxg7+ Ke8 25. Qxg6+ Kd8 (25... Rf7 26. Be2) 26.
+Bxf5 Qd6) 24... Bf6 25. Bxf8+ Kxf8 26. Qxg6 Bxb2 {White: SQ: d4, DQ: e5: CQ:
+white squares. 27.g4 Weiß: SF: d4, RF: e5: FF: weißfeldrig. 27.g4} 27. g4 (27.
+Bxf5 exf5 28. Rxf5+ Bxf5 29. Rf1 Bf6 30. Rxf5 Qg7 31. Rxf6+ Kg8 32. Qf5 Rxc2 $1
+) 27... f4 28. Qxg5 $16) {White: SQ: d4, DQ: e5: CQ: white squares. ->Pg6,
+->Pf5, ->Bd7 22.exd7, 22.Qh6 Weiß: SF: d4, RF: e5: FF: weißfeldrig. ->Pg6,
+->Pf5, ->Bd7 22.exd7, 22.Qh6} 22. Qh6 $1 (22. exd7 Qxd7 23. Qh6 Kf7) 22... Bxe6
+23. Qxg6+ Ng7 {[%cal Yb2d4,Yd4e5,Gf7d5] White: SQ: d4, DQ: e5, CQ: white
+squares, -> Ng7, ->Be6,->Pf5. The only move to match the demands of the
+position is 24.Rxf5! Weiß: SF: d4, RF: e5, FF: weißfeldrig, -> Ng7, ->Be6,
+->Pf5. Der einzige Zug, der diesen Anforderungen gerecht wird, ist 24.Rxf5!} (
+23... Kh8 24. Rde1 Bc5 25. Bxc5 Qxc5 26. Rxe6 Ng7 27. Rf3 $18) 24. Rxf5 $1 Rf7
+(24... Bxf5 25. Bxf5 $18) (24... Bd6 25. Rxf6 $18) 25. Rxg5 Kf8 26. Qh6 $18) (
+18... f5 {White: SQ: d4, DQ: e5, CQ: white squares, -> ->Bd7,->Pe6,Pf7,Pg6. CM:
+19.exf6, 19.Nf3. GM: 19.exf6 Weiß: SF: d4, RF: e5, FF: weißfeldrig, -> ->Bd7,
+->Pe6,Pf7,Pg6. KZ: 19.exf6, 19.Nf3. GZ: 19.exf6} 19. exf6 {This gets rid of
+the Pf7 and weakens the white squares in the d5-area. Dadurch wird der Pf7
+entfernt, die weißen Felder im d5-Raum geschwächt.} (19. Nf3 Bc5 20. c3 Qb6)
+19... Bxf6 (19... Nxf6 $2 20. Nh7) 20. Nf3 $16 {[%cal Yb2d4,Yd4e5,Gf7d5]}) {
+White: SQ: d4, DQ: e5, CQ: white squares, -> ->Bd7,->Pe6, ->Pf7, ->Pg6. CM: 19.
+Nxe6, 19.Bxg6, 19.h4; GM: 19. Nxe6! is the only move to meet these demands. 
+Weiß: SF: d4, RF: e5, FF: weißfeldrig, -> ->Bd7,->Pe6, ->Pf7, ->Pg6. KZ: 19.
+Nxe6, 19.Bxg6, 19.h4; GZ: 19. Nxe6! ist der einzige Zug, der diesen
+Anforderungen gerecht wird.} 19. Nxe6 $1 {This tangles up in the action the
+pieces Bd7,Pf7,Pg6, which weakens the white squares e6,f7. Dadurch sind die
+Steine: Bd7,Pf7,Pg6 ins Spiel verwickelt, die weißen Felder e6,f7 geschwächt.}
+(19. Nf3 Kh7 20. Nh4 Rg8 (20... Bxh4 21. Qxh4 Ng7 22. g4) 21. c3 $16) 19...
+Bxe6 $8 {[%cal Yb2d4,Yd4e5,Gf7d5] White: SQ: d4,DQ: e5, CQ: white squares,
+->Be6,-> Pf7, ->Pg6. CM: 20.Bxg6, 20.f5. GM: 20.f5.  Weiß: SF: d4, RF: e5, FF:
+weißfeldrig, ->Be6,-> Pf7, ->Pg6. KZ: 20.Bxg6, 20.f5. GZ: 20.f5.} 20. f5 {
+[%cal Gf7d5] The best move: -> Be6, ->Pg6 ->_|_e6 Der beste Zug: -> Be6, ->Pg6
+->_|_e6} (20. Bxg6 $2 fxg6 21. Qxg6+ Ng7 $19) 20... Ng7 {[%cal Gf7d5] White:
+SQ: d4, DQ: e5, CQ: white squares, -> ->Be6, Ng7,->Pf7, ->Pg6. CM: 21.fxe6, 21.
+f6 -> Ng7. GM: 21.fxe6. Weiß: SF: d4, RF: e5, FF: weißfeldrig, -> ->Be6, Ng7,
+->Pf7, ->Pg6. KZ: 21.fxe6, 21.f6 -> Ng7. GZ: 21.fxe6.} (20... Bd7 {White: SQ:
+d4, DQ: e5, CQ: white squares, -> ->Pf7,Pg6. 21.fxg6, 21.Qh3 ->Ph6 -> _|_h7
+Weiß: SF: d4, RF: e5, FF: weißfeldrig, -> ->Pf7,Pg6. 21.fxg6, 21.Qh3 ->Ph6 ->
+_|_h7} 21. fxg6 $1 (21. Qh3) 21... f5 22. exf6 Nxf6 (22... Qxg3 23. f7+) 23. g7
+Qxg3 (23... Rf7 24. Qg6 Rxg7 25. Qxh6 $18) 24. gxf8=Q+ Bxf8 25. hxg3 $18) 21.
+fxe6 (21. f6 $16) 21... Nxe6 {[%cal Yb2d4,Yd4e5,Gf7d5] White: SQ: d4, DQ: e5,
+CQ: white squares, -> ->Pf7, ->Pg6. CM: 22.Rxf7, 22.Bxg6: GM: The only move to
+meet these demands is 22.Rxf7!  Weiß: SF: d4, RF: e5, FF: weißfeldrig, ->
+->Pf7, ->Pg6. KZ: 22.Rxf7, 22.Bxg6: GZ: Der einzige Zug, der diesen
+Anforderungen gerecht wird, ist 22.Rxf7!} 22. Rxf7 (22. Bxg6 $2 fxg6 23. Qxg6+
+Ng7 $13) 22... Rxf7 $2 (22... g5 23. Bb6 (23. Rxf8+ Rxf8 24. c3 $16 Nxd4 25.
+cxd4) 23... Qb7 (23... Qxb6 24. Rxe7) 24. Rh7 Qxb6 25. Rxe7 Rc7 26. Rxc7 Qxc7
+27. c3 $16) 23. Qxg6+ Kf8 24. Qxh6+ Ke8 25. Qxe6 $18 {[%cal Gf7d5,Yb2d4,Yd4e5,
+Ye5f6] The d5-area has fallen apart.  Der d5-Raum ist zusammengebrochen.} Qc6
+26. Qg6 Qxg6 27. Bxg6 Kf8 28. Bxf7 Kxf7 29. c3 1-0
+
+[Event "Malmo"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "1"]
+[White "Ernst, Thomas"]
+[Black "Berg, Klaus"]
+[Result "0-1"]
+[WhiteElo "2450"]
+[BlackElo "2385"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "3rrbk1/ppq2ppp/2p1bp2/2P5/QP1P3n/2N1B2P/P3BPP1/R4RK1 b - - 0 1"]
+[PlyCount "1"]
+[EventDate "1988.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb7d5,Yd5e4,Ye4f3,Gf2d4,Gd4c5] Black: SQ: d5, DQ:e4, CQ: white squares.
+Pay close attention to: 1. the weak squares on g2, h3; 2. The black pieces 
+(Be6, Nh4) are positioned on white squares. -> _|_f3, ->_|_g2; -> Pg2, -> Ph3.
+CM: 1...Bxh3, 1...Nxg2. Schwarz: SF: d5, RF:e4, FF: weißfeldrig. Man beachte:
+1. Die Felderschwächen auf g2, h3; 2. Die schwarze Steine (Be6, Nh4) sind
+weißfeldrig aufgestellt. -> _|_f3, ->_|_g2;  -> Pg2, -> Ph3. KZ: 1...Bxh3, 1...
+Nxg2.} 1... Bxh3 $3 (1... Bxh3 $3 2. gxh3 {[%cal Yb7d5,Yd5e4,Ye4f3,Gf2d4,Gd4c5]
+Black: SQ: d5, DQ:e4, CQ: black squares. Watch out for: Qg3.( -> _|_f3,
+->_|_g2) doesn't work just yet; so 2...Re3 is worth considering, with the idea
+of diverting the Pf2. Schwarz: SF: d5, RF:e4, FF: schwarzfeldrig. Man beachte:
+Qg3.( -> _|_f3, ->_|_g2) geht im Moment nicht; Dann kommt 2...Re3 in Betracht
+mit der Idee den Pf2 abzulenken.} Rxe3 $1 $19 {This definitively weakens the
+d4-area. Dies schwächt den d4-Raum endgültig.} 3. fxe3 Qg3+ 4. Kh1 Qg2#) (1...
+Nxg2 $2 {Doesn't work.. Geht nicht.}) 0-1
+
+[Event "USSR"]
+[Site "?"]
+[Date "1988.??.??"]
+[Round "2"]
+[White "Botvinnik, Igor"]
+[Black "Dautov, Rustem"]
+[Result "0-1"]
+[BlackElo "2515"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2kr3r/1p1nqb2/2p2pp1/p4p1p/PbPP1N1P/4PBP1/2Q1NP2/R4K1R b - - 0 1"]
+[PlyCount "19"]
+[EventDate "1988.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd5e4,Gf2d4,Yd5c4,Gb2d4,Yd3e2,Yd3c2] Black: SQ: d5, DQ: c4, Pay
+attention to: Bf7, Bc3; Black is active on the queenside. CQ: white squares. 
+Pay close attention to: White's queenside position shows evidence of
+white-squared weaknesses (c4, d3, b3, e2) auf. -> should Black seize a
+white-squared initiative : ->Bf3, ->Pc4. (_|_c4, _|_f3) 1...g5 ->Nf4, 1...Ne5
+-> _|_c4 -> _|_f3; 1...Nb6 -> _|_c4. Be aware of: 1...Ne5 it should be the
+most active continuation, since it attacks several white squares.  Schwarz: SF:
+d5, RF: c4, Man beachte: Bf7, Bc3; Schwarz ist am Damenfügel aktiv. FF:
+weißeldrig. Man beachte: Die weiße Stellung am Damenflügel weist weißfeldrige
+Schwächen (c4, d3, b3, e2) auf. -> soll Schwarz die weißfeldrige Initiative
+ergreifen: ->Bf3, ->Pc4. (_|_c4, _|_f3) 1...g5 ->Nf4, 1...Ne5 -> _|_c4 ->
+_|_f3; 1...Nb6 -> _|_c4. Man beachte: 1...Ne5 sollte die aktivste Fortsetzung
+sein, da dadurch mehrere weiße Felder angegriffen werden.} 1... Ne5 $3 {
+This move should force White to take the Ne5, thus opening up white squared
+weaknesses in the d4-area. For this reason it should be investigated. Dieser
+Zug soll Weiß zwingen, Ne5 zu nehmen und dadurch weißfeldrige Schwächen im
+d4-Raum zu öffnen. Aus diesem Grund sollte er überprüft werden.} (1... Nb6 2.
+d5 $13 {Dautov}) 2. dxe5 (2. Bg2 Nxc4 $15) 2... fxe5 {[%cal Gf2d4,Yb7d5,Yd5e4]
+The Pd4 is now gone, the d4-area is opened up.  Der Pd4 ist nun entfernt, der
+d4-Raum geöffnet.} 3. Nh3 {[%cal Gf2d4,Yb7d5,Yd5e4] Black should now force his
+way into the d4-area, and set up an attack on Pf2 (the base square for the
+pawn chain). SQ: d5, DQ: e4,  CQ: 1. black squares. ->Pf2. CM: 3...Rd2; 2.
+white squares. -> Pc4, ->Bf3: CM: 3...Qc5, 3...e4 Schwarz soll nun in den
+d4-Raum eindringen, die Initiative gegen Pf2 (Basisfeld) errichten. SF: d5, RF:
+e4, FF: 1. schwarzfeldrig. ->Pf2. KZ: 3...Rd2; 2. weißfeldrig. -> Pc4, ->Bf3:
+KZ: 3...Qc5, 3...e4} (3. Nd5 cxd5 4. Bxd5 Bxd5 5. cxd5+ Kb8 6. Rd1 (6. Qb3 Qc5
+7. Rd1 Rd6 {/\ Rhd8-+}) 6... Rd6 7. Kg2 Qd7 8. e4 Rc8 9. Qb1 Rc4 $1 $19 {Dautov
+}) (3. Nd3 e4 4. Nxb4 exf3 5. Nd4 Qxb4 $17) 3... Rd2 {-> Ne2, -> Pf2} (3... Qc5
+$5) (3... e4 4. Bg2 Rd2) 4. Qc1 {[%cal Gf2d4,Gb2d4,Yd5c4,Yd5e4,Yd3c2,Yd3e2]
+Black. SQ:d5, DQ: c4, e4. CQ: white squares. Why? In the d4-area which has
+been opened up, there are the white squared weaknesses , _|_c2,_|_d3,_|_e2.
+Pc4 is weak. CM: 4...e4, 4...Qc5. Schwarz. SF:d5, RF: c4, e4. FF: weißfeldrig.
+Warum? Im offenen d4-Raum sind die weißfeldrigen Schwächen, _|_c2,_|_d3,_|_e2
+vorhanden. Pc4 ist schwach. KZ: 4...e4, 4...Qc5.} {4..Qc5 ->Pc4, 4..e4 -> Bf3
+4..Qc5 ->Pc4, 4..e4 -> Bf3} Qc5 {[%cal Gb2d4,Gf2d4]} (4... e4 {Note: this
+weakens the squares f4 or d4. Man beachte: dies schwächt die Felder f4 bzw. d4.
+} 5. Bg2 Qc5 6. Nd4) 5. Neg1 (5. e4 Bxc4 6. Nhg1 (6. Ng5 Qd4 {/\ fe4-+}) 6...
+Qd4 7. Kg2 Qd3 $19 {Dautov}) 5... Bxc4+ {Obviously, by following a consistent
+line, Black has managed to pursue the d5-strategy -> c4 successfully, e.g. win
+the Pc4, push back the white forces, and destroy d4-area.  Es ist dem
+Schwarzen offenbar gelungen, durch ein zielstrebiges Spiel die d5-Strategie ->
+c4 erfolgreich abzuwickeln, u.a. den Pc4 zu erobern, die weiße Kräfte zu
+verdrängen, den d4-Raum zu zerschlagen.} 6. Be2 (6. Kg2 Rhd8 $19) {Black is
+pursuing a white squared initiative. The white squares in the d4-area are to
+be weakened:  Schwarz strebt eine weißfeldrige Initiative an, es sollen die
+weißen Felder im d4-Raum geschwächt werden:} 6... Bxe2+ {This weakens the
+white squares in the d4-area. Dies schwächt die weißen Felder im d4-Raum.} 7.
+Nxe2 Qd5 {[%csl Yd5][%cal Yd5e4,Yd5c4,Gf2d4,Gb2d4]} 8. Rh2 Rd8 9. Rb1 (9. Nhg1
+Qb3 $19) (9. Qb1 $5) 9... Qd3 $19 10. Nhg1 Rc2 {[%cal Yd3c2,Yd3e2]} 0-1
+
+[Event "USSR"]
+[Site "Aufklärungspartie"]
+[Date "1988.??.??"]
+[Round "3"]
+[White "Lanka, Zigurds"]
+[Black "Piskov, Yury"]
+[Result "1-0"]
+[WhiteElo "2420"]
+[BlackElo "2415"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "rqb2r1k/4nppp/p3pb2/3nN3/1PN3RP/P2B4/1B1Q1PP1/2R3K1 w - - 0 1"]
+[PlyCount "5"]
+[EventDate "1988.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd4e5,Yd4c5,Gf7d5,Gb7d5,Yd6c7,Yd6e7] White: SQ: d4, DQ: e5, CQ: black
+squares.  Pay close attention: 1. Nc4, Bb2, Qd2, Ph4 cooperate on the black
+squares. 2.the weak squares on f6, g7; ->_|_ f6, ->_|_g7; ->Bf6, ->Pg7, ->Nd5,
+->Qb8.  CM: 1.Nc6, 1.Nd7. GM: 1.Nc6  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig.
+Man beachte: 1. Nc4, Bb2, Qd2, Ph4 wirken auf die schwarzen Felder zusammen. 2.
+Die Felderschwächen auf f6, g7; ->_|_ f6, ->_|_g7; ->Bf6, ->Pg7, ->Nd5, ->Qb8.
+KZ: 1.Nc6, 1.Nd7. GZ: 1.Nc6} 1. Nc6 $3 {[%csl Gb8,Gf6,Gg7] A strong move. Be
+aware: those black pieces which are defending the black squares, Qb8, Bf6, Pg7
+are challenged or attacked by it. Ein starker Zug. Man beachte: die schwarzen
+Figuren, die die schwarzen Felder verteidigen, Qb8, Bf6, Pg7 werden dadurch
+befragt bzw. angegriffen.} (1. Nd7 $2 Bxd7 2. Rxg7 Kxg7 3. Qg5+ Ng6) 1... Qc7 {
+The only move. Black is trying to protect the black squares. Der einzige Zug.
+Schwarz bemüht sich die schwarzen Felder zu sichern.} (1... Nxc6 2. Rxg7 $3 $18
+Bxg7 (2... Kxg7 3. Qg5+) 3. Qh6) (1... Qb7 2. Nd6 Qc7 3. Rxg7) {White: SQ: d4,
+DQ: e5,CQ: black squares.  White has managed to strengthen considerably the
+pressure on the black squares e5, f6, g7 by the move 1.Nc6. From now on, White
+must be striving to challenge or enmesh in the play the pieces which are
+defending the squares f6, g7. these are: Bf6 and Pg7.  An important winning
+idea consist of making it possible to attack with the Qd2 the squares f6, g7.
+This brings into consideration the move 2.Rg7, intending to make possible the
+queen move to g5.  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig. Es ist dem Weißen
+gelungen, den Druck auf die schwarzen Felder e5,f6,g7 durch den Zug 1.Sc6
+wesentlich zu verstärken. Weiß muss weiterhin bestrebt sein, die feindlichen
+Steine, die die Felder f6,g7 verteidigen, zu befragen bzw. ins Spiel zu
+verwickeln. Hier sind sie: Bf6 und Pg7. Eine wichtige Gewinn bringende Idee
+besteht hier auch darin, die Möglichkeit zu schaffen, mit der Dame d2 die
+Felder f6,g7 angreifen zu können. In dieser Hinsicht kommt der Zug 2.Rg7, mit
+der Idee den Damenzug nach g5 zu ermöglichen, in Frage.} 2. Rxg7 $3 $18 {
+Black now has no choice because of the threat of 3.Rh7.  Wegen der Drohung 3.
+Rh7 hat Schwarz nun keine Wahl.} Ng6 (2... Bxg7 3. Qh6 $18) (2... Kxg7 3. Nxe7
+$1 {First the Ne7 must be removed.. Der Ne7 soll zuerst entfernt werden.} (3.
+Qg5+ Ng6) 3... Nf4 (3... Qf4 4. Nxd5 $1 $18) (3... Qxe7 4. Qg5+ Kh8 5. Qh6 $18)
+4. Ne5 $1 Qxe7 5. Qxf4 $18) 3. Qh6 1-0
+
+[Event "Euwe mem"]
+[Site "Amsterdam"]
+[Date "1988.03.15"]
+[Round "4"]
+[White "Short, Nigel D"]
+[Black "Ljubojevic, Ljubomir"]
+[Result "1-0"]
+[WhiteElo "2630"]
+[BlackElo "2610"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r3r1k1/1q2bpp1/p1bppn1p/8/1p1BPPP1/3B2NP/PPPQ4/1K1RR3 w - - 0 19"]
+[PlyCount "27"]
+[EventDate "1988.03.??"]
+[EventType "tourn"]
+[EventRounds "6"]
+[EventCountry "NED"]
+[EventCategory "17"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4f5,Gg7e5,Gc7e5,Ye4d5,Ye6d7,Ye6f7] White: SQ: e4, DQ: f5: CQ: white
+squares: Why? Pay attention to: 1. Bd3, Pe4,Ng3; 2. the weak squares on f7, e6,
+g6.  Goals: occupy _|_f5,_|_g6, attack _|_f6,g7 ->Pe6, ->Pf7, ->Nf6. CM: 19.g5;
+19.e5 -> Nf6.  Weiß: SF: e4, RF: f5: FF: weißfeldrig: Warum? Man beachte: 1.
+Bd3, Pe4,Ng3; 2. Die Felderschwächen auf f7, e6, g6. Ziele: _|_f5,_|_g6 zu
+besetzen, _|_f6,g7 anzugreifen ->Pe6, ->Pf7, ->Nf6. KZ: 19.g5; 19.e5 -> Nf6.} 
+19. g5 $1 {->Nf6, ->Ph6} (19. e5 $6 dxe5 20. fxe5 Nd5 $13) 19... hxg5 20. fxg5
+Nd7 {[%cal Ye4f5,Gg7e5,Ye6f7] White: SQ: e4, DQ: f5: FF: white squares: Goals:
+occupy _|_f5 ,_|_g6, attack _|_f6, _|_g7: ->Pe6,->Pf7. CM: 21.g6 -> Pf7, 21.
+Bxg7 followed by Nh5 and g6; 21.Rf1 ->Pf7. White should take into account 21...
+Ne5.  Weiß: SF: e4, RF: f5: FF: weißfeldrig: Ziele: _|_f5 ,_|_g6 zu besetzen,
+_|_f6, _|_g7 anzugreifen: ->Pe6,->Pf7. KZ: 21.g6 -> Pf7, 21.Bxg7 gefolgt von
+Nh5 und g6; 21.Rf1 ->Pf7. Weiß soll mit 21...Ne5 rechnen.} 21. Bxg7 $1 {
+[%cal Gg7e5,Gc7e5,Yc2e4,Ye4f5] For this sort of position a typical
+"g7-sacrifice". The idea is to get rid of Pg7, to weaken the squares f6, g7,
+as well as g6 and f5, (remember that the pawn move g7-g6 is no longer possible)
+. Ein für derartige Positionen typisches "g7-Opfer". Das Ziel besteht darin,
+den Pg7 zu entfernen, die Felder f6, g7, aber auch g6 und f5 zu schwächen (man
+beachte, dass damit der Bauernzug g7-g6 nicht mehr möglich ist).} (21. g6 fxg6
+$13) (21. Rf1 Rf8 (21... Ne5 {[%cal Gg7e5,Gc7e5]} 22. Qf4 $16) 22. h4 Ne5) (21.
+h4 Ne5) 21... Kxg7 22. Nh5+ {[%cal Gg7e5,Yc2e4,Ye4f5] The squares f6, g7 are
+attacked.  Die Felder f6,g7 sind angegriffen.} Kg6 {[%cal Gg7e5,Yc2e4,Ye4f5]
+This is to block the advance g5-g6. The Kg6 is now outside of the e5-area, and
+even posted in the e4-area, making it a target for White's attack. Dies soll
+den Vorstoß g5-g6 blockieren. Der Kg6 ist nun außerhalb des e5-Raums, sogar im
+e4-Raum platziert, wird für Weiß zum Angriffsziel.} (22... Kg8 23. g6 $1 {
+[%cal Yd3e4,Yc2e4,Ye4g6,Gg7e5]} fxg6 24. Qh6 $18) (22... Kh8 23. g6 Bf8 24. g7+
+Bxg7 25. Qg5 $18 {[%cal Gg7e5]} Rg8 26. Nf4) 23. e5+ {[%cal Gf7d5,Yb2d4,Yd4e5,
+Ye5f6]} Kxh5 24. Qf4 $18 {/\Qg4, /\Qf7} Bxg5 25. Qxf7+ Kh4 26. Qh7+ Kg3 27. Qh5
+(27. Rg1+ Bg2 28. Be4) 27... Kh2 (27... Rg8 28. Qg4+ Kh2 29. Qg1+ Kxh3 30. Bf1+
+) 28. Qxg5 (28. Qe2+ {Mate in 6 Matt in 6}) 28... Rg8 29. Rd2+ Bg2 30. Qf4+ Rg3
+31. Be4 Qxe4 32. Qxe4 1-0
+
+[Event "Sarajevo"]
+[Site "Sarajevo"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Marjanovic, Slavoljub"]
+[Black "Kozul, Zdenko"]
+[Result "0-1"]
+[WhiteElo "2480"]
+[BlackElo "2470"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1r5/4kp2/3p1p1b/q1nRpP2/1p2P2P/1P3QP1/P1R3B1/1KN5 b - - 0 32"]
+[PlyCount "17"]
+[EventDate "1988.03.??"]
+[EventType "tourn"]
+[EventRounds "15"]
+[EventCountry "YUG"]
+[EventCategory "10"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Gh3f5,Ge4f5,Ge4d5,Ga2d5,Yg7e5,Ye5d4] Black: SQ: e5, DQ: d4; CQ: white
+squares. ->Nc1, ->Pa2, ->Pb3: CM: 32..Bxc1 33.Kxc1. -> Pa2, ->Pb3: CM: 33...
+Nxb3; 33...Qxa2. GM: 32...Bxc1  Schwarz: SF: e5, RF: d4; FF: weißfeldrig.
+->Nc1, ->Pa2, ->Pb3: KZ: 32..Bxc1 33.Kxc1. -> Pa2, ->Pb3: KZ: 33...Nxb3; 33...
+Qxa2. GZ: 32...Bxc1} 32... Bxc1 {This definitively weakens the white squares
+and should strengthen the forthcoming attack.  Dies schwächt die weißen Felder
+endgültig, soll den folgenden Angriff stärken.} 33. Kxc1 {[%cal Ga2d5] Black:
+SQ: e5. DQ: d4. CQ: white squares. -> Pa2,->Pb3; CM: 33...Nxb3, 33...Qxa2. 
+Schwarz: SF: e5. RF: d4. FF: weißfeldrig. -> Pa2,->Pb3; KZ: 33...Nxb3, 33...
+Qxa2.} Qxa2 $3 (33... Nxb3+ $2 34. Qxb3 {[%cal Ga2d5]}) 34. Rxa2 {[%cal Ga2d5]
+Take note: White's area shows evidence of two holes on the squares a2 and c4.
+These are exactly the squares Black needs to invade White's area.  Man beachte:
+Der weiße Raum weist die zwei Löcher auf den Raumfeldern a2 und c4 auf. Genau
+durch diese Felder soll Schwarz in den weißen Raum eindringen.} Nd3+ (34...
+Rxa2 35. Kd1 $16) 35. Kd2 (35. Kb1 Rc1#) (35. Kd1 Rc1+ 36. Kd2 Rxa2+ 37. Ke3 (
+37. Kxd3 Rc3#) 37... Ne1 $19) 35... Rxa2+ 36. Ke3 Ne1 $19 {White's position
+falls apart.  Die weiße Stellung bricht zusammen.} 37. Qe2 Nxg2+ 38. Kf2 Rcc2
+39. Qxc2 Rxc2+ 40. Kf3 Ne1+ 0-1
+
+[Event "Belgrade GMA op"]
+[Site "Belgrade"]
+[Date "1988.??.??"]
+[Round "?"]
+[White "Taimanov, Mark E"]
+[Black "Kaidanov, Gregory S"]
+[Result "0-1"]
+[WhiteElo "2480"]
+[BlackElo "2535"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2bqr1k1/p4ppp/2pb1n2/2pp4/1r6/1P1PP3/PB1NBPPP/R2Q1RK1 b - - 0 13"]
+[PlyCount "19"]
+[EventDate "1988.12.??"]
+[EventType "swiss"]
+[EventRounds "9"]
+[EventCountry "YUG"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb7d5,Yd5e4,Gb2d4,Gf2d4] Black: SQ: d5, DQ: e4, CQ: black squares. Pay
+close attention to:  1. weak squares on h2, f2, e3 (Bb2 is far way, Nd2, Be2
+are acting on white squares),  2. Bd6, Qd8; -> _|_e3, _|_f2; Challenge the
+white pieces which are defending the black squares, -> Ph2, ->Pe3,->Pf2, ->Bb2:
+CM: 13...Qc7, 13...Ng4, 13...Rh4;  Note: 1). Rb4 is posted outside of the
+d5-area, thus 13...Rh4 is to be preferred.  2). Black should be trying to hold
+on to pieces, Figuren zu behalten, so prevent the move Bxf6. The best way to
+avoid this is Ng4.  GM: 13...Rh4 (/\ Ng4) seems the best move.  Schwarz: SF:
+d5, RF: e4, FF: schwarzfeldrig, Man beachte 1. Die Felderschwächen auf h2, f2,
+e3 (Bb2 ist entfernt, Nd2, Be2 wirken weißfeldrig), 2. Bd6, Qd8; -> _|_e3,
+_|_f2; Die weißen Steine befragen, die die schwarzen Felder verteidigen, ->
+Ph2, ->Pe3,->Pf2, ->Bb2: KZ: 13...Qc7, 13...Ng4, 13...Rh4; Man beachte: 1).
+Rb4 ist außerhalb des d5-Raums platziert, aus diesem Grund soll 13...Rh4
+vorzuziehen sein. 2). Schwarz soll bestrebt sein, Figuren zu behalten, also
+den Zug Bxf6 zu verhindern. Dies wäre am besten durch Ng4 zu vermeiden. GZ: 13.
+..Rh4 (/\ Ng4) soll der beste Zug sein.} 13... Rh4 (13... Ng4 14. Nf3 {Take
+care: Rh4 is no longer possible. Man beachte: Rh4 ist nicht mehr möglich.}) (
+13... Qc7 14. h3 {Be aware: the only way to prevent Bxf6 is by Be5. Man
+beachte: Bxf6 ist nur durch Be5 zu verhindern.}) 14. g3 {[%cal Yb7d5,Yd5e4,
+Ye4f3]} (14. Nf3 Ng4 $5 (14... Rh6 15. g3) 15. h3 (15. Nxh4 $2 Bxh2+ 16. Kh1
+Nxf2+ 17. Rxf2 Qxh4 $19) 15... Rh6 16. hxg4 Bh2+ 17. Nxh2 Qh4 18. f3 Qxh2+ 19.
+Kf2 Qh4+ 20. Kg1 (20. g3 $2 Qh2+ 21. Ke1 Rxe3) 20... Qh2+ 21. Kf2 Qh4+ $11) (
+14. h3 Bxh3 $1 15. gxh3 Qd7 $19) {Black: SQ: d5, DQ: e4, CQ: black squares, ->
+_|_e3, _|_f2;  -> Ph2, ->Pe3, ->Pf2, ->Bb2:  CM: 14...Ng4, 14...Rh6; GM: 14...
+Ng4 (->Pe3,f2,h2) is noticeably more active than 14...Rh6.  Schwarz: SF:d5, RF:
+e4, FF: schwarzfeldrig, -> _|_e3, _|_f2;  -> Ph2, ->Pe3, ->Pf2, ->Bb2: KZ: 14..
+.Ng4, 14...Rh6; GZ: 14...Ng4 (->Pe3,f2,h2) ist wesentlich aktiver als 14...Rh6.
+} 14... Ng4 $1 {This is strategically ->(Pe3, Pf2, Ph2) and tactically (14...
+gxh4? doesn't work) correct. Dies ist strategisch ->(Pe3, Pf2, Ph2) und
+taktisch (14...gxh4? geht nicht) korrekt.} (14... Rh6 15. Nf3) 15. Bxg4 {
+This weakens the white squares. Dies schwächt die weißen Felder.} (15. gxh4 $2
+Qxh4 16. Nf3 Qh3 $1 17. Kh1 Nxh2 18. Ng1 Qh4 $19) (15. Nf3 Rxh2 $1 16. Nxh2
+Nxh2 17. Kxh2 (17. Re1 Qg5 18. Kxh2 Qh4+) 17... Qh4+ 18. Kg2 Qh3+ 19. Kg1 Bxg3
+(19... Rxe3 20. Bf3) 20. fxg3 Qxg3+ 21. Kh1 Re6 22. Bf6 $1 Qh3+ 23. Kg1 Qg3+
+$11) 15... Bxg4 {[%cal Yb7d5,Yd5e4,Ye4f3,Gf2d4] Black is striving to occupy
+the white squares.  Schwarz ist bestrebt die weißen Felder zu besetzen.} 16. f3
+{[%cal Yb7d5,Yd5e4,Gf2d4] Black: SQ:d5, DQ: e4, CQ: black squares, -> _|_e3,
+_|_f2;  -> Ph2, ->Pe3, ->Pg3, CM: 16...Rxh2! /\Qh4 (is tactically correct).
+Schwarz: SF:d5, RF: e4, FF: schwarzfeldrig, -> _|_e3, _|_f2;  -> Ph2, ->Pe3,
+->Pg3, KZ: 16...Rxh2! /\Qh4 (ist taktisch korrekt).} (16. Qc2 {[%cal Yb7d5,
+Yd5e4,Ye4f3,Yf3g2,Yg2h1] Black: SQ: d5, DQ: e4, CQ: white squares, -> to
+occupy or attack _|_g2, _|_h1;  to get rid of -> Ph2. Schwarz: SF: d5, RF: e4,
+FF: weißfeldrig, -> _|_g2, _|_h1; zu besetzen bzw. anzugreifen  -> Ph2, zu
+entfernen.} Rxh2 $1 {[%cal Yd5e4,Ye4h1]} 17. Kxh2 Qh4+ 18. Kg1 (18. Kg2 Qh3+
+19. Kg1 Re6 $19) 18... Bxg3 19. fxg3 Qxg3+ 20. Kh1 {[%cal Gg1d4,Yb7d5,Yd5g2]}
+Re6 21. Bf6 Qh3+ 22. Kg1 Rxe3 $19) 16... Rxh2 $1 {There is no alternative to
+this move.  Zu diesem Zug gibt es keine Alternative.} 17. fxg4 {[%cal Yb7d5,
+Yd5e4,Gf2d4] Black: SQ: d5, DQ: e4, CQ: black squares, -> _|_e3, _|_f2;  ->
+Pe3, Pg3, CM: 16...Rxe3 ->Pg3 (is tactically OK). Schwarz: SF: d5, RF: e4, FF:
+schwarzfeldrig, -> _|_e3, _|_f2;  -> Pe3, Pg3, KZ: 16...Rxe3 ->Pg3 (ist
+taktisch korrekt).} (17. Kxh2 Qh4+ $19) 17... Rxe3 $1 {[%cal Gf2d4,Yb7d5,Yd5e4,
+Ye4f3] Black has wrecked the d4-area. . Schwarz hat damit den d4-Raum zerstört.
+} 18. Bf6 {To shut off the Qd8 in order to prevent Qh4. Black: SQ: d5, DQ: e4,
+CQ: black squares, -> _|_e3, _|_f2; -> Pg3, ->Bf6; CM: 18...Rh3, 18...Rxg3+,
+18...gxf6. 18..Rh3 is tactically correct.  Um die Qd8 zu sperren, Qh4 zu
+verhindern. Schwarz: SF: d5, RF: e4, FF: schwarzfeldrig, -> _|_e3, _|_f2; ->
+Pg3, ->Bf6; KZ: 18...Rh3, 18...Rxg3+, 18...gxf6. 18..Rh3 ist taktisch korrekt.}
+Rh3 $3 (18... gxf6 19. Kxh2 Rxg3 {/\f5, Qh4} 20. Rf5 Qe7 21. Kh1 Rxd3 $17 22.
+Qe1 Qxe1+ 23. Rxe1 Rxd2 $17) (18... Rxg3+ 19. Kxh2 gxf6 {/\f5 followed by Qh4 /
+\f5 gefolgt von Qh4} 20. Rf5 Qe7 21. Kh1 Rxd3 $19) 19. Rf3 (19. Bxd8 Rexg3+ 20.
+Kf2 Rh2+ $19) 19... Rxg3+ 20. Kh1 gxf6 21. Rxg3 Bxg3 22. Nf3 Qd7 0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1989.??.??"]
+[Round "8"]
+[White "Piket, Jeroen"]
+[Black "Kasparov, Garry"]
+[Result "0-1"]
+[WhiteElo "2540"]
+[BlackElo "2775"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2q1bk1/ppNb1r1p/3p1nn1/P2Pp3/1P2Ppp1/5P2/4BBPP/2RQNRK1 b - - 0 20"]
+[PlyCount "17"]
+[EventDate "1989.09.??"]
+[EventType "tourn"]
+[EventRounds "14"]
+[EventCountry "NED"]
+[EventCategory "15"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yc7e5,Ye5f4,Gg2e4,Ge4d5] Black: SQ: e5, DQ: f4, CQ: black squares. Pay
+close attention to: 1. the weak squares on g3,h2; and  2. Qd8 (->h4); Nf6 
+(->h5). -> Bf2, ->Ph2. CM: 20...g3.  Schwarz: SF: e5, RF: f4, FF:
+schwarzfeldrig. Man beachte: 1. Die Felderschwächen auf g3,h2; 2. Qd8 (->h4);
+Nf6 (->h5). -> Bf2, ->Ph2. KZ: 20...g3.} 20... g3 $1 {The only move which can
+further Black's dark-squared initiative. Take note:now the Bf2 and the. Ph2
+caught up in the game. Seizing the initiative,or pursuing strategic goals are
+more important than material. Black sacrifices Ra8 (the exchange?!) in order
+to be able to occupy the squares g3 and h2.  Der einzige Zug, der die
+schwarzfeldrige Initiative des Schwarzen fördern kann. Man beachte: Dadurch
+sind Bf2 bzw. Ph2 ins Spiel verwickelt. Das Ergreifen der Initiative, bzw. die
+Verfolgung von den strategischen Zielen sind wichtiger als das Material.
+Schwarz opfert Ra8 (die Qualität?!) um die Felder g3 und h2 besetzen zu können.
+} 21. Nxa8 $6 (21. hxg3 {According to many annotators this was the best reply
+for White. We will also look into this variation. Laut vielen Kommentatoren
+stellte dies die beste weiße Erwiderung dar. Wir werden diese Variante auch
+nachspielen.} fxg3 22. Bxg3 {[%cal Yc7e5,Ye5f4,Gg2e4] Black: SQ: e5, DQ: f4,
+CQ: black squares. -> Bg3. CM: 22...Nh5, 22...Bh6; GM: 22...Bh6 (/\Bf4, ->Rc1)
+Schwarz: SF: e5, RF: f4, FF: schwarzfeldrig. -> Bg3. KZ: 22...Nh5, 22...Bh6;
+GZ: 22...Bh6 (/\Bf4, ->Rc1)} Bh6 $1 (22... Nh5 23. Bf2 Bh6 24. Rc3 $1 (24. Nxa8
+{is simply a transposition of moves. stellt nur Zugumstellung dar.}) 24... Rc8
+(24... Bf4 25. Nxa8 Ng3 26. Bxg3 Bxg3 27. f4) (24... Ngf4 25. Nxa8 Ba4 26. Nc2
+Rg7 27. g4) 25. Ne6) 23. Nxa8 (23. Rc2 Be3+) (23. Rc3 Rc8 24. Ne6 Bxe6 25. dxe6
+Rxc3 26. exf7+ Kxf7 $13) {Black: SQ: e5, DQ: f4, CQ: black squares. -> Bg3. CM:
+23...Nh5, 23...Bf4; GM: 23...Nh5. Schwarz: SF: e5, RF: f4, FF: schwarzfeldrig.
+-> Bg3. KZ: 23...Nh5, 23...Bf4; GZ: 23...Nh5.} 23... Nh5 (23... Be3+ 24. Bf2) (
+23... Bf4 $2 24. Bxf4) 24. Bf2 (24. Bh2 Be3+ 25. Rf2 (25. Kh1 Qh4 $19) 25...
+Qh4 26. Nd3 Ngf4 {/\Nd3 /\Nd3} 27. Rc2 Rg7 $40 {[%cal Gg2e4,Ge4d5,Yc7f4]}) {
+Black: SQ: e5, DQ: f4, CQ: white squares (the squares f4, g3 are under control)
+-> Pg2. Plan: Ngf4, Rg7. CM: 24...Bxc1 followed by Ngf4. Schwarz: SF: e5, RF:
+f4, FF: weißfeldrig (die Felder f4,g3 sind unter Kontrolle) -> Pg2. Plan: Ngf4,
+Rg7. KZ: 24...Bxc1 gefolgt von Ngf4.} 24... Bxc1 {The Bh6 isof no more use,
+since Black is now trying for a white-squared initiative. Der Bh6 ist nicht
+mehr gebräulich, da Schwarz nun eine weißfeldrige initiative anstrebt.} 25.
+Qxc1 Ngf4 26. Bc4 Rg7 $40 {/\Ng2! followed by Nf4, e.g. /\Ng2! gefolgt von Nf4
+z.B.} 27. Kh2 (27. a6 b5 28. Bd3 Nxg2 29. Nxg2 Nf4) 27... Qg5 28. Qd2 Qh6) {
+Black: SQ: e5, DQ: f4, CQ: black squares; -> Bf2, ->Ph2. CM: 21...Nh5 /\Qh4 ->
+Ph2; 21...gxf2+; 21...gxh2+.  Schwarz: SF: e5, RF: f4, FF: schwarzfeldrig; ->
+Bf2, ->Ph2. KZ: 21...Nh5 /\Qh4 -> Ph2; 21...gxf2+; 21...gxh2+.} 21... Nh5 $5 {
+It is useful to point out here, that Black has noticeably strengthend his
+position on the kingside, whilst White has taken off the passive rook on a8 by
+the manoeuvre Nc3-b5-c7-a8. Hier ist es nützlich anzumerken, dass der
+Nachziehende seine Position am Königsflügel, indem Weiß durch das Manöver
+Nc3-b5-c7-a8 den passiven Turm auf a8 entfernt hatte, wesentlich verstärkt hat.
+} (21... gxf2+ 22. Rxf2 Qxa8 $13) 22. Kh1 {/\Bg1} (22. Bxa7 Qh4 23. h3 {
+Black: SQ: e5, DQ: f4, CQ: black squares; to occupy -> _|_h2, to get rid of
+Ph3! 23...Bxh3. Schwarz: SF: e5, RF: f4, FF: schwarzfeldrig; -> _|_h2 zu
+besetzen, Ph3 zu entfernen! 23...Bxh3.} Bxh3 24. gxh3 Qxh3 {[%cal Yc7e5,Ye5f4,
+Yf4g3,Yg3h2] Black has managed to conquer the squares g3, h2. Es ist dem
+Schwarzen gelungen, die Felder g3,h2 zu erobern.} 25. Rf2 gxf2+ 26. Kxf2 {
+[%cal Gg2e4,Ge4d5] Black: SQ: e5, DQ: f4, CQ: white squares (Note: the squares
+g3, h2 have already been captured); -> _|_g2, ->_|_f3; ->Pf3 26...Nh4 Schwarz:
+SF: e5, RF: f4, FF: weißfeldrig (Man beachte: die Felder g3,h2 sind schon
+erobert); -> _|_g2, ->_|_f3; ->Pf3 26...Nh4} Nh4 $1 (26... Rg7 27. Nd3 Qh4+ 28.
+Kf1 Qh1+ $11) (26... Qg3+ 27. Kf1 Qh3+ $11) 27. Nd3 (27. Bf1 Qh2+ 28. Ng2 Rg7
+29. Ke2 Nxg2) 27... Qg3+ 28. Kf1 Ng2 $17) {Black: SQ: e5, DQ: f4, CQ: black
+squares -> Bf2, ->Ph2. CM: 22...gxf2+; 22...Qh4; GM: 22...gxf2+. Schwarz: SF:
+e5, RF: f4, FF: schwarzfeldrig -> Bf2, ->Ph2. KZ: 22...gxf2+; 22...Qh4; GZ: 22.
+..gxf2+.} 22... gxf2 (22... Qh4 $2 23. Bg1) 23. Rxf2 {Black: SQ: e5, DQ: f4,
+CQ: black squares. -> Ph2.CM: 23..Ng3+, 23...Qh4; GM: 23...Ng3+.  Schwarz: SF:
+e5, RF: f4, FF: schwarzfeldrig. -> Ph2. KZ: 23..Ng3+, 23...Qh4; GZ: 23...Ng3+.}
+Ng3+ $1 (23... Qh4 24. Kg1) 24. Kg1 (24. hxg3 fxg3 $19) {Black: SQ: e5, DQ: f4,
+CQ: black squares; Be aware: weak squares in the e4-area (_|_d4,_|_e3,_|_f2).
+-> Kg1. Plan: a6 followed by Qa7). CM: 24...Qxa8.  Schwarz: SF: e5, RF: f4, FF:
+schwarzfeldrig; Man beachte: die Felderschwächen im e4-Raum (_|_d4,_|_e3,_|_f2)
+. -> Kg1. Plan: a6 gefolgt von Qa7). KZ: 24...Qxa8.} 24... Qxa8 (24... Nxe2+
+25. Rxe2 Qxa8 $15) 25. Bc4 (25. hxg3 $2 fxg3 26. Rf1 Nf4 27. Nd3 Qd8 $19) (25.
+a6 Nxe2+ 26. Rxe2 bxa6 $17) 25... a6 $1 {/\Qa7} 26. Qd3 $6 (26. Nd3 $142 Qa7 $1
+) (26. hxg3 fxg3 27. Ra2 Qd8 $40) 26... Qa7 $1 27. b5 axb5 28. Bxb5 Nh1 $1 0-1
+
+[Event "Groningen (open)"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Yagupov, Igor"]
+[Black "Hedke, Fred"]
+[Result "1-0"]
+[WhiteElo "2425"]
+[BlackElo "2345"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2r1rb1k/1q3pp1/p6p/3Np2Q/1Pb5/1B4RP/P4PP1/3R2K1 w - - 0 1"]
+[PlyCount "33"]
+[EventDate "1993.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4f5,Gg7e5,Ye4d5,Gc7e5,Ye6d7,Ye6f7] White: SQ: e4; DQ: f5; CQ: white
+squares. Pay close attention to: 1. the weak squares on d7, e6, f7, g8. White
+should be striving to be able to occupy the squares d7, f7, g8, h7; Possible
+ways are: attack on the b1-h7 diagonal, e.g. by Bc2, Qf5 or mating pattern Nf6,
+Rg8; attack down the d-file Nf6, Rd7. CM: 1.Nf6 should be investigated. 1./\
+Rd7; 2.to get rid of Pg6, _|_g8, but also to open the b1-h7 diagonal.  Weiß:
+SF: e4; RF: f5; FF: weißfeldrig. Man beachte: 1. Die Felderschwächen auf d7,
+e6, f7, g8. Weiß sollte bestrebt sein, die Felder d7, f7, g8, h7 besetzen zu
+können; Die Möglichkeiten sind: Angriff auf der Diagonale b1-h7 z.B. mittels
+Bc2, Qf5 oder Mattbild Nf6, Rg8; Angriff auf der d-Linie Nf6, Rd7. KZ: 1.Nf6
+soll geprüft werden. 1./\ Rd7; 2.Pg6 zu entfernen, _|_g8, aber auch die
+Diagonale b1-h7 zu öffnen.} 1. Nf6 $1 {Strategically well grounded and
+tactically correct: /\ Qh6+-; /\Rd7; /\Ne8  Dies ist strategisch gut begründet
+und taktisch korrekt: /\ Qh6+-; /\Rd7; /\Ne8} g6 $8 {[%cal Ye4f5,Gg7e5,Ye4d5,
+Ye6d7,Ye6f7,Gc7e5] This weakens the squares g7, f6, that is the e5-area. The
+Nf6 is now strengthened. White: SQ: e4; DQ: f5; CQ: white squares. Pay close
+attention: 1. the weak squares on d7, e6, f7, g8. 2. Nf6, Bb3, Qh5. ->Bc4,
+->Pf7, ->Pg6. CM: 2.Bxc4; Dies schwächt die Felder g7, f6, also den e5-Raum.
+Der Nf6 ist nun gestärkt. Weiß: SF: e4; RF: f5; FF: weißfeldrig. Man beachte:
+1. Die Felderschwächen auf d7, e6, f7, g8. 2. Nf6, Bb3, Qh5. ->Bc4, ->Pf7,
+->Pg6. KZ: 2.Bxc4;} (1... gxf6 $2 2. Qg4 $18) 2. Bxc4 {This intended to weaken
+the white squares in the e5-area, but also to divert the Rc8, which should
+bring about a weakening of the back rank.  Dies soll die weißen Felder im
+e5-Raum schwächen, aber auch den Rc8 ablenken, was die Schwächung der
+Grundreihe zur Folge haben soll.} Rxc4 {[%cal Ye4d5,Ye4f5,Ye6d7,Ye6f7,Gc7e5,
+Gg7e5] White: SQ: e4; DQ: f5; CQ: white squares. The goal is to occupy the
+squares d7, e8, g8. be aware of the weak back rank. ->Re8; ->Pg6, ->Ph7. CM: 3.
+Nxe8, 3.Qe2, 3.Rd7? (doesn't work), 3.Rxg6. Weiß: SF: e4; RF: f5; FF:
+weißfeldrig. Ziel ist es die Felder d7, e8, g8 zu besetzen. Man beachte die
+schwache Grundreihe. ->Re8; ->Pg6, ->Ph7. KZ: 3.Nxe8, 3.Qe2, 3.Rd7? (geht
+nicht), 3.Rxg6.} (2... gxh5 3. Rg8#) 3. Nxe8 $1 {The strongest continuation.
+White definitively weakens Black's back rank. Die stärkste Fortsetzung. Weiß
+schwächt damit die schwarze Grundreihe endgültig.} (3. Qe2 Rec8 $13) (3. Rxg6
+$5 fxg6 4. Qxg6 Qg7 5. Qxg7+ Kxg7 6. Nxe8+ Kg6 $14) (3. Rd7 $2 Qxd7) 3... gxh5
+4. Nf6 {This is the position White was aiming for. He is threatening the back
+rank mate: /\Rg8, /\Rd8, which forces Black into further concessions.  Diese
+Stellung hatte Weiß angestrebt. Es droht das Grundreihematt: /\Rg8, /\Rd8, was
+Schwarz zu weiteren Zugeständnissen zwingt.} Rg4 $8 (4... Bg7 5. Rd8+ $18) 5.
+hxg4 $16 {White already has sufficient compensation (two rooks) for the queen
+and in addition has the intiative, e.g. he is threatening the black king. 
+Weiß hat bereits eine ausreichende Kompensation (zwei Türme) für die Dame und
+verfügt über eine Intiative, u.a. bedroht er den schwarzen König.} h4 (5... Be7
+6. Nd5 hxg4 7. Rxg4 $16) 6. Rf3 {/\Rd8, /\Rd7} (6. Rd7 Qc6 7. Rf3 (7. Rxf7 $2
+Qc1+ 8. Kh2 hxg3+) 7... e4 8. Rxf7 Bg7 9. Rf5 $16) 6... Be7 (6... Qxb4 7. Rd8 (
+7. Rd7 $5 e4) 7... e4 (7... Qe7 8. Re8 Qd6 9. Ne4 Qd1+ 10. Kh2 Kg7 11. g5 $1
+$16) (7... Qe1+ 8. Kh2 Kg7 9. Nh5+ $18) (7... Kg7 $2 8. Nh5+ $18) 8. Rf4 Qe7 9.
+Re8 Qd6 10. a4) 7. Rd7 (7. Nd5 Bg5 8. a3 $16) 7... Qxb4 8. Nd5 Qb1+ 9. Kh2 e4
+$2 (9... Qb5 10. Rxf7 Qxd7 11. Nf6 Qd3 12. Rxe7 $18) 10. Rxf7 Qb8+ 11. Rc7 (11.
+Kh3 Qb1 12. g5 $18) (11. g3 hxg3+ 12. Kh3 $18) 11... Bd6+ (11... Bg5 12. Kh3)
+12. Kh3 Be5 (12... Bxc7 13. Nf6 $18) 13. Rb7 (13. Rh7+ Kg8 14. Rcf7 $18 {/\Ne7}
+) 13... Qe8 14. Rbe7 Qg8 15. Nc7 e3 16. fxe3 h5 (16... Bxc7 17. Rxc7 $18) 17.
+Re8 1-0
+
+[Event "Ukraine"]
+[Site "?"]
+[Date "1993.??.??"]
+[Round "?"]
+[White "Balashov, Sergey"]
+[Black "Yandemirov, Valeri"]
+[Result "0-1"]
+[BlackElo "2465"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "3r2k1/pp1r1p1p/2p1nnp1/2P1p1Pq/PP2P1b1/2B2PP1/2QN2B1/R3R1K1 b - - 0 1"]
+[PlyCount "19"]
+[EventDate "1993.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Gg2e4,Ye5f4,Gc2e4,Ye5d4,Ye3d2,Ye3f2] Black: SQ: e5, DQ: f4; CQ: Here
+there are two possible answers:  1. black squares.Take note: White's position
+shows evidence of black-squared weaknesses (the squares d4,f4,g3,f2,h2 are
+insufficiently protected). ->Bc3 should be challenged. Here the following
+possibility is worth considering: 1...Rxd2 (->Nd2) 2.Bxd2 Nd4: 2. white
+squares. Take note: the black pieces cooperate best on the white squares, Bg4,
+Qh5, Nf6, Rd2 -> Nd2. Here there are two possibilities to consider: 1...Rxd2 
+(->Nd2) 2.Bxd2 Nd4: 1...Bh3. So CM: 1...Rxd2; 1...Bh3. Both should be
+investigated. it is worth pointing out that the move 1...Rxd2 fully meets the
+demands of the position. GM: 1...Rxd2.  Schwarz: SF: e5, RF: f4; FF: Hier gibt
+es zwei Antwortmöglichkeiten: 1. schwarzfeldrig. Man beachte: Die weiße
+Stellung weist schwarzfeldrige Schwächen auf (die Felder d4,f4,g3,f2,h2 sind
+nicht ausreichend gedeckt). ->Bc3 soll befragt werden. In diesem Sinne kommt
+die Möglichkeit in Betracht: 1...Rxd2 (->Nd2) 2.Bxd2 Nd4: 2. weißfeldrig. Man
+beachte: Die schwarzen Steine wirken weißfeldrig optimal zusammen, Bg4, Qh5,
+Nf6, Rd2 -> Nd2. In diesem Sinne kommen zwei Möglichkeiten in Betracht: 1...
+Rxd2 (->Nd2) 2.Bxd2 Nd4: 1...Bh3. Also KZ: 1...Rxd2; 1...Bh3. Beide sollen
+überprüft werden. Es ist anzumerken, dass der Zug 1...Rxd2 völlig den
+Anforderungen der Stellung entspricht. GZ: 1...Rxd2.} 1... Rxd2 $1 (1... Qxg5
+2. Nf1) (1... Bh3 $5 {Black would like to seze an initiative on the white
+squares. -> Bg2 Schwarz möchte eine weißfeldrige Initiative ergreifen. -> Bg2}
+2. Nc4 $1 {White on the other hand is trying to be active on the black squares.
+-> Pe5 Weiß ist dagegen bestrebt, eine schwarzfeldrige Initiative zu ergreifen.
+-> Pe5} (2. gxf6 Bxg2 3. Kxg2 Ng5 {[%cal Ye5f4,Gg2e4]} 4. Rf1 (4. Rh1 Rxd2+)
+4... Qh3+ 5. Kf2 Qh2+ 6. Ke1 Qxg3+ 7. Ke2 Ne6 8. Rae1 Rxd2+ $19) (2. Nf1 Bxg2
+3. Qxg2 Qxg5 $17) 2... Bxg2 3. Qxg2 (3. Kxg2 Nxg5) 3... Rd3 {-> Pf3} (3... Nxg5
+4. Nxe5) 4. Bxe5 Nxg5 5. Bxf6 Nxf3+ 6. Kf2 Nxe1 7. g4 (7. Rxe1 Rd2+) 7... Nxg2
+8. gxh5 Nf4 9. Bxd8 Rxd8 $15) 2. Bxd2 (2. fxg4 Nxg4) 2... Nd4 3. fxg4 $8 (3.
+Qc3 $2 Nxf3+ 4. Bxf3 Bxf3 $19 5. gxf6 Qh1+ 6. Kf2 Qg2+ 7. Ke3 Bg4 $19) 3...
+Nxg4 {[%cal Ye5d4,Ye5f4,Gg2e4,Gc2e4] This is the position Black should have
+been aiming for.  Black: SQ: e5, DQ: f4, CQ: black squares: in order to occupy
+_|_h2, _|_g3. White's e4-area shows evidence of weaknesses on the squares d2,
+e3, f2 and h2. Black should be trying to open the f-file, in order to force
+his way into White's area.  Diese Stellung sollte Schwarz angestrebt haben.
+Schwarz: SF: e5, RF: f4, FF: schwarzfeldrig: _|_h2, _|_g3 zu besetzen. Der
+weiße e4-Raum weist die Felderschwächen auf d2, e3, f2 und h2 auf. Schwarz
+soll bestrebt sein, die f-Linie zu öffnen, um in den weißen Raum eindringen zu
+können.} 4. Qc3 (4. Qd3 f6) 4... f6 $1 {This is Black striving to open the
+f-file and by doing so to strengthen the threat Qh2+. Schwarz ist damit
+bestrebt, die f-Linie zu öffnen und dadurch die Drohung Qh2+ zu verstärken.} (
+4... Rf8 5. Be3 $1 Qh2+ 6. Kf1 f6 7. Bxd4 fxg5+ 8. Bf3 Qxg3 9. Ke2 exd4 10.
+Qc4+ Kg7 11. Bxg4 Rf2+ 12. Kd1 Qxg4+ 13. Re2 Qg1+ 14. Re1 Qg4+ $11) 5. Qc4+ $2
+(5. Be3 {This continuation which intends to open up the second rank for the
+Ra1 and also to exchange off the strong Nd4 should help the defence: e.g..
+Diese Fortsetzung mit der Absicht die zweite Reihe für den Ra1 zu öffnen, aber
+auch den starken Nd4 tauschen zu können, sollte die Verteidigung fördern: z.B.}
+fxg5 6. Ra2 (6. Bxd4 Qh2+ 7. Kf1 exd4 8. Qc4+ (8. Qf3 Rf8) 8... Kg7 9. Ra3 Rf8+
+10. Ke2 Qxg2+ 11. Kd1 Ne3+ $19 {Yandemirov,V Yandemirov,V}) 6... Qh2+ 7. Kf1
+Qxg3 (7... Rf8+ 8. Rf2) 8. Rf2 Nxf2 9. Qc4+ Kg7 10. Bxf2 Rf8 11. Qa2 g4 $17) (
+5. gxf6 Rf8 $17) 5... Kh8 $19 {White is now lost. . Weiß steht nun verloren.}
+6. Qf7 (6. Ra3 Qh2+ 7. Kf1 Rf8 $19) 6... Qh2+ 7. Kf1 Qxg3 (7... Nf3 $1) 8. Be3
+Nh2+ (8... Nc2 $5) 9. Kg1 Ndf3+ 10. Kh1 Ng4 0-1
+
+[Event "Tilburg"]
+[Site "Tilburg"]
+[Date "1993.??.??"]
+[Round "2"]
+[White "Nikolic, Predrag"]
+[Black "Gurevich, Mikhail"]
+[Result "1-0"]
+[WhiteElo "2625"]
+[BlackElo "2605"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2rr4/1b1nqpk1/4p1p1/p3P1Np/1b1RNQ1P/8/1PB2PP1/R5K1 w - - 0 25"]
+[PlyCount "18"]
+[EventDate "1993.11.??"]
+[EventType "k.o."]
+[EventRounds "7"]
+[EventCountry "NED"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Ye5f6,Gf7d5] White: SQ: d4, DQ: e5, CQ: white squares ->
+Pe6, ->Pf7.  Pay attention to: 1. the weak squares on f7,e6;  2. Ng5, Qf4
+->_|_f7; Ne4 (->d6-> _|_f7) CM: 25.Bb3, 25.Rxb4 /\Nd6 -> Pf7. GM: 25.Rxb4. 
+Weiß: SF: d4, RF: e5, FF: weißfeldig -> Pe6, ->Pf7. Man beachte: 1. Die
+Felderschwächen auf f7,e6; 2. Ng5, Qf4 ->_|_f7; Ne4 (->d6-> _|_f7) KZ: 25.Bb3,
+25.Rxb4 /\Nd6 -> Pf7. GZ: 25.Rxb4.} 25. Rxb4 $1 {White intends to strengthen
+the attack on the squares 6, f7 by playing Nd6. Weiß beabsichtigt damit durch
+Nd6 den Angriff auf die Felder e6,f7 zu verstärken.} (25. Bb3 $6 {This is to
+enable Black to simplify and in so doing blunt White's attack. Dies soll es
+Schwarz ermöglichen, die Stellung zu vereinfachen und den weißen Angriff
+dadurch zu schwächen.} Bxe4 $1 26. Nxe4 Nb6) 25... axb4 (25... Bxe4 $1 26. Rxe4
+Rxc2 27. Rxa5 Rxb2 (27... Nb6 {[%cal Yb2d4,Yd4e5,Ye5f6,Gf7d5] White: SQ: d4,
+DQ: e5, CQ: black squares; -> Kg7, ->Qe7; CM: 28.Qf6+! Weiß: SF: d4, RF: e5,
+FF: schwarzfeldrig; -> Kg7, ->Qe7; KZ: 28.Qf6+!} 28. Qf6+ Qxf6 29. exf6+ $16
+Kxf6 $6 30. Rf4+ $18) 28. Ra7 Rdb8 29. Qxf7+ Qxf7 30. Nxf7 Kxf7 31. Rxd7+ $16)
+26. Nd6 $1 {[%cal Yb2f6,Yb2d4,Gf7d5] White had been aiming for this position. 
+Diese Stellung hatte der Weiße angestrebt.} Rxc2 $8 (26... Nxe5 27. Qxe5+ f6
+28. Nxe6+ (28. Nxc8 Bxc8) 28... Kh8 29. Nxc8 Bxc8 30. Qe3 $18) {White: SQ: d4,
+DQ: e5, CQ: white squares -> Pe6, ->Pf7. CM: 27.Ngxf7 /\Qh6+  Weiß: SF: d4, RF:
+e5, FF: weißfeldrig -> Pe6, ->Pf7. KZ: 27.Ngxf7 /\Qh6+} 27. Ngxf7 g5 $8 (27...
+Rh8 28. Nxh8 Kxh8 29. Nxb7 $18) 28. hxg5 $1 {/\g6} Rf8 $8 (28... Ra8 29. Rxa8
+Bxa8 30. g6 $18) 29. g6 $18 {/\Qh6} Rxf7 $8 30. gxf7 Nf8 $6 (30... Bc6 $1 31.
+Ra7 Rxb2 32. Qg3+ Kh6 33. Rc7 $16) (30... Bd5 31. Ra7 $18 {/\ Rd7}) 31. Ra7 Rc7
+32. Ne8+ Kg6 (32... Kh7 33. Nxc7 Qxc7 34. Qxb4 $18) 33. Qg3+ Kxf7 (33... Kxf7
+34. Nd6+) 1-0
+
+[Event "Cuba"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "?"]
+[White "Hernandez, Angel C"]
+[Black "Moreno Roman, A."]
+[Result "1-0"]
+[WhiteElo "2325"]
+[BlackElo "2330"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2q1rk1/1b2npbp/1p2p1p1/pp4N1/4PP2/1B4QP/PPP3PK/2B1RR2 w - - 0 1"]
+[PlyCount "25"]
+[EventDate "1994.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%csl Ye4][%cal Ye4f5,Gg7e5,Ge5d4,Gb6d4] White: SQ: e4, DQ: f5, CQ: white
+squares .->Pe6, ->Ne7, ->Pg6, ->Pf7.  Pay close attention to: 1. Ng5, Bb3, Pe4;
+and  2. the weak squares on e6, f7, h7.  CM: 1.Ne6, 1.Nf7. 1. Be6.1. f5 /\f6.
+The best move to meet the demands of the e4-pawn strategy is 1.f5 (1. a pawn
+move; 2. Entangles Ne7, Be6, Bg6 in the game). GM: 1.f5  Weiß: SF: e4, RF: f5,
+FF: weißfeldrig .->Pe6, ->Ne7, ->Pg6, ->Pf7. Man beachte: 1. Ng5, Bb3, Pe4; 2.
+die Felderschwächen auf e6, f7, h7. KZ: 1.Ne6, 1.Nf7. 1. Be6.1. f5 /\f6. Den
+Anforderungen der e4-Bauernstrategie entspricht am besten 1.f5 (1. Ein
+Bauernzug; 2. Verwickelt Ne7, Be6, Bg6 ins Spiel). GZ: 1.f5} 1. f5 $1 {The
+strongest continuation. Take note:  1. it enmeshes most of the opponent's
+white-squared pieces in the game.  2. an active pawn move is the best thing to
+support a pawn strategy.  3. Black should react on the white squares. The
+threat is 2.f6. Die stärkste Fortsetzung. Man beachte:  1. die meist
+weißfeldrigen feindlichen Steine sind dadurch ins Spiel verwickelt.  2. ein
+aktiver Bauernzug stützt am besten eine Bauernstrategie.  3. Schwarz soll
+weißfeldrig reagieren. Es droht 2.f6.} (1. Bxe6 fxe6 2. Nxe6 Qd6 3. Nxf8 Rxf8
+4. Qb3+ $14) 1... exf5 {[%cal Ye4f5,Ye4d5,Gc7e5,Gg7e5,Ye6d7,Ye6f7] White: SQ:
+e4, DQ: f5, FF: white squares. (Ng5,Bb3,Pe4). -> _|_e6, _|_f7, ->Ne7, ->Pf7,
+->Pf5. CM: 2.Nxf7 /\Bg5; 2.Bxf7+; 2.exf5, Weiß: SF: e4, RF: f5, FF:
+weißfeldrig. (Ng5,Bb3,Pe4). -> _|_e6, _|_f7, ->Ne7, ->Pf7, ->Pf5. KZ: 2.Nxf7 /
+\Bg5; 2.Bxf7+; 2.exf5,} (1... h6 $2 2. Nxf7 $1 $18) (1... a4 2. f6 Bxf6 (2...
+axb3 3. fxg7 Kxg7 4. Rxf7+ $1 $18) 3. Rxf6 axb3 4. axb3 $16) 2. exf5 $6 (2.
+Nxf7 $1 {A logical continuation, to enable Bg5 (->Ne7) Eine logische
+Fortsetzung, die Bg5 (->Ne7) ermöglichen soll.} Rxf7 3. Bg5 {An important
+white squared move, which challenges the Ne7. Ein wichtiger weißfeldriger Zug,
+der Ne7 befragen soll.} Qd4 {/\Be5} (3... Kh8 4. Bxf7) (3... Bxe4 4. Rxe4) (
+3... Qd7 4. Bxf7+ Kxf7 5. Bxe7) 4. Bxf7+ Kxf7 5. exf5 Nxf5 6. Qc7+ $16) 2...
+Nxf5 {[%cal Ye4f5,Gg7e5,Ye6f7]} {White: SQ: e4, DQ: f5, CQ: white squares. 
+(Ng5,Bb3,Pe4). -> f7. ->Pf7, ->Nf5. CM: 3.Nxf7 /\ Rxf5, 3.Rxf5 /\Nxf7. GM: 3.
+Rxf5  Weiß: SF: e4, RF: f5, FF: weißfeldrig. (Ng5,Bb3,Pe4). -> f7. ->Pf7,
+->Nf5. KZ: 3.Nxf7 /\ Rxf5, 3.Rxf5 /\Nxf7. GZ: 3.Rxf5} 3. Rxf5 $1 {This is to
+enable the attack on Pf7, but also has an effect on the black squares. Pay
+close attention: the Nf5 is operating on the black squares.. Dies soll den
+Angriff auf Pf7 ermöglichen, hat aber auch eine schwarzfeldrige Wirkung. Man
+beachte: der Nf5 spielt schwarzfeldrig.} (3. Nxf7 Rxf7 4. Rxf5 gxf5) 3... gxf5
+{[%cal Gb7d5,Gf7d5,Yb2d4,Yd4e5] The position has changed. White: SQ: d4, DQ:
+e5, CQ: black squares, aiming to occupy f6, g7. The goal for White's attack is
+clear: occupy the squares g7, f6, challenge the Bg7. The Bc1 should now play
+an important role. CM: 4.Nxf7 /\Bh6.  Die Stellung hat sich geändert. Weiß: SF:
+d4, RF: e5, FF: schwarzfeldrig, die Felder f6, g7 zu besetzen. Das
+Angriffsziel steht für Weiß fest: die Felder g7, f6, besetzen, den Bg7
+befragen. Der Bc1 soll nun eine wichtige Rolle spielen. KZ: 4.Nxf7 /\Bh6.} 4.
+Nxf7 $1 {To bring the Bc1 into the game.  Um den Einsatz des Läufers c1 zu
+ermöglichen.} Rxf7 5. Bg5 $1 {[%cal Yd4e5,Ye5f6,Yb2d4,Gf7d5] A strong move
+which backs up White's initiative: /\Bf6 ->Bg7, /\Re7 ->Rf7. Ein starker Zug,
+der die weiße Initiative fördert: /\Bf6 ->Bg7, /\Re7 ->Rf7.} (5. Bh6 $2 Kh8 $1
+$19) 5... Qd4 {[%cal Gb7d5,Gf7d5,Yb2d4,Yd4e5] A good move, which protects the
+black squares. Ein guter Zug, der die schwarzen Felder sichert.} (5... Qb8 6.
+Bxf7+ $1 Kxf7 7. Re7+ Kf8 $8 8. Bf4 (8. Rc7 Be4) 8... Qxf4 9. Qxf4 Kxe7 10.
+Qc7+) {White: SQ: d4, DQ: e5, CQ: black squares -> -> Qd4, ->Bg7; CM: 6.c3.
+Weiß: SF: d4, RF: e5, FF: schwarzfeldrig -> -> Qd4, ->Bg7; KZ: 6.c3.} 6. c3 {
+[%csl Yd4][%cal Yb2d4,Yd4e5]} (6. Re7 $2 Bd5) (6. Bxf7+ Kxf7 7. Qc7+ (7. Re7+
+Kf8 $19) 7... Kg8 8. Qxb7 $13) 6... f4 $2 (6... Qc5 {Black should protect the
+black squares and beat off the opponent's attack on the said black squares.
+Schwarz sollte die schwarzen Felder sichern und dadurch den feindlichen
+Angriff auf den schwarzen Feldern abschlagen.} 7. Bxf7+ Kxf7 8. Re7+ Qxe7 9.
+Bxe7 Re8 10. Bg5 Be5 11. Bf4 Rg8 $6) 7. Bxf4 $6 {White chooses the wrong move
+order. Weiß wählt damit die falsche Zugreihenfolge.} (7. Bxf7+ $1 Kxf7 8. Re7+
+Kg8 9. Bxf4 $18) (7. Qg4 $16) 7... Qd7 8. Be6 (8. Bh6 $2 Bd5) ({White: SQ: d4,
+DQ: e5, CQ: black squares -> Bg7 Weiß: SF: d4, RF: e5, FF: schwarzfeldrig ->
+Bg7} 8. Be5 $5 Bd5 9. Rd1 Bxb3 10. Rxd7 Rxd7 11. axb3 $16) 8... Qe8 $2 (8...
+Qc6 9. Bxf7+ (9. Bh6 Kh8 10. Bxf7 Bxh6) 9... Kxf7 10. Re7+ Kxe7 11. Qxg7+ Ke6
+12. Qh6+ {Drawn by perpetual check. Remis durch Dauerschach.}) 9. Bh6 $1 Kh8
+10. Bxf7 Qxf7 11. Qxg7+ Qxg7 12. Bxg7+ Kxg7 13. Re7+ 1-0
+
+[Event "Cuba"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Romero Gomez, Jose Carlos"]
+[Black "Hernandez, Yunuhen"]
+[Result "1-0"]
+[WhiteElo "2310"]
+[BlackElo "2175"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2qk2r/1b1nbp1p/p3p1p1/1p2N3/2pPPPQ1/2P3P1/6BP/R1B2RK1 w kq - 0 1"]
+[PlyCount "23"]
+[EventDate "1994.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd4e5,Gf7d5,Yb2d4] White: SQ: e4, DQ: f5, CQ: white squares.  Look out
+for: (Bg2,Ne5,Qg4) The goal: dto attack the squares e6, f7. -> Pf7, Pe6.
+Thereafter White should strive to strengthen the influence of his own pieces
+on the squares e6, f7, i.e. a white squared initiative (this means tangling up
+in the play those black pieces which are meant to defend the white squares).
+Which moves help strive for these goals? CM: 1.f5 or 1.Nxf7 followed by f5. 
+Weiß: SF: e4, RF: f5, FF: weißfeldrig. Man beachte: (Bg2,Ne5,Qg4) Das Ziel:
+die Felder e6, f7 anzugreifen. -> Pf7, Pe6. Weiß sollte danach anstreben, die
+Wirkung der eigenen Steine auf die Felder e6, f7 zu verstärken, also eine
+weißfeldrige Initiative (d.h. die feindlichen Steine ins Spiel zu verwickeln,
+die die weißen Felder verteidigen sollen) zu erlangen. Welche Züge können die
+gestellten Ziele anstreben? KZ: 1.f5 oder 1.Nxf7 gefolgt von f5.} 1. Nxf7 $1 {
+1.f5 doesn't work because of 1...Ne5. The knight sacrifice is intended to
+weaken the squares e6, f7 and drage the Ke8 into the game. 1.f5 geht wegen 1...
+Ne5 nicht. Das Springeropfer soll die Felder e6, f7 schwächen, den Ke8 ins
+Spiel verwickeln.} (1. f5 $2 Nxe5) 1... Kxf7 {White: SF: e4, DQ: f5, CQ: white
+squares. -> Pe6, ->Pg6; CM: 2.f5.  Weiß: SF: e4, RF: f5, FF: weißfeldrig. ->
+Pe6, ->Pg6; KZ: 2.f5.} 2. f5 $1 {A logical continuation. ->Pe6, ->Kf7. The
+white squares in the d5-area are further weakened.  Eine konsequente
+Fortsetzung. ->Pe6, ->Kf7. Die weißen Felder im d5-Raum werden weiter
+geschwächt.} Kg7 (2... exf5 $2 {Taking on f5 allows White to bring into the
+game the Bg2 and thus strengthen the pressure on the white squares. Das Nehmen
+auf f5 ermöglicht dem Weißen den Bg2 ins Spiel einzuschalten und damit den
+Druck auf die weißen Felder zu verstärken.} 3. exf5 Bxg2 4. fxg6+ Ke8 5. g7 $18
+) (2... gxf5 3. exf5 Nf6 (3... Bxg2 4. fxe6+ $18) 4. fxe6+ Ke8 5. Rxf6 $1 Bxf6
+6. Qh5+ Ke7 7. Qf7+ Kd6 8. Bf4+ $18) {White: SQ: e4, DQ: f5, CQ: white squares.
+-> Pe6, ->Pg6; CM: 3.fxe6, 3.fxg6.  Weiß: SF: e4, RF: f5, FF: weißfeldrig. ->
+Pe6, ->Pg6; KZ: 3.fxe6, 3.fxg6.} 3. fxe6 {[%cal Gf7d5,Yb2d4,Yd4e5,Ye5f6] White
+has two pawns for the knight, but Black's d5-area is wrecked. /\Rf7 Weiß hat
+zwei Bauern für den Springer, der schwarze d5-Raum ist aber zerstört. /\Rf7} (
+3. fxg6 hxg6 4. Qxe6 Qe8 $17) 3... Nf6 {[%cal Yd4e5,Gf7d5,Yb2d4,Ye5f6] White:
+SQ: d4, DQ: e5, Goals: occupy _|_e5, _|_f6 , attack _|_f7. Nf6 is the target
+for attack. CQ: black squares. Take note: the Bc1 is active, ->Be7. The goal:
+occupy _|_f6, _|_g7, motif e4-e5-> f6. 4.Rxf6! /\e5, 4.Qh3 or 4.Qh4.  Weiß: SF:
+d4, RF: e5, Ziele: _|_e5, _|_f6 besetzen, _|_f7 angreifen. Nf6 stellt das
+Angriffsziel dar. FF: schwarzfeldrig. (man beachte: der Bc1 ist aktiv, ->Be7.
+Das Ziel: _|_f6, _|_g7 zu besetzen, Motiv e4-e5-> f6. 4.Rxf6! /\e5, 4.Qh3 oder
+4.Qh4.} 4. Qh4 {White would now like to increase the pressure on the black
+squares. /\ Bg5 Weiß möchte nun Druck auf den schwarzen Feldern entwickeln. /\
+Bg5} (4. Rxf6 $5 {The strongest continuation. White accepts the loss of
+material in order to achieve his goals. Die stärkste Fortsetzung. Den
+Materialverlust für das Erreichen der Ziele nimmt Weiß in Kauf.} Bxf6 5. e5
+Bxg2 6. exf6+ (6. Kxg2 Qd5+) 6... Qxf6 7. Bf4 $1 {[%cal Yc3e5,Yf4e5,Ye5f6] A
+useful intermediate move! /\Be5 Ein nützlicher Zwischenzug! /\Be5} (7. Kxg2
+Rhe8) 7... Qf5 8. Be5+ Kf8 9. Qxf5+ gxf5 10. Kxg2 Rg8 $11) (4. Qh3 $1 {/\e5}
+Kg8 5. Bh6) 4... h6 $8 5. Ra2 {/\Raf2 -> f6, /\e5 followed by Rf7 /\Raf2 -> f6,
+/\e5 gefolgt von Rf7} (5. e5 Bxg2) 5... Qb6 $2 {An error. Ein Fehler.} (5...
+Rh7 {This should clear the h8-square for the black king. Dies soll das Feld h8
+für den schwarzen König räumen.} 6. Raf2 (6. e5 Bxg2 7. Rxg2 Nd5) 6... Kh8 7.
+Rxf6 g5 8. Bxg5 hxg5 9. Qxg5 {White energetically pursues the goals of
+d4-strategy in the direction of e5,and protects the squares e5, f6. Not
+without cost, but at the expense of a rook.Whether this is enough for a win
+would need to be proved as a result of further investigation, e.g.  . Weiß
+verfolgt energisch die Ziele der d4-Strategie in Richtung e5, sichert die
+Felder e5,f6. Nicht aber umsonst, sondern für einen Turm. Ob es zum Gewinn
+reicht, müsste in weiteren Untersuchungen nachgewiesen werden, z.B. .} Qc7 10.
+Qf5 Bxf6 11. Qxf6+ Qg7 12. e5 Bxg2 13. Kxg2 Rh6 14. Qxg7+ Kxg7 15. d5 Rh5 16.
+Rf7+ Kg8 17. d6 Rxe5 18. Re7 Rd8 19. d7 Kf8 20. Rf7+ Kg8 21. Re7 $11) (5... Qg8
+6. e5 Nd5 7. Qh3 Rf8 8. Rxf8 Kxf8 9. Bxd5 Bxd5 10. Rxa6 $13) 6. e5 $1 $18 Raf8
+7. Bxb7 Nd5 8. Rxf8 $1 Bxh4 $8 (8... Kxf8 9. Qe4) (8... Rxf8 9. Qxh6+) 9. Rf7+
+Kg8 10. Bxd5 {[%csl Yd4][%cal Yd4e5,Ye5f6,Gf7d5] White has managed to achieve
+the goals of the d4-strategy in the direction of e5 (occupy the squares e5, f6,
+g7, attack the squares d5, e6, f7).  Es ist dem Weißen gelungen die Ziele der
+d4-Strategie in Richtung e5 (die Felder e5,f6,g7 zu besetzen, die Felder d5,e6,
+f7 anzugreifen) zu erfüllen.} Rh7 11. e7 Bxe7 12. Rf6+ 1-0
+
+[Event "Legnica"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "2"]
+[White "Kholmov, Ratmir D"]
+[Black "Collas, Didier"]
+[Result "1-0"]
+[WhiteElo "2460"]
+[BlackElo "2400"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "5rn1/4ppk1/3p2p1/ppqP2Q1/2r1B2R/P1P4P/1P4PK/5R2 w - - 0 1"]
+[PlyCount "9"]
+[EventDate "1994.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4f5,Gg7e5,Yc2e4,Ge5d4] White: SQ: e4, DQ: f5, CQ: white squares. Pat
+attention to Be4, the weak squares on e6, f7 , g6. ->Pg6,->Pf7. Idea: 1. Rhf4 
+(-> Pf7) /\Rxf7 followed by Qxg6; 2. Rf1-f4-g4 /\Bxg6: 3.Rxf7 followed by Qxg6.
+Weiß: SF: e4, RF: f5, FF: weißfeldrig. Man beachte Be4, die Felderschwächen
+auf e6, f7 , g6. ->Pg6,->Pf7. Idee: 1. Rhf4 (-> Pf7) /\Rxf7 gefolgt von Qxg6;
+2. Rf1-f4-g4 /\Bxg6: 3.Rxf7 gefolgt von Qxg6.} {Since in the variation 1.Rhf4
+White is not able to reach his goal, should you be thinking about diverting
+the Rc4. 1.b3!?  Da Weiß im Abspiel 1.Rhf4 nicht in der Lage sein Ziel zu
+erreichen, soll man überlegen, den Rc4 abzulenken. 1.b3!?} 1. b3 $5 {White is
+trying to get the Rc4 to capture on c3, to take the load off the Be4. Weiß ist
+bestrebt den Rc4 zum Nehmen auf c3 zwingen, somit den Be4 zu entlasten.} (1.
+Rff4 $5 a4 (1... b4 2. axb4 axb4 3. Bxg6) 2. Rfg4 Rxe4 3. Rxe4 $18) (1. Rhf4
+Nf6 $1 2. Rxf6 Rxe4) (1. Rxf7+ Rxf7 2. Qxg6+ Kf8 3. Rh8 Rg7 4. Qf5+ Rf7 5. Qg5
+Rg7 6. Qf4+ Rf7 7. Qh6+ Rg7 8. Bh7 Qxd5 9. Rxg8+ Qxg8 10. Bxg8 Kxg8 $16) 1...
+Rxc3 $2 {Black plays into White's hands. Schwarz spielt in die Hand des Weißen.
+} (1... Rxe4 2. Rxe4 Qxa3 (2... Qxc3 3. Rf3 Qc2 4. Qe3 $16)) 2. Rhf4 $1 {
+The regrouping is now complete. The pawn on f7 should fall. Die Umgruppierung
+ist nun perfekt. Der Bauer f7 soll fallen.} (2. Rxf7+ $3 Rxf7 3. Bxg6 $18) 2...
+Qe3 (2... Nh6 3. Rxf7+ $3 Rxf7 4. Qxg6+ Kf8 5. Qxh6+ $18) (2... Nf6 3. Rxf6 $1
+{Take note:this move weakens the white squares in the e5-area. Man beachte:
+Dieser Zug schwächt die weißen Felder im e5-Raum.} exf6 4. Qxf6+ Kg8 5. Bxg6 $1
+Qxd5 6. Rf5 $1 Qe6 7. Bh7+ $1 $18) 3. Rxf7+ $1 Rxf7 4. Qxg6+ Kh8 5. Rxf7 {
+[%cal Ye4f5,Yf5g6,Yg6h7,Gh8e5,Yc2e4] /\ Rh7 mate. White has managed to achieve
+the goals of the e4-strategy in the direction of f5: occupying the squares e4,
+f5, g6, h7, and attacking the square h8 (Kh8). /\ Rh7 Matt. Es ist dem Weißen
+gelungen, die Ziele der e4-Strategie in Richtung f5 zu erfüllen: die Felder e4,
+f5,g6,h7 zu besetzen, das Feld h8 (Kh8) anzugreifen.} 1-0
+
+[Event "Litomysl"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "3"]
+[White "Zezulkin, Jurij"]
+[Black "Hudecek, Jan"]
+[Result "1-0"]
+[WhiteElo "2410"]
+[BlackElo "2275"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r3r2k/1b2q2p/p1pp1p2/1pb3pQ/4PR2/2NB4/PPP1N1PP/1K6 w - - 0 1"]
+[PlyCount "21"]
+[EventDate "1994.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yc2e4,Ye4f5,Gg7e5,Gc7e5] White: SQ: e4, DQ: f5, CQ: black squares, ->
+e5, f6, g7; Pay clse attention to: 1. the weak squares on e5, f6, g7;  and 2.
+Rf4 ->Pf6; -> Qe7, ->Pf6; 1.e5 /\Rf6. -> Pf6. ->Bd3 ->f5, ->g6, ->h7. Motif:
+mating pattern on h7.  Weiß: SF: e4, RF: f5, FF: schwarzfeldrig, -> e5, f6, g7;
+Man beachte: 1. Die Felderschwächen auf e5,f6,g7; 2. Rf4 ->Pf6; -> Qe7, ->Pf6;
+1.e5 /\Rf6. -> Pf6. ->Bd3 ->f5, ->g6, ->h7. Motiv: Mattbild auf h7.} 1. e5 $3
+dxe5 (1... gxf4 $2 2. exf6 Qd7 3. f7 $18) (1... fxe5 $2 2. Rf7 $18) (1... Rf8
+2. Rxf6 $1 (2. exf6 Qf7 3. Qxg5 Be3 4. Qh4 c5 $17) 2... d5 (2... dxe5 3. Rh6 {
+See game Siehe Partie}) 3. Bxh7 Qxh7 4. Rh6 Rf1+ 5. Nc1 Rf7 6. e6 Qxh6 7. Qxh6+
+Rh7 8. Qxg5 $36) 2. Rxf6 $1 {/\Rf7} Rf8 $8 3. Rh6 {[%cal Yc2e4,Ye4f5,Gg7e5,
+Ge5d4] White would have been aiming at this position. He has a white-squared
+initiative in the direction of f5, /\Rh7, /\Ne4.  Diese Stellung sollte Weiß
+angestrebt haben. Er verfügt über eine weißfeldrige Initiative in Richtung f5,
+/\Rh7, /\Ne4.} Rf1+ (3... Rf7 4. Ne4 $1 (4. Ng3 Rg8 5. Nce4 Rgg7 6. a3 $13)
+4... Be3 5. Nf6 e4 (5... g4 6. Rxh7+ Rxh7 7. Nxh7) 6. Bxe4 Rd8 {White: SQ:e4,
+DQ: f5, CQ: white squares, -> Ph7;  Pay attention to: 1. /\ 7.Nh7 doesn't work
+because of Rf1. /\Rd1.  2. White should try to occupy the squares g6, h7.  3.
+Only Ne2 is not active on the white squares. CM: 7.Nc3, 7.Nf4. GM: 7.Nf4. Weiß:
+SF:e4, RF: f5, FF: weißfeldrig, -> Ph7; Man beachte: 1. /\ 7.Nh7 geht wegen
+Rf1 nicht. /\Rd1. 2. Weiß soll bestrebt sein, die Felder g6,h7 zu besetzen. 3.
+Nur Ne2 ist nicht weißfeldrig im Spiel. KZ: 7.Nc3, 7.Nf4. GZ: 7.Sf4.} 7. Nf4
+$18 {The position deserves a diagram! All White's pieces are concentrating on
+the squares e4, f5, g6, h7.The weak back rank,the squares d1 and f1 are
+protected. /\Ng6 or Nh7. Die Stellung verdient ein Diagramm! Alle weißen
+Figuren sind auf die Felder e4,f5,g6,h7 eingerichtet. Die schwache Grundreihe,
+die Felder d1 bzw. f1 sind gedeckt. /\Ng6 bzw. Nh7.}) 4. Nc1 Rf7 {[%cal Yc2e4,
+Gh8e5] White: SQ:e4, DQ: f5, CQ: black squares, -> _|_e5, ->_|_f6, ->_|_g7;
+Note: 1. the weak squares e5, f6, g7;  and  2. Rh6 ->_|_f6; Nc3 -> (e4->_|_f6);
+CM: 5.Ne4.  Weiß: SF:e4, RF: f5, FF: schwarzfeldrig, -> _|_e5, ->_|_f6,
+->_|_g7; Man beachte: 1. Die Felderschwächen auf e5,f6,g7; 2. Rh6 ->_|_f6; Nc3
+-> (e4->_|_f6); KZ: 5.Ne4.} 5. Ne4 {[%cal Gg7e5,Gc7e5] Evaluation of the
+position White is protecting the e4-area, and attacking the weakened e5-area.
+For the moment the concrete goal for the attack is the Ph7.  The white pieces 
+(Qh5, Rh6, Bd3) are cooperating well in their attack on h7. The black pieces,
+Ra8, Bb7 are far from the important squares d6, e5, f6, g7. /\Ng5, /\Nf6, /
+\Nd6 with a white-squared attack.  Einschätzung der Stellung; Weiß sichert den
+e4-Raum, greift den geschwächten e5-Raum an. Das konkrete Angriffsziel stellt
+momentan der Ph7 dar. Auf das Feld h7 wirken die weißen Steine (Qh5,Rh6,Bd3)
+optimal zusammen. Die schwarzen Steine, Ra8, Bb7 sind von den wichtigen
+Feldern d6, e5, f6, g7 weit entfernt. /\Ng5, /\Nf6, /\Nd6 mit dem Angriff auf
+die weißen Felder.} Be3 $8 {This covers the Pg5 /\Bc1.  White: SQ: e4, Q: f5,
+CQ: white squares, -> _|_f5, ->_|_g6, ->_|_h7; Look out for: 1. the weak
+squares on e4, f5, g6;  and  2. Rh6, Qh5, Bd3 ->Ph7.  CM: 6.Nd6, 6.Nf6. Pay
+attention to 6.Nd6 which brings more pressure to bear on the white squares. 
+(->Bb7, ->Rf7->Ph7)  Dies deckt Pg5 /\Bc1. Weiß: SF: e4, RF: f5, FF:
+weißfeldrig, -> _|_f5, ->_|_g6, ->_|_h7; Man beachte: 1. Die Felderschwächen
+auf e4, f5, g6; 2. Rh6, Qh5, Bd3 ->Ph7. KZ: 6.Nd6, 6.Nf6. Man beachte: 6.Nd6
+leistet mehr Druck auf die weißen Felder (->Bb7, ->Rf7->Ph7)} 6. Nf6 $6 (6. Nd6
+$1 {This is much stronger than Nf6. It threatens Nf7 followed by Rh7. Black's
+moves are now forced. Dies ist wesentlich stärker als Nf6. Es droht Nf7
+gefolgt von Rh7. Die schwarzen Züge sind nun erzwungen:} Raf8 (6... g4 7. Nxf7+
+) 7. Nxf7+ Rxf7 8. Bxh7 Rxh7 9. Rxh7+ Qxh7 10. Qe8+ Kg7 (10... Qg8 11. Qxe5+
+Qg7 12. Qxe3) 11. Qxe5+ Kh6 12. Qxe3 $16) 6... e4 $2 (6... g4 $1 7. Rxh7+ Rxh7
+8. Nxh7 Kg8 9. Qxg4+ Qg7 10. Nf6+ Kf7 11. Qf3 Qxf6 12. Qxe3 c5 13. Qxc5 Bxg2
+$13) 7. Bxe4 g4 8. Rxh7+ Rxh7 9. Nxh7 Qg7 $2 $138 (9... c5 $2 10. Bxb7 Qxb7 11.
+Nf6+ Kg7 12. Qh7+ $18) (9... Bxc1 10. Ng5+ Kg8 11. Qg6+ Qg7 12. Qe6+ Kh8 (12...
+Kf8 $2 13. Nh7+) 13. Nf7+ Kg8 14. Ne5+ (14. Nd8+ Kf8 $1) 14... Kh8 15. Kxc1 $18
+) (9... Kg8 10. Qxg4+ Qg7 11. Qe6+ Kh8 12. Nd3 $16) (9... Kg7 10. Qxg4+ Kh8 11.
+Qh3 Bxc1 12. Kxc1 Kg8 13. Qh6) 10. Ng5+ Kg8 11. Bh7+ (11. Bh7+ Kf8 12. Ne6+ $18
+) 1-0
+
+[Event "Ptuj"]
+[Site "?"]
+[Date "1994.??.??"]
+[Round "1"]
+[White "Jeric, Simon"]
+[Black "Grinfeld, Alla B"]
+[Result "0-1"]
+[WhiteElo "2365"]
+[BlackElo "2255"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "k5rr/1pq2p2/p3p1pn/3pP1P1/P1nP2P1/2PQ2K1/R2N4/1RB5 b - - 0 1"]
+[PlyCount "15"]
+[EventDate "1994.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yf7d5,Yd5c4,Gb2d4,Gd4e5,Ge5f6,Gg5f6,Yd5e4] Black: SQ: d5, DQ: e4 CQ:
+black squares. Pay close attention to: 1. Nd2, Bc1; 2. Nc4, Qc7. Goals: attack
+_|_e5, _|_f4, _|_g3, -> Pe5, ->Pd4; CM: 1...Nxe5 should be checked.  Schwarz:
+SF: d5, RF: e4 FF: schwarzfeldrig. Man beachte: 1. Nd2, Bc1; 2. Nc4, Qc7.
+Ziele: _|_e5, _|_f4, _|_g3 anzugreifen, -> Pe5, ->Pd4; KZ: 1...Nxe5 soll
+überprüft werden.} 1... Nxe5 $3 2. dxe5 Qxe5+ 3. Kg2 (3. Kf3) 3... Nxg4 {
+[%cal Gb2d4,Gf2d4] Black should have evaluated this position while considering
+the knight sacrifice, Take note: 1. Al the important targets on the kingside
+are within the reach of Black's pieces,  2. the squares d4, e3, f2 are
+unprotected.  Diese Stellung sollte Schwarz bei der Betrachtung des
+Springeropfers eingeschätzt haben. Man beachte: 1. Alle wichtigen Ziele am
+Königsflügel sind in der Reichweite der schwarzen Steinen, 2. Die Raumfelder
+d4,e3,f2 sind schutzlos.} 4. Nf3 $8 Rh2+ $1 {-> Nf3, getting rid of the
+knight! White's position rapidly falls apart.  -> Nf3 zu beseitigen! Die weiße
+Stellung bricht rasch zusammen.} 5. Kf1 $8 (5. Nxh2 Qxh2+ 6. Kf3 (6. Kf1 Qxa2
+$19) 6... Ne5+ $19) 5... Qg3 $3 $19 {[%cal Gg1d4,Yb7d5,Yd5e4,Ye4f3] Black is
+pursuing the aims of the d5-strategy -> e4 totally logically and energetically.
+Schwarz verfolgt die Ziele der d5-Strategie -> e4 recht konsequent und
+energisch.} 6. Rxh2 Nxh2+ 7. Ke2 Qg2+ 8. Kd1 Nxf3 0-1
+
+[Event "Odorheiu Secuiesc (zt)"]
+[Site "?"]
+[Date "1995.??.??"]
+[Round "3"]
+[White "Nevednichy, Vladislav"]
+[Black "Matlak, Marek"]
+[Result "1-0"]
+[WhiteElo "2485"]
+[BlackElo "2465"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "1n1n1bk1/p1q2pp1/1p2p2p/2p1P2P/4NB2/2P2N2/PP2QPP1/6K1 w - - 0 1"]
+[PlyCount "29"]
+[EventDate "1995.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Ye5f6,Gf7d5] White: SQ: d4, DQ: e5, CQ: black squares, 
+occupy -> _|_f6, ->_|_g7;  Pay close attention to: 1. the squares f6, g7 are
+insufficiently well protected  and 2. Ne4, Bf4, Pe5. -> Pg7, ->Ph6, ->Bf8.  CM:
+1.Bxh6, 1.Nf6+. GM: 1.Bxh6 should definitively weaken the f6-square.  Weiß: SF:
+d4, RF: e5, FF: schwarzfeldrig,  -> _|_f6, ->_|_g7 besetzen; Man beachte: 1.
+Die Felder f6, g7 sind nicht ausreichend gedeckt. 2. Ne4, Bf4, Pe5. -> Pg7,
+->Ph6, ->Bf8. KZ: 1.Bxh6, 1.Nf6+. GZ: 1.Bxh6 soll das Feld f6 endgültig
+schwächen.} 1. Bxh6 $1 {A strong move which meets the demands of the position:
+it challenges Bf8 and Pg7. Should Black take the bishop, there then comes 2.
+Nf6 followed by Qe4 with a strong initiative. Ein starker Zug, der den
+Anforderungen der Stellung entspricht: Dadurch sind Bf8 bzw. Pg7 befragt.
+Sollte Schwarz den Läufer annehmen, kommt 2.Nf6 gefolgt von Qe4 mit starker
+Initiative.} (1. Nf6+ $2 {wouldn't have much going for it. Dies hätte keine
+Inhaltspunkte} gxf6 $19) 1... f5 $1 {[%cal Ye5f6] The best reply. Black sets
+about protecting f6. Die beste Erwiderung. Schwarz bemüht sich das Feld f6 zu
+sichern.} (1... gxh6 $2 2. Nf6+ Kg7 3. Qe4 $18) {White: SQ: d4, DQ: e5, CQ:
+black squares,  occupy -> _|_f6, _|_g7; -> Pg7, ->Bf8. CM: 2.exf6.  Weiß: SF:
+d4, RF: e5, FF: schwarzfeldrig,  -> _|_f6, _|_g7 besetzen; -> Pg7, ->Bf8. KZ:
+2.exf6.} 2. exf6 $1 {[%cal Yb2d4,Yd4e5,Ye5f6,Yf6g7] White must capture on f6
+since he needs to fight for that square. White reacts "on the black squares".
+He is trying to weaken and to occupy the squares f6, g7 ; -> Pg7  Das Nehmen
+auf f6 ist für Weiß Pflicht, er soll um das Feld f6 kämpfen. Weiß reagiert
+"schwarzfeldrig". Er strebt damit an, die Felder f6,g7 zu schwächen, besetzen
+zu können -> Pg7} gxh6 {[%cal Gg8d5,Yb2d4,Yd4e5,Ye5f6,Yf6g7] This is the
+position White was playing for: for the bishop he has two pawns and a lasting
+kingside initiative. _|_e5, _|_f6, _|_g7 are under white control. Kg8 has been
+exposed.  White: SQ: d4, DQ: e5, CQ: white squares, White must attackl _|_e6,
+_|_f7, Kg8, /\ Qg4 -> e6, -> g8. CM: 3.Nh4 /\Qg4  Diese Stellung hat Weiß
+angestrebt: Er hat für den Läufer zwei Bauern und verfügt über einer
+dauerhafte Initiative in Richtung des Königsflügels. _|_e5, _|_f6, _|_g7 sind
+unter weißer Kontrolle. Kg8 steht offen. Weiß: SF: d4, RF: e5, FF: weißfeldrig,
+Weiß soll _|_e6, _|_f7, Kg8 angreifen, /\ Qg4 -> e6, -> g8. KZ: 3.Nh4 /\Qg4} 3.
+Nh4 {A strong move. /\Qg4 Ein starker Zug. /\Qg4} Nbc6 $8 (3... Qf7 4. Qg4+ Kh7
+5. Ng6) 4. Qg4+ Kh7 {[%cal Yb2d4,Yd4e5,Ye5f6,Gf7d5] White: SQ: d4, DQ: e5, CQ:
+white squares, -> _|_e6, ->_|_f7;  Pay close attention to: the black pieces
+must defedn the squares g6, f7, which meas they are overloaded; White should
+be trying to strengthen his kingside attack, i.e. marching forward with either
+the f- or g-pawn . DBlack has a difficult defence to look forward to, above
+all because he has no more space to manoeuvre his pieces. Weiß: SF: d4, RF: e5,
+FF: weißfeldrig, -> _|_e6, ->_|_f7; Man beachte: Die schwarzen Figuren müssen
+die Felder g6, f7 verteidigen, sind dadurch überlastet; Weiß soll bestrebt
+sein, den Königsangriff zu stärken, d.h. die f- bzw. g-Bauern in Marsch zu
+setzen. Dem Schwarzen steht eine schwierige Verteidigung bevor, vor allem
+deshalb, weil er keinen Spielraum für seine Figuren mehr hat.} (4... Kh8 $2 5.
+Ng6+) 5. f4 {This protects e5, and prevents Ne5. Now the g-pawn should be
+arriving. /\ g2- g4- g5- g6. Dies sichert das Feld e5, verhindert Ne5. Nun
+soll der g-Bauer kommen. /\ g2- g4- g5- g6.} ({oder oder} 5. Ng6 Qf7 6. f4)
+5... Qf7 ({or oder} 5... c4 6. Ng6 Qf7) 6. Ng6 c4 {Black has no chance of
+freeing himself on the kingside,so he makes efforts to find some counterplay
+on the queenside.  Schwarz hat am Königsflügel keine Möglichkeit sich zu
+befreien, bemüht sich am Damenflügel zum Gegenspiel zu kommen.} 7. Qe2 $1 {
+This should help the pawn storm. White's queen is now no longer in the way of
+the pawns. Dies soll den Bauernsturm fördern. Die weiße Dame steht nun den
+Bauern nicht im Wege.} (7. Nxf8+ Qxf8 8. Qg6+ Kh8 9. g4 Nf7 10. g5 $40) 7... b5
+{Black's queenside activity (the d5-strategy in the direction of c4) is
+harmless.  Die schwarze Aktivität am Damenflügel (die d5-Strategie in Richtung
+c4) ist harmlos.} 8. g4 Kg8 9. g5 Qd7 10. Qg4 $1 {White needs to watch out,
+that his king will not become a target for the black pieces, i.e. he must
+control the entry squares down the d-file.  Weiß soll darauf achten, dass sein
+König nicht zum Angriffsziel für die schwarzen Figuren werden kann, d.h. die
+Einbruchsfelder auf der d-Linie kontrollieren.} Nf7 (10... Qd5 $2 11. Ne7+ Nxe7
+12. fxe7 Bxe7 13. Nf6+ Bxf6 14. gxf6+ $18) (10... Qd3 11. gxh6 Qb1+ 12. Kh2
+Qc2+ 13. Kh3 Qxe4 14. h7+ $18) (10... Qh7 11. f7+ Kxf7 12. Qd1 $18 {/\Qd7 /\Qd7
+} Kg8 13. Nf6+) 11. gxh6 $18 Nxh6 12. Ne7+ {[%cal Gg8d5] White has now
+successfully completed the attack on the squares e6, f7, g8.  Weiß hat damit
+den Angriff auf die Felder e6, f7, g8 erfolgreich abgeschlossen.} Kh8 13. Qg8+
+$3 {White sets up a tactical motif: a fork  Weiß konstruiert dadurch ein
+taktisches Motiv: Gabel} Nxg8 14. Ng6+ Kh7 15. Nxf8+ 1-0
+
+[Event "Dortmund"]
+[Site "Dortmund"]
+[Date "1995.??.??"]
+[Round "5"]
+[White "Kramnik, Vladimir"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2730"]
+[BlackElo "2645"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "3r2k1/pb1rqpb1/1pp1p1p1/4P1Np/3P2nP/P7/BPQ1NPP1/3R1RK1 w - - 0 22"]
+[PlyCount "7"]
+[EventDate "1995.07.??"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "GER"]
+[EventCategory "17"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Gf7d5] White: SQ: d4, DQ: e5, CQ: white squares. -> Pe6,
+->Pf7. CM: 22.Nxe6, 22.Bxe6, 22.Nf4 ->Pe6, ->Pg6. GM: 22.Be6 followed by Nf4. 
+Weiß: SF: d4, RF: e5, FF: weißfeldrig. -> Pe6, ->Pf7. KZ: 22.Nxe6, 22.Bxe6, 22.
+Nf4 ->Pe6, ->Pg6. GZ: 22.Be6 gefolgt von Nf4.} 22. Bxe6 $1 {Strong! ->Pf7,
+->Pg6. Stark! ->Pf7, ->Pg6.} (22. Nf4 $1 Rxd4 23. Nxg6 $1 Qe8 (23... fxg6 24.
+Bxe6+ Kh8 25. Qxg6 $18) 24. Bxe6 fxe6 25. Nf4 $18) (22. Nxe6 $2 Qxh4) 22...
+fxe6 (22... Nxe5 {White: SQ: d4, DQ: e5, CQ: white squares -> Ne5, ->Pf7. 23.
+de5, 23.Ba2  Weiß: SF: d4, RF: e5, FF: weißfeldrig -> Ne5, ->Pf7. 23.de5, 23.
+Ba2} 23. dxe5 Rxd1 24. Bxf7+ Qxf7 25. Nxf7 $18) 23. Qxg6 $18 {[%cal Gf7d5,
+Yb2d4,Yd4e5,Ye5f6]} Nxe5 (23... Nf6 {White: SQ: d4, DQ: e5, CQ: white squares
+-> PNf6. 24.exf6 Weiß: SF: d4, RF: e5, FF: weißfeldrig -> PNf6. 24.exf6} 24.
+exf6 Qxf6 25. Qh7+ Kf8 26. Nf4 $1 $18) 24. Qh7+ Kf8 25. Nf4 $1 {[%cal Gf7d5,
+Yb2d4,Yd4e5,Ye5f6]} (25. Nf4 Ke8 26. dxe5 Rxd1 27. Qg6+ Kf8 28. Nfxe6+ $18) 1-0
+
+[Event "Cuba"]
+[Site "?"]
+[Date "1997.??.??"]
+[Round "3"]
+[White "Moreno, Alejandro"]
+[Black "Alvarez, A."]
+[Result "1-0"]
+[WhiteElo "2390"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r3r1k1/1pq2pp1/p1nbbn1p/3p4/3P1B2/2N2N1P/PP1Q1PP1/1B1RR1K1 w - - 0 1"]
+[PlyCount "23"]
+[EventDate "1997.??.??"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Gf7d5] White. SQ: d4, DQ: e5, CQ: black squares. the
+squares f6, g7 are insufficiently protected. White must try to occupy f6, g7,
+eine and get a black squared initiative, to challenge Pg7, Ph6. ->Pf6, ->Pg7. 
+CM: 1.Bxh6, 1.Bxd6?! (Take note: the Bd6 is not protecting the squares f6, g7).
+GM: 1.Bxh6  Weiß. SF: d4, RF: e5, FF: schwarzfeldrig. Die Felder f6,g7 sind
+nicht ausreichend gedeckt. Weiß soll bestrebt sein, die Felder f6,g7 zu
+besetzen, eine schwarzfeldrige Initiative erlangen, Pg7, Ph6 zu befragen.
+->Pf6, ->Pg7. KZ: 1.Bxh6, 1.Bxd6?! (Man beachte: der Bd6 verteidigt die Felder
+f6,g7 nicht). GZ: 1.Bxh6} 1. Bxh6 $1 {The sacrifice on h6 meets the demands of
+the position completely and should there come into consideration and be
+further investigated.  Das Opfer auf h6 entspricht den Anforderungen der
+Stellung völlig und sollte daher in Betracht kommen und weiter untersucht
+werden.} gxh6 2. Qxh6 {The squares f6 and g7 are now definitively weakened. 
+Die Felder f6 bzw. g7 sind nun endgültig geschwächt.} Qd8 $8 {[%cal Yb2d4,
+Yd4e5,Gf7d5] White: SQ: d4, DQ: e5, CQ: white squares. -> Pd5, ->Be6, ->Pf7,
+->Nf6. Be aware: 1. Bb1, Nc3, Re1 -> Be6;  and  2. the weak squares on h7, f6;
+the Nf6 is overloaded; CM: 3.Nd5; 3.Ng5;  Weiß: SF: d4, RF: e5, FF:
+weißfeldrig. -> Pd5, ->Be6, ->Pf7, ->Nf6. Man beachte: 1. Bb1, Nc3, Re1 -> Be6;
+2. Die Felderschwächen auf h7, f6; der Nf6 ist überlastet; KZ: 3.Nd5; 3.Ng5;}
+3. Ng5 (3. Nxd5 $1 Bxd5 4. Rxe8+ Nxe8 5. Bh7+ Kh8 6. Be4+ Kg8 7. Qh7+ Kf8 8.
+Bxd5 $16) (3. Re5 Nxe5 4. dxe5 Bf8 $13) 3... Bf8 4. Bh7+ {An important
+intermediate move! Ein wichtiger Zwischenzug!} (4. Qh4 Bg7 $17) 4... Kh8 5. Qh4
+{/\Bf5} Kg7 {[%cal Yb2d4,Yd4e5,Ye5f6,Gf7d5] The critical position. White: SQ:
+d4, DQ: e5, CQ: black squares. Pay close attention to: the weak squares on e5,
+f6, h7;the rooks now need to be brought into the game, e.g. Re1-e3-g3 in order
+to seize g7.  CM: 6.Re3; 6.Rd3 /\Rg3 ->_|_g7. GZ: 6.Re3 (The Re1 can become a
+target for attack by Black).  Die kritische Stellung. Weiß: SF: d4, RF: e5, FF:
+schwarzfeldrig. Man beachte: Die Felderschwächen auf e5, f6, h7; Nun sollen
+die Türme hineingezogen werden, z.B. Re1-e3-g3 um das Feld g7 zu erobern. KZ:
+6.Re3; 6.Rd3 /\Rg3 ->_|_g7. GZ: 6.Re3 (Der Re1 kann zum Angriffsziel für
+Schwarz werden).} 6. Rd3 $6 {Logical, but inaccurate. Be aware: the Re1 can
+become a target for Black on the open e-file. Konseguent, aber ungenau. Man
+beachte: Der Re1 kann auf der offenen e-Linie zum Angriffsziel für Schwarz
+werden.} (6. Re3 $1 {/\Rg3} Bd6 7. Rf3 Qe7 8. Be4 {[%cal Gf7d5] Take note: the
+squares d5, e6, f7 are under attack. /\Ne6 followed by Qg5 Man beachte: die
+Felder d5,e6,f7 sind angegriffen. /\Ne6 gefolgt von Qg5} Rg8 (8... dxe4 9.
+Nxe6+ Qxe6 10. Qg5+ $18) 9. Nxe6+ fxe6 10. Qg5+ Kh8 11. Qxf6+ Qxf6 12. Rxf6 $16
+dxe4 13. Rxe6 Rad8 14. d5 Ne5 15. Nxe4 $16) 6... Bd6 $8 7. Rf3 $1 Rh8 $2 {
+[%cal Gf7d5,Yb2d4,Yd4e5] This weakens the e6-square. Dies schwächt das Feld e6.
+} (7... Bg4 8. Rxe8 Qxe8 9. Re3 Be6 10. Bd3 Qh8 11. Nxe6+ fxe6 12. Qg5+ Kf7 13.
+Bg6+ Kf8 14. Rxe6 $16) (7... Bf5 8. Ree3 Rxe3 9. fxe3 Bxh7 10. Nxf7 Kxf7 11.
+Qxh7+ Ke6 12. Qf5+ Kf7 13. g4 $16) (7... Bd7 8. Ree3 Rxe3 9. fxe3 Be8 10. Bc2
+$16 {/\Ne6, Qg5.} Nb4 11. Ne6+ fxe6 12. Qg5+ Kf7 13. Qg6+ $18) 8. Rxe6 Rxh7 9.
+Qxh7+ $1 {What a pretty continuation! The position deserves a diagram! [#] Was
+für eine schöne Fortsetzung! Die Stellung verdient ein Diagramm! [#]} (9. Nxh7
+$18) 9... Nxh7 10. Rxf7+ {[%cal Yb2d4,Yd4e5,Gf7d5]} Kg8 (10... Kh8 11. Rxh7+
+Kg8 12. Rg6+ Kf8 13. Rf7+ Ke8 14. Rg8+ Bf8 15. Rgxf8#) 11. Rg6+ Kh8 12. Rxh7#
+1-0
+
+[Event "Credit Suisse"]
+[Site "Biel"]
+[Date "1997.??.??"]
+[Round "1"]
+[White "Anand, Viswanathan"]
+[Black "Lautier, Joel"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "2660"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r3k2r/pp3ppp/2p1p3/3n3P/3q2P1/3BRP2/P1P2Kb1/1RBQ4 w kq - 0 19"]
+[PlyCount "13"]
+[EventDate "1997.07.20"]
+[EventType "tourn"]
+[EventRounds "10"]
+[EventCountry "SUI"]
+[EventCategory "17"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd4e5,Gf7d5,Gb7d5,Yd4c5,Yd6c7,Yd6e7] White: SQ: d4, DQ: e5, CQ: white
+squares. ->Pb7, ->Pc6, ->Pe6, ->Pf7. CM: 19.Qe1 /\Re6, 19.Rxb7. GM: 19.Rxb7 
+Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->Pb7, ->Pc6, ->Pe6, ->Pf7. KZ: 19.Qe1 /
+\Re6, 19.Rxb7. GZ: 19.Rxb7} 19. Rxb7 $1 $40 (19. Qe1 Bxf3 20. Kxf3 Qf4+) 19...
+Rd8 {[%cal Yd4e5,Gf7d5,Yd4c5]} (19... Bh3 {White: SQ: d4, DQ: e5, CQ: white
+squares. ->Pc6, ->Pe6, ->Pf7. 20.Rxf7 Weiß: SF: d4, RF: e5, FF: weißfeldrig.
+->Pc6, ->Pe6, ->Pf7. 20.Rxf7} 20. Rxf7 $1 {/\Bg6} c5 {[%cal Yb2d4,Yd4e5,Gf7d5]
+White: SQ: d4, DQ: e5, CQ: white squares. ->Pe6, ->Nd5. 21.Rf5 ->d5 Weiß: SF:
+d4, RF: e5, FF: weißfeldrig. ->Pe6, ->Nd5. 21.Rf5 ->d5} (20... Kxf7 21. Bg6+) (
+20... Rd8 21. Bg6 Nxe3 22. Rd7+ hxg6 23. Qxd4) (20... Nxe3 21. Bxe3 Qe5 22. Rf4
+$16) 21. Rf5 $1 {/\Re5, /\Rd5} Nxe3 (21... c4 22. Rf4 Qb6 23. Rxc4) (21...
+O-O-O 22. Ba6+ Kd7 23. Bb5+ Kc8 24. Qxd4 cxd4 25. Rxe6) 22. Bxe3 Qb2 23. Qe2
+$18) (19... Nf4 {Take note: This weakens the black squares. SQ: d4, DQ: e5, CQ:
+black squares. -> _|_d4, _|_e5. 22.Bb2 Man beachte: Dies schwächt die
+schwarzen Felder. SF: d4, RF: e5, FF: schwarzfeldrig. -> _|_d4, _|_e5. 22.Bb2}
+20. Bb2 $1 (20. Kg3 {Fritz Fritz}) 20... Qd8 {/\Qh4} (20... Qc5 21. Ba3) (20...
+Nh3+ 21. Kxg2 Qxe3 22. Kxh3) 21. Kg3 O-O 22. Re1 (22. Kxf4 Qh4 $13) 22... Qg5
+23. Bc1 $16) (19... e5 {White: SQ: e4, DQ: f5, CQ: black squares. ->Pe5, ->Nd5.
+20.c4, 20.Qe1 Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->Pe5, ->Nd5. 20.c4,
+20.Qe1} 20. c4 {-> Nd5; /\Bb2 -> Nd5; /\Bb2} (20. Qe1 $5 {-> Pe5 -> Pe5}) 20...
+Nf4 (20... O-O-O 21. cxd5 $18) 21. Bb2) (19... O-O-O 20. Rxf7 $18) {White: SQ:
+d4, DQ: e5, CQ: white squares. ->Pe6, ->Pf7.  CM: 20.Qe1, 20.Bg6, 20.h6 are
+the possible moves: GM: 20.h6. Goal: to enable Bg6. Motif: Qd4 is unprotected.
+Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->Pe6, ->Pf7. KZ: 20.Qe1, 20.Bg6, 20.h6
+sind die möglichen Züge: GZ: 20.h6. Ziel: Bg6 zu ermöglichen. Motiv: Qd4 ist
+ungedeckt} 20. h6 $1 {To allow Bg6. Take note: 20.Bg6 does not work
+immediately, 20.Qe1 ist harmless  Dies soll Bg6 ermöglichen. Man beachte:
+gleich 20.Bg6 geht nicht, 20.Qe1 ist harmlos} (20. Qe1 Bxf3 21. c3 Qxg4 22.
+Rxf3 $13) (20. Bg6 $2 Qxd1 21. Bxf7+ (21. Rxe6+ Kf8 22. Rxf7+ Kg8) 21... Kf8
+22. Ba3+ Ne7 $19) 20... gxh6 {[%cal Gf7d5,Yd4e5,Yd4c5]} (20... Nxe3 $8 21. Bxe3
+Qe5 22. hxg7 Rg8 {/\Qh2 /\Qh2} 23. Qg1 Bxf3 24. Kxf3 $16) (20... g6 {White: SQ:
+d4, DQ: e5, CQ: white squares ->Pe6, ->Pf7, ->Pg6. 21.Rxe6+, 21.Bxg6, 21.Rxf7
+Weiß: SF: d4, RF: e5, FF: weißfeldrig ->Pe6, ->Pf7, ->Pg6. 21.Rxe6+, 21.Bxg6,
+21.Rxf7} 21. Bxg6 $3 Qxd1 22. Rxe6+ Kf8 23. Rxf7+ Kg8 24. Rg7+ Kf8 25. Ba3+ $18
+) (20... Nf4 21. Ba3 (21. hxg7 $5 Rg8 22. Ba3) 21... Nd5 (21... Rd7 22. Rxd7
+Qxd7 23. Re4) 22. Qc1 {/\Bb2} Rd7 (22... Bxf3 23. hxg7 Rg8 24. Bb2) 23. hxg7
+Rg8 24. Rb8+ Rd8 25. Rxd8+ Kxd8 26. Bb2) {White: SQ: d4, DQ: e5, CQ: white
+squares. ->Pg6, ->Pc6, ->Pe6, ->Pf7. CM: 21.Rxe6+, 21.Bxg6, 21.Rxf7  Weiß: SF:
+d4, RF: e5, FF: weißfeldrig. ->Pg6, ->Pc6, ->Pe6, ->Pf7. KZ: 21.Rxe6+, 21.Bxg6,
+21.Rxf7} 21. Bg6 $1 {[%cal Gf7d5,Yd4e5,Yd4c5] A strong move. The Pf7, Pe6 and
+also Qd4 are attacked. 21.Rxe6+? or 21.Rxf7? are bad.  Ein starker Zug. Die
+Pf7, Pe6 aber auch Qd4 sind angegriffen. 21.Rxe6+? bzw. 21.Rxf7? sind schlecht.
+} Ne7 (21... Qf6 22. Bxf7+ Qxf7 23. Rxf7 Nxe3 24. Qxd8+ $1 Kxd8 25. Bxe3 $18) (
+21... Qxd1 22. Rxe6+ $18 Ne7 (22... Kf8 23. Bxh6+) 23. Rbxe7+) (21... Nxe3 22.
+Bxf7+ Kf8 23. Qxd4 Rxd4 24. Bxe3 $18) 22. Qxd4 Rxd4 23. Rd3 {, in order to
+retreat the Bg6 with gain of tempo.  , um den Bg6 unter Tempogewinn zurück zu
+ziehen.} Rd8 (23... Rxd3 24. Bxd3) 24. Rxd8+ Kxd8 25. Bd3 (25. Bd3 Bh1 26. Bb2
+Re8 27. Bf6 $18) 1-0
+
+[Event "BCF-chT 9900 (4NCL)"]
+[Site "England"]
+[Date "2000.04.30"]
+[Round "10"]
+[White "Plaskett, Jim"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2515"]
+[BlackElo "2683"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "5rk1/pb2bp1p/1p2pnp1/q3N3/3P3Q/2r5/P1BB1PPP/R3R1K1 w - - 0 20"]
+[PlyCount "15"]
+[EventDate "1999.10.09"]
+[EventType "team"]
+[EventRounds "11"]
+[EventCountry "ENG"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yd4e5,Yb2c3,Yc3d4,Gf7d5,Gb7d5] White: SQ: d4, DQ: e5: (White is active
+in the direction of e5). Goals: occupy _|_f6, _|_g7, attack _|_e6, _|_f7;  CQ:
+white squares: (_|_d5,_|_e6,_|_f7)  Why?: 1). Ne5, Bc2cooperate to best effect
+on the white squares, ->Pe6, ->Pf7, ->Bb7, ->Nf6; 2). Bb7 is exerting no
+control over e6 or f7. CM: 20.Bb3 -> Pe6, ->Pf7  Weiß: SF: d4, RF: e5: (Weiß
+ist in Richtung e5 aktiv). Ziele: _|_f6, _|_g7 zu besetzen, _|_e6, _|_f7
+anzugreifen; FF: weißfeldrig: (_|_d5,_|_e6,_|_f7) Warum?: 1). Ne5, Bc2 wirken
+weißfeldrig optimal zusammen, ->Pe6, ->Pf7, ->Bb7, ->Nf6; 2). Bb7 hat keine
+Kontrolle über e6 bzw. f7. KZ: 20.Bb3 -> Pe6, ->Pf7} 20. Bb3 {[%cal Gf7d5,
+Yb2d4,Yd4e5] A strong move, attacking the white squares and challenging the
+black pieces which are defending the squares d5, e6, f7 (Bb7, Nf6, Pe6, Pf7),
+and also gaining a tempo (/\Rac1). Ein starker Zug, der die weißen Felder
+angreift und dadurch die schwarzen Steine befragt, welche die Felder d5,e6,f7 
+(Bb7, Nf6, Pe6, Pf7) verteidigen, dies außerdem mit Tempogewinn (/\Rac1).} (20.
+Bxc3 Qxc3 21. Bb3 Nd5) 20... Nd5 {[%cal Yb2c3,Yc3d4,Yd4e5,Gf7d5] Take note:
+this weakens the white squares. Man beachte: Dies schwächt die weißen Felder.}
+(20... Qb4 21. Rac1) {White: SQ: d4, DQ: e5, CQ: white squares, ->Ph7, ->Pg6,
+->Pf7,->Pe6. 21.Qe4, 21.Qg4, 21.Qh6. 21.Qe4 should be the best move, the one
+which does the most.  Weiß: SF: d4, RF: e5, FF: weißfeldrig, ->Ph7, ->Pg6,
+->Pf7,->Pe6. 21.Qe4, 21.Qg4, 21.Qh6. 21.Qe4 sollte der beste Zug sein, er
+leistet mehr.} 21. Qh6 (21. Qe4 $1 Qb4 (21... Bb4 22. a3 Rxb3 23. axb4) (21...
+Ba8 22. Nxf7 $1 Rxf7 23. Bxc3 Qxc3 24. Rac1 $18) 22. Ng4 h5 23. Ne5 $16) (21.
+Qg4 Bb4 22. a3 Rxb3) 21... Bb4 $2 {[%cal Yb2d4,Yd4e5,Ye5f6] This weakens the
+f6-square, which White wishes to occupy. Dies schwächt das Feld f6, welches
+Weiß besetzen will.} (21... Rfc8 $2 {This weakens the f7-square, which White
+is attacking. Dies schwächt das Feld f7, welches Weiß angreift.} 22. Nxf7 $1
+Bf8 23. Qh4 $18) (21... Bf6 $1 22. Rac1 Rfc8 {This weakens the f7-square,
+which White is attacking. Dies schwächt das Feld f7, das Weiß angreift.} 23.
+Rxc3 (23. Nxf7 Bg7 24. Rxc3) 23... Rxc3 (23... Nxc3 {[%cal Gf7d5,Yb2d4,Yd4e5]
+This weakens the squares e6, f7. Dies schwächt die Felder e6,f7.} 24. Nxf7 $1)
+24. Nxf7 Bg7 25. Qh4 Kxf7 26. Qe4 Bc8 27. Bxc3 Qxc3 28. Bxd5 {[%cal Gf7d5]}) {
+White: SQ: d4, DQ: e5, CQ: black squares, occupy the squares f6, g7. ->Nd5; CM:
+22.Nd7 /\Nd5, 22.Bxd5 /\Nd7. GM: 22.Nd7  Weiß: SF: d4, RF: e5, FF:
+schwarzfeldrig, die Felder f6, g7 zu besetzen. ->Nd5; KZ: 22.Nd7 /\Nd5, 22.
+Bxd5 /\Nd7. GZ: 22.Nd7} 22. Nd7 (22. Bxc3 Bxc3 23. Nd7 Rd8 24. Bxd5 Bxd4 25.
+Bxb7 Bxa1 26. Rxa1 Rxd7 27. Bf3 $16) (22. Ng4 Be7) 22... Rd8 $2 {[%cal Gf7d5]
+This weakens the f7-square, but also the e6-square. Dies schwächt das Feld f7,
+aber auch das Feld e6.} (22... Qb5 $1 23. Bxd5 Qxd7 {[%cal Gf7d5] to protect
+the squares f7, e6, d5. um die Felder f7,e6,d5 zu sichern.}) {White: SQ: d4,
+DQ: e5, CQ: black squares, occupy f6, g7. ->Nd5; CM: 23.Bxd5 /\Nf6+.  Weiß: SF:
+d4, RF: e5, FF: schwarzfeldrig, Die Felder f6, g7 zu besetzen. ->Nd5; KZ: 23.
+Bxd5 /\Nf6+.} 23. Bxd5 {/\Nf6 /\Nf6} Rxd7 {[%cal Gf7d5] White: SQ: d4, DQ: e5,
+CQ: white squares, attack the squares e6, f7. ->Be6, ->Pf7; CM: 24.Rxe6, ->24.
+Bxe6. GM: 24.Rxe6 Weiß: SF: d4, RF: e5, FF: weißfeldrig, Die Felder e6, f7
+anzugreifen. ->Be6, ->Pf7; KZ: 24.Rxe6, ->24.Bxe6. GZ: 24.Rxe6} 24. Rxe6 $1 (
+24. Bxe6 $2 fxe6) 24... fxe6 (24... Rc8 25. Rxg6+ hxg6 26. Qxg6+ Kh8 27. Qh5+
+Kg8 28. Qg4+) (24... Rxd5 25. Re8+) 25. Bxe6+ {White has managed to wreck the
+d5-area.  Es ist dem Weißen gelungen, den d5-Raum zu zerstören.} Kh8 26. Bxc3
+Rd8 27. Qf4 1-0
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2000.01.18"]
+[Round "3"]
+[White "Kasparov, Garry"]
+[Black "Van Wely, Loek"]
+[Result "1-0"]
+[WhiteElo "2851"]
+[BlackElo "2646"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r2qkb1r/1b1n1p2/p3p2p/3n2P1/Np1Np2R/4BP2/PPPQ2B1/2KR4 w kq - 0 17"]
+[PlyCount "17"]
+[EventDate "2000.01.15"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "18"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Gf7d5] White; SQ: d4, DQ: e5, CQ: white squares.  (Be aware:
+Nd7, Nd5, Bf8 work together on the black squares, which consequently leaves
+white-squared weaknesses); ->_|_d5, ->_|_e6, ->ef7; ->Pe6,->Pf7. CM: 17.Rxe4
+-> Pe6  Weiß; SF: d4, RF: e5, FF: weißfeldrig. (Man beachte: Nd7, Nd5, Bf8
+wirken schwarzfeldrig zusammen, was weißfeldrige Schwächen zur Folge hat);
+->_|_d5, ->_|_e6, ->ef7; ->Pe6,->Pf7. KZ: 17.Rxe4 -> Pe6} 17. Rxe4 hxg5 {
+[%cal Gf7d5,Yb2d4,Yd4e5]} (17... Nxe3 {White: SQ: d4, DQ: e5, CQ: white
+squares. -> Pe6, Pf7. CM: 18.Rxe6+, 18.Nxe6 -> Pe6 Weiß: SF: d4, RF: e5, FF:
+weißfeldrig. -> Pe6, Pf7. KZ: 18.Rxe6+, 18.Nxe6 -> Pe6} 18. Nxe6 $1 (18. Rxe6+
+$2) 18... fxe6 (18... Bxe4 19. Nxd8) 19. Rxe6+ Kf7 (19... Be7 20. Qxe3 $18) 20.
+Rxe3 $18) (17... Qa5 {[%cal Yb2d4,Yd4e5,Gf7d5] White: SQ: d4, DQ: e5, CQ:
+white squares. -> Pe6, ->Pf7. CM: 18.Nxe6, 18.Bh3 Weiß: SF: d4, RF: e5, FF:
+weißfeldrig. -> Pe6, ->Pf7. KZ: 18.Nxe6, 18.Bh3} 18. Nxe6 (18. Bh3 $5) 18...
+fxe6 {White; SQ: d4, DQ: e5, CQ: white squares -> Pe6,Pf7. 19.Rxe6+, 19.Bh3 ->
+Pe6 Weiß; SF: d4, RF: e5, FF: weißfeldrig -> Pe6,Pf7. 19.Rxe6+, 19.Bh3 -> Pe6}
+19. Rxe6+ (19. Bh3 $5) 19... Be7 {[%cal Yb2d4,Yd4e5,Gf7e6,Ge6d5] White; SQ: d4,
+DQ: e5, CQ: white squares -> Nd5. 20.f4 -> Nd5 Weieß; SF: d4, RF: e5, FF:
+weißfeldrig -> Nd5. 20.f4 -> Nd5} (19... Kf7 {White: SQ: d4, DQ: e5, CQ: white
+squares. -> Kf7. CM: 20.Qd3 /\Qg6 Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->
+Kf7. KZ: 20.Qd3 /\Qg6} 20. Qd3 Kxe6 {White; SQ: d4, DQ: e5, CQ: white squares
+-> Ke6 21.Qe4+, 21.Bh3+ Weiß; SF: d4, RF: e5, FF: weißfeldrig -> Ke6 21.Qe4+,
+21.Bh3+} 21. Qe4+ (21. Bh3+ $5 Ke7 22. Bxd7) 21... Ne5 {White: SQ: d4, DQ: e5,
+CQ: white squares. -> Ke6. CM: 22.Bh3+ Weiß: SF: d4, RF: e5, FF: weißfeldrig.
+-> Ke6. KZ: 22.Bh3+} (21... Kd6 22. Bf4+) (21... Kf7 22. g6+) 22. Bh3+ Kd6 23.
+Bc5+ $18) 20. f4 hxg5 {White: SQ: d4, DQ: e5, CQ: white squares. -> Nd5, ->Ke8.
+CM: 21.Qd3, 21.Bxd5 Weiß: SF: d4, RF: e5, FF: weißfeldrig. -> Nd5, ->Ke8. KZ:
+21.Qd3, 21.Bxd5} (20... Rc8 21. Bxd5) (20... Qxa4 21. Bxd5) 21. Qd3 (21. Bxd5
+Bxd5) 21... Rc8 (21... O-O-O 22. Qc4+) 22. Qg6+ Kf8 {[%cal Gf7e6,Ge6d5]} 23.
+Bxd5 Bxd5 24. fxg5 Bxe6 25. Rf1+ $18) {White: SQ: d4, DQ: e5, CQ: white
+squares -> Pe6, ->Pf7. CM: 18.Nxe6, 18.Bg5 /\Ne6  Weiß: SF: d4, RF: e5, FF:
+weißfeldrig -> Pe6, ->Pf7. KZ: 18.Nxe6, 18.Bg5 /\Ne6} 18. Bxg5 {This should
+add strength to the coming blow on e6 and win a tempo. Dies soll unter
+Tempogewinn den drohenden Einschlag auf e6 verstärken.} (18. Nxe6 fxe6 19.
+Rxe6+ Kf7 20. f4 N7f6 $17) 18... Qa5 (18... Qxg5 19. Qxg5 Bh6 {[%cal Yb2d4,
+Yd4e5,Gf7d5] White: SQ: d4, DQ: e5, CQ: white squares -> Pe6, ->Pf7. CM: 20.
+Ne6 Weiß: SF: d4, RF: e5, FF: weißfeldrig -> Pe6, ->Pf7. KZ: 20.Ne6} 20. Nxe6
+$1 Bxg5+ (20... fxe6 21. Rxe6+ Kf7 22. Rxh6) 21. Nxg5+ $18) (18... Be7 {
+White: SQ: d4, DQ: e5, CQ: white squares -> Pe6, ->Pf7. CM: 19.Nxe6 Weiß: SF:
+d4, RF: e5, FF: weißfeldrig -> Pe6, ->Pf7. KZ: 19.Nxe6} 19. Nxe6 fxe6 20. Rxe6
+Nf8 21. Ree1 $16 {/\f4 /\f4} Ng6 22. f4 Ndxf4 23. Bxb7) (18... Ne7 {White: SQ:
+d4, DQ: e5, CQ: white squares -> Pe6, ->Pf7. CM: 21.Rxe6, 21.Nxe6 Weiß: SF: d4,
+RF: e5, FF: weißfeldrig -> Pe6, ->Pf7. KZ: 21.Rxe6, 21.Nxe6} 19. Nxe6 $1 (19.
+Rxe6 fxe6 20. Nxe6 Qc8 $13) 19... fxe6 20. Rxe6 Qc7 21. Qxb4 $16) {White: SQ:
+d4, DQ: e5, CQ: white squares -> Pe6, ->Pf7, ->Bb7. CM: 19.Nxe6, 19.f4 (opens
+up the line for Bg2->_|_d5) /\f5 -> Pe6, -> Nd5. GM: 19.f4 should do more. 
+Weiß: SF: d4, RF: e5, FF: weißfeldrig -> Pe6, ->Pf7, ->Bb7. KZ: 19.Nxe6, 19.f4
+(öffnet Bg2->_|_d5) /\f5 -> Pe6, -> Nd5. GZ: 19.f4 sollte mehr leisten.} 19. f4
+$1 (19. Nxe6 $2 fxe6 20. Rxe6+ Kf7 $19) 19... Rh2 {[%cal Yb2d4,Yd4e5,Gf7d5]} (
+19... Qxa4 {White: SQ: d4, DQ: e5, CQ: white squares -> Pe6, ->Pf7. CM: 20.
+Nxe6, 20.f5 Weiß: SF: d4, RF: e5, FF: weißfeldrig -> Pe6, ->Pf7. KZ: 20.Nxe6,
+20.f5} 20. Nxe6 $1 (20. f5 $2 Qxa2) 20... fxe6 (20... Qxa2 21. Nc7#) 21. Rxe6+
+$18) (19... e5 {[%cal Yb2d4,Yd4e5,Gf7d5] 19...e5 weakens the d5-square:  White:
+SQ: d4, DQ: e5, CQ: white squares. -> _|_d5, ->Pf7. CM: 20.Nb3, 20.Nf5 ->
+_|_d5 19...e5 schwächt das Feld d5: Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->
+_|_d5, ->Pf7. KZ: 20.Nb3, 20.Nf5 -> _|_d5} 20. Nf5 (20. Nb3 Qb5 (20... Qxa4 21.
+Rxe5+)) 20... f6 {[%cal Yc2e4,Ye4f5,Gg7e5] White: SQ: e4, DQ: f5, CQ: black
+squares. Pay attention to: Nf5, Bg5, Qd2 -> Pe5,Pf6. CM: 21.fxe5 Weiß: SF: e4,
+RF: f5, FF: schwarzfeldrig. Man beachte: Nf5, Bg5, Qd2 -> Pe5,Pf6. KZ: 21.fxe5}
+(20... Qxa4 21. Rxe5+ Nxe5 22. Bxd5 $18) 21. fxe5 O-O-O (21... fxg5 22. Qxg5)
+22. Rc4+ Kb8 23. Bxd5 $18) (19... Rh5 {White: SQ: d4, DQ: e5, FF: white
+squares. -> Pe6, ->Pf7. 20.Nxe6, 20.Rxe6 Weiß: SF: d4, RF: e5, FF: weißfeldrig.
+-> Pe6, ->Pf7. 20.Nxe6, 20.Rxe6} 20. Nxe6 (20. Rxe6+ $5 fxe6 21. Nxe6 $18)
+20... fxe6 21. Rxe6+ Kf7 22. Qe2 Rh2 23. Qe4 $18) {White: SQ: d4, DQ: e5, CQ:
+white squares. -> Pe6, ->Pf7. CM: 20.Nxe6. 20.Rxe6+  Weiß: SF: d4, RF: e5, FF:
+weißfeldrig. -> Pe6, ->Pf7. KZ: 20.Nxe6. 20.Rxe6+} 20. Nxe6 $1 (20. Rxe6+ $6
+fxe6 21. Bf3 N5f6 $17) 20... fxe6 (20... Be7 21. Ng7+ Kf8 22. Bxe7+ Kxg7 23.
+Rg1 $18) 21. Rxe6+ Kf7 {[%cal Yb2d4,Yd4e5,Gf7e6,Ge6d5]} (21... Be7 22. Rxe7+
+Kf8 23. Rxd7 Qxa4 24. Rxb7 $18) {White: SQ: d4, DQ: e5, CQ: white squares. ->
+Kf7. CM: 22.Qd3 /\Qg6 -> Kf7; 22.f5  Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->
+Kf7. KZ: 22.Qd3 /\Qg6 -> Kf7; 22.f5} 22. Qd3 $3 $18 (22. f5 $6) 22... Bg7 (
+22... Kxe6 23. Bxd5+ Bxd5 24. Qg6+ $18) (22... Kg8 23. Qg6+ Kh8 (23... Bg7 24.
+Bxd5) 24. Ree1 Bg7 25. Rh1 $18) 23. Qf5+ Kg8 24. Rxd5 Qxa4 25. Re7 1-0
+
+[Event "EUCup 16th"]
+[Site "Neum"]
+[Date "2000.09.24"]
+[Round "1"]
+[White "Mitkov, Nikola"]
+[Black "Rublevsky, Sergei"]
+[Result "1-0"]
+[WhiteElo "2532"]
+[BlackElo "2670"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r4rk1/1pqb1ppp/p2ppn2/2b1nP2/3NP2Q/2NBB2P/PPP3P1/R4R1K w - - 0 15"]
+[PlyCount "21"]
+[EventDate "2000.09.24"]
+[EventType "team"]
+[EventRounds "7"]
+[EventCountry "BIH"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yc2e4,Ye4f5,Gg7e5] White: SQ: e4, DQ: f5, CQ: black squares. Pay
+attention to: 1. the weak squares on f6, g7.  2. Be3, Qh4; ->_|_g7. ->_|_f6;
+->Pg7. 15.g4 /\g5; 15.Qg3; 15.Rf3 /\Rg3  Weiß: SF: e4, RF: f5, FF:
+schwarzfeldrig. Man beachte: 1. Die Felderschwächen auf f6, g7. 2. Be3, Qh4;
+->_|_g7. ->_|_f6; ->Pg7. 15.g4 /\g5; 15.Qg3; 15.Rf3 /\Rg3} {[#] [#]} 15. Rf3 $5
+{A very active (/\Rg3), but also a very risky move. Should the Rf3 be taken 
+(15...Nxf3 16.gxf3), White opens the g-file and gains attacking chances down
+the said g-file against the g7-square. You should note that for the moment the
+bishop on c5 is not able to protect the squares f6, g7. White should keep this
+in mind. Furthermore White must try to hinder the retreat of the bishop on c5.
+Ein sehr aktiver (/\Rg3), aber auch risikoreicher Zug. Sollte der Rf3 genommen
+werden (15...Nxf3 16.gxf3), öffnet sich Weiß die g-Linie und damit entstehen
+Angriffsmöglichkeiten auf der g-Linie gegen das Feld g7. Man sollte beachten,
+dass der Läufer auf c5 momentan nicht in der Lage ist, die Felder f6, g7 zu
+sichern. Dies sollte man aus weißer Sicht beibehalten. Weiß muss sich auch im
+Weiteren bemühen, den Läufer c5 am Rückzug zu hindern.} (15. g4 {This has been
+well tested in praxis. e.g. Dies wurde in der Praxis reichlich getestet, z.B.}
+Qb6 16. g5 Nh5 17. Qxh5 Bxd4 18. Bxd4 Qxd4 19. f6 Bc6 20. fxg7 Kxg7 21. Qh6+
+Kg8 22. Qf6 Qe3 23. Kh2 Nd7 24. Qh6 Ne5 25. Qf6 Nd7 26. Qh6 Ne5 27. Qf6 {
+1/2-1/2 Kasparov,G-Milos,G/Rio de Janiero 1996/ (27)}) (15. Qg3 $6 {This does
+not actually put pressure on the g7-square. Dies leistet in der Tat keinen
+Druck auf das Feld g7.} Qb6 $36) 15... Nxf3 {Black accepts the risk. Schwarz
+geht damit das Risiko ein.} (15... Qb6 $5 {[%cal Yc2e4,Ye4f5,Gg7e5] White: SQ:
+e4, DQ: f5, CQ: black squares. ->_|_f6, ->g7. ->Pg7. CM: 16.Rg3. Weiß: SF: e4,
+RF: f5, FF: schwarzfeldrig. ->_|_f6, ->g7. ->Pg7. KZ: 16.Rg3.} 16. Rg3 Bxd4 {
+[%cal Gg7e5,Yc2e4,Ye4f5] White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6,
+->g7. ->Pg7, ->Bd4. CM: 17.Qxf6, 17.Bxd4 /\Qxf6, 17.Rxg7+ Weiß: SF: e4, RF: f5,
+FF: schwarzfeldrig. ->_|_f6, ->g7. ->Pg7, ->Bd4. KZ: 17.Qxf6, 17.Bxd4 /\Qxf6,
+17.Rxg7+} (16... Ne8 17. Nce2 (17. f6 Ng6) (17. Bh6 Bxd4) 17... Qxb2 18. Rf1
+$132 Nxd3 19. cxd3 $13) 17. Qxf6 (17. Rxg7+ $2 {doesn't work geht nicht}) 17...
+g6 18. Bxd4 Qxd4 19. Qg5 $13 {/\f6}) 16. gxf3 {[%csl Gg7][%cal Gg7e5,Yc2e4,
+Ye4f5] The square g7 is now well established as a target for White. Das Feld
+g7 steht nun als Angriffsziel für Weiß fest.} Kh8 {/\Rg8 ->Pg7 /\Rg8 ->Pg7} (
+16... Qd8 {White: SQ: e4, DQ: f5, CQ: black squares ->_|_f6, ->g7. ->Pg7. 17.
+Rg1, 17.e5. Weiß: SF: e4, RF: f5, FF: schwarzfeldrig ->_|_f6, ->g7. ->Pg7. 17.
+Rg1, 17.e5.} 17. Rg1 {->Pg7 ->Pg7} (17. e5 dxe5 18. Rg1 {-> Pg7 -> Pg7} exf5 {
+White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6, ->g7. ->Pg7. CM: 19.Rg7, 19.
+Bg5 Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->_|_f6, ->g7. ->Pg7. KZ: 19.Rg7,
+19.Bg5} (18... Ne8 {White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6, ->g7.
+->Pg7. CM: 18.Rxg7+, 18.Bg5. Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->_|_f6,
+->g7. ->Pg7. KZ: 18.Rxg7+, 18.Bg5.} 19. Rxg7+ Kxg7 (19... Nxg7 20. f6) 20. f6+
+Nxf6 21. Bh6+ Kh8 22. Bg5) 19. Bg5 (19. Rxg7+ $2 Kxg7 20. Bh6+ Kh8 21. Bg5 Be7
+$19) (19. Qh6 g6 20. Nxf5 Bxf5 21. Bxc5 Bxd3) (19. Nxf5 Bxe3) 19... Be7 (19...
+Kh8 20. Nxf5) 20. Bxf5 g6 {This is to protect the g7-square. Dies soll das
+Feld g7 schützen.} 21. Ne4 Nd5 {Black has the advantage, e.g. Schwarz ist im
+Vorteil, z.B.} 22. Bxe7 Qxe7 23. Qxe7 Nxe7 24. Bxd7 exd4 $17) 17... Ne8 {
+White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6, ->g7. ->Pg7. CM: 18.Rxg7+
+->_|_f6, _|_g7, 18.Bg5 ->_|_f6. Weiß: SF: e4, RF: f5, FF: schwarzfeldrig.
+->_|_f6, ->g7. ->Pg7. KZ: 18.Rxg7+ ->_|_f6, _|_g7, 18.Bg5 ->_|_f6.} 18. Rxg7+ {
+This is aimed at weakening the black squares f6, g7, and so must be
+investigated. Dies soll die schwarzen Felder f6,g7 schwächen, muss daher
+überprüft werden.} (18. Bg5 f6 19. Be3 $44) 18... Kxg7 (18... Nxg7 19. f6 $18)
+19. Qh6+ Kg8 20. e5 {/\f6 /\f6} f6 (20... exf5 21. Nxf5 $18) 21. fxe6 Qe7 22.
+Nd5 $16) (16... Qb6 {White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6, ->g7.
+->Pg7. CM: 17.Rg1, 17.e5. Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->_|_f6,
+->g7. ->Pg7. KZ: 17.Rg1, 17.e5.} 17. Rg1 (17. e5 dxe5 18. Rg1 exf5 {[%cal
+Gb6f6]} 19. Nxf5 {[%cal Gg7e5] -> Pg7 -> Pg7} Bxe3 20. Nd5 Bxf5 21. Bxf5 g6 22.
+Nxb6 Bxb6 23. Re1 $14) 17... Bxd4 (17... Kh8 18. e5 dxe5 19. Rxg7 $1) 18. e5 $1
+{[%cal Gg7e5,Yc2e4,Ye4f5]} Bxe3 19. Rxg7+ $1 Kh8 (19... Kxg7 20. exf6+ Kh8 21.
+fxe6 $18) 20. fxe6 $18) (16... e5 {[%cal Gg7e5,Ye4d5,Ye4f5] An ambivalent move:
+it prevents White's push e4-e5, but the d5-square is now definitively weakened.
+Ein ambivalenter Zug: Damit ist der weiße Vorstoß e4-e5 verhindert, aber das
+Feld d5 ist nun endgültig geschwächt.} {White: SQ: e4, DQ: f5, CQ: white
+squares. ->_|_d5, ->Nf6. 17.Bg5 ->_|_d5. Weiß: SF: e4, RF: f5, FF: weißfeldrig.
+->_|_d5, ->Nf6. 17.Bg5 ->_|_d5.} 17. Bg5 {This does two things: attacks the
+f6-square, and enables the capture of d5. Dies leistet beides: greift das Feld
+f6 an, ermöglicht die Eroberung von d5.} Qd8 (17... Ne8 18. Nd5) 18. Nd5 $16) {
+White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6, ->g7, ->Pd6, ->Pg7. CM: 17.
+Rg1, 17.e5.  Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. ->_|_f6, ->g7, ->Pd6,
+->Pg7. KZ: 17.Rg1, 17.e5.} 17. Rg1 $1 {-> Pg7 /\Rg7 -> Pg7 /\Rg7} (17. e5 $2
+dxe5) 17... Qd8 (17... Rg8 {White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6,
+->g7. ->Pg7. CM: 18.e5. 18.fxe6 /\19.e5 Weiß: SF: e4, RF: f5, FF:
+schwarzfeldrig. ->_|_f6, ->g7. ->Pg7. KZ: 18.e5. 18.fxe6 /\19.e5} 18. fxe6 $1 {
+White now opens up the b1-h7 diagonal, in order to get in the push e4-e5 with
+gain of tempo. Weiß öffnet damit die Diagonale b1-h7, um den Vorstoß e4-e5
+unter Tempogewinn zu verwirklichen.} (18. e5 dxe5 19. fxe6 Bc6 $1) 18... fxe6
+19. e5 $1 dxe5 {[%cal Yc2e4,Ye4f5] White: SQ: e4, DQ: f5, CQ: white squares.
+->_|_g6, ->_|_h7. ->Nf6. CM: 20.Bg5, 20.Ne4, 20.Rg6. Weiß: SF: e4, RF: f5, FF:
+weißfeldrig. ->_|_g6, ->_|_h7. ->Nf6. KZ: 20.Bg5, 20.Ne4, 20.Rg6.} 20. Bg5 $1 {
+/\Bf6 ->Ph7} (20. Ne4 Nxe4 21. Bxe4 g6) (20. Rg6 {->Nf6; /\Rf6 ->Nf6; /\Rf6}
+Bc8 21. Bg5 $40) 20... Bc8 {-> Ph7.} (20... Bb5 21. Bxf6 Bxd3 22. Nxe6) 21. Ne4
+Nd5 22. Nxc5 $18) {White: SQ: e4, DQ: f5, CQ: black squares. ->_|_f6, ->g7.
+->Pg7. CM: 18.e5. 18.fxe6 /\19.e5  Weiß: SF: e4, RF: f5, FF: schwarzfeldrig.
+->_|_f6, ->g7. ->Pg7. KZ: 18.e5. 18.fxe6 /\19.e5} 18. e5 $1 (18. fxe6 fxe6 19.
+e5 dxe5 20. Ne4 Rf7 $13) 18... dxe5 $8 {[%cal Gg7e5,Ye4f5,Yc2e4]} (18... Bxd4
+19. Bxd4 Ne8 20. f6 g6 21. Rxg6 $1 fxg6 22. Bxg6 $18) {White: SQ: e4, DQ: f5,
+CQ: black squares. ->_|_f6, ->g7. ->Pg7. CM: 19.Rxg7; 19.Bg5  Weiß: SF: e4, RF:
+f5, FF: schwarzfeldrig. ->_|_f6, ->g7. ->Pg7. KZ: 19.Rxg7; 19.Bg5} 19. Rxg7 $3
+$16 {This noticeably weakens the e5-area, allows White to seize the squares f6,
+g7. Now White should strive to occupy the h7-square, thus attacking the
+h8-square. This means that a white-squared initiative is called for.  Dies
+schwächt den e5-Raum erheblich, ermöglicht Weiß die Felder f6, g7 zu erobern.
+Nun soll Weiß bestrebt sein das Feld h7 zu besetzen, dadurch das Feld h8
+anzugreifen. Dies soll heißen, dass die weißfeldrige Initiative angesagt sein
+soll.} Rg8 {White: SQ: e4, DQ: f5, CQ: white squares ->h7. ->Nf6, ->Ph7. 20.
+Rf7 ->Nf6, 21.Rg8 ->Nf6 Weiß: SF: e4, RF: f5, FF: weißfeldrig ->h7. ->Nf6,
+->Ph7. 20.Rf7 ->Nf6, 21.Rg8 ->Nf6} (19... exf5 {White: SQ: e4, DQ: f5, CQ:
+white squares. ->h7. ->Nf6, ->Ph7. CM: 20.Nd5, 20.Bg5 Weiß: SF: e4, RF: f5, FF:
+weißfeldrig. ->h7. ->Nf6, ->Ph7. KZ: 20.Nd5, 20.Bg5} 20. Bg5 $1 (20. Nd5 $1 Rg8
+(20... Kxg7 21. Qh6+ Kh8 22. Nxf6 $18) 21. Rxf7 Rg7 22. Rxg7 Kxg7 23. Bg5 $18)
+20... Kxg7 21. Qh6+ Kg8 22. Bxf5 Bxf5 23. Nxf5 $18 {[%cal Gg7e5]}) (19... Bxd4
+20. Rxh7+ $1 Nxh7 21. f6 $18) (19... Kxg7 20. Bh6+ Kh8 21. Bg5 Be7 22. fxe6 $18
+) 20. Rxg8+ {White would like to gain time to attack the Nf6. Weiß möchte
+damit Zeit gewinnen, um den Nf6 anzugreifen.} (20. Rxf7 $1 {-> Nf6} Rg7 21.
+Rxg7 Kxg7 22. Bh6+ Kh8 23. Bg5 $18) 20... Kxg8 {White: SF: e4, DQ: f5, CQ:
+white squares. ->h7. ->Nf6, ->Ph7. CM: 21.Bg5, 21.fxe6 Weiß: SF: e4, RF: f5,
+FF: weißfeldrig. ->h7. ->Nf6, ->Ph7. KZ: 21.Bg5, 21.fxe6} (20... Nxg8 21. f6 $1
+{[%cal Yc2f5,Yf5h7]} Nxf6 22. Bg5 $18 {[%cal Yc2e4,Ye4h7]}) 21. Bg5 {-> Nf6}
+Be7 {White: SQ: e4, DQ: f5, CQ: white squares. ->h7. ->Nf6, ->Ph7. CM: 22.Ne4,
+22.fxe6 Weiß: SF: e4, RF: f5, FF: weißfeldrig. ->h7. ->Nf6, ->Ph7. KZ: 22.Ne4,
+22.fxe6} (21... Bc8 22. Bxf6 Qxd4 23. Qg5+ Kf8 24. Qg7+ Ke8 25. Qg8+ Bf8 26.
+Bg7 $18) 22. Ne4 $1 $18 {-> Nf6.} (22. fxe6 Bxe6 23. Nxe6 fxe6 24. Ne4 $18)
+22... Nd5 (22... Nxe4 23. Bxe7 $18) 23. f6 $1 $18 (23. Bxe7 Qxe7 24. f6 Qf8 25.
+Nc5 $18) 23... Qb6 (23... Bb4 24. Bh6 $18) (23... Bf8 24. Nd6 $18) 24. Nc5 (24.
+Qg3 $18) (24. Nd6 $18) 24... Qxc5 25. Qxh7+ 1-0
+
+[Event "Steinitz mem-A 1st"]
+[Site "Prague"]
+[Date "2001.01.03"]
+[Round "9"]
+[White "Lanka, Zigurds"]
+[Black "Vokac, Marek"]
+[Result "1-0"]
+[WhiteElo "2504"]
+[BlackElo "2523"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1b1r1k1/2qnbppp/p1npp3/1p4P1/4PP2/1NNBB3/PPP1Q2P/2K3RR w - - 0 15"]
+[PlyCount "41"]
+[EventDate "2000.12.26"]
+[EventType "tourn"]
+[EventRounds "9"]
+[EventCountry "CZE"]
+[EventCategory "8"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Gf7d5,Gd5c4,Yd4e5,Yd4c5,Ye5f6] White: SQ: d4, (Note that there are no
+pieces on the squares e5, f6) DQ: e5, CQ: white squares.  Pay close attention:
+the black pieces (Nd7, Nc6, Be7, Qc7) are positioned to influence black
+squares, so the white squares are not well enough protected; thus there are
+weak squares such as e6, f7. ->Pe6, Pf7,->Ph7.  CM: 15.f5, 15.e5 /\Bxh7+, 15.
+Qh5, 15.h4 /\h5  Weiß: SF: d4, (Man beachte: die Felder e5, f6 sind Figuren
+leer) RF: e5, FF: weißfeldrig. Man beachte: Die schwarzen Figuren (Nd7, Nc6,
+Be7, Qc7) sind schwarzfeldrig aufgestellt, die weißen Felder sind daher nicht
+ausreichend gedeckt; also sind Felderschwächen auf e6,f7 vorhanden. ->Pe6, Pf7,
+->Ph7. KZ: 15.f5, 15.e5 /\Bxh7+, 15.Qh5, 15.h4 /\h5} 15. e5 $1 {[%cal Yd4e5,
+Gf7d5,Ye5f6] /\Bxh7+! A strong move, which is strategically and tactically
+correct. White increases the pressure on the white squares. Ein starker Zug,
+der strategisch und taktisch korrekt ist. Weiß verstärkt damit den Druck auf
+die weißen Felder.} (15. h4 b4 $1 {-> Nc3 This is to blunt White's initiative
+on the white squares. Dies soll die weißfeldige Intiative des Weißen schwächen.
+}) (15. Qh5 Nb4 {-> Bd3 This is to blunt White's initiative on the white
+squares. Dies soll die weißfeldige Intiative des Weißen schwächen.}) (15. f5
+Nde5 {Black strengthens his control over the white squares. Schwarz verstärkt
+damit die Kontrolle über die weißen Felder.}) 15... Bb7 {[%cal Yd4e5,Ye5f6,
+Gf7d5]} (15... dxe5 {[%cal Yc2e4,Ye4f5,Gg7e5,Ge5d4] White: SQ: e4, DQ: f5, CQ:
+white squares. ->Pf7, ->Ph7. CM: 16.Bxh7+ /\Qh5, /\g6 Weiß: SF: e4, RF: f5, FF:
+weißfeldrig. ->Pf7, ->Ph7. KZ: 16.Bxh7+ /\Qh5, /\g6} 16. Bxh7+ Kf8 (16... Kxh7
+17. Qh5+ Kg8 18. g6 $18) 17. f5 exf5 18. Bxf5 Kg8 (18... Nc5 19. Qh5) 19. g6
+$40) (15... Nf8 {[%cal Yb2d4,Yd4e5,Ye5f6,Gf7d5] This weakens the black squares,
+including the f6-square.  White: SQ: d4, DQ: e5, CQ: black squares. ->_|_f6,
+_|_g7, ->Be7. CM: 16.Ne4 /\Nf6+, 16.f5 /\f6, 16.exd6 Dies schwächt die
+schwarzen Felder, u.a. das Feld f6. Weiß: SF: d4, RF: e5, FF: schwarzfeldrig.
+->_|_f6, _|_g7, ->Be7. KZ: 16.Ne4 /\Nf6+, 16.f5 /\f6, 16.exd6} 16. Ne4 $1 {
+/\Nf6+ The strongest move. Der stärkste Zug.} dxe5 {[%cal Yd3e4,Ye4f5,Gg7e5]
+White: SQ: e4, DQ: f5, CQ: white squares. ->Pf7, ->Ph7. CM: 17.Nf6+ -> Ph7
+Weiß: SF: e4, RF: f5, FF: weißfeldrig. ->Pf7, ->Ph7. KZ: 17.Nf6+ -> Ph7} (16...
+d5 $2 17. Nf6+) 17. Nf6+ gxf6 (17... Bxf6 18. gxf6 Ng6 (18... g6 19. Qh5 $18)
+19. h4 $1 exf4 20. h5 $18) 18. gxf6+ Ng6 19. fxe7 exf4 20. h4 fxe3 21. h5 Ncxe7
+22. hxg6 Nxg6 23. Qh5 $18) {White: SQ: d4, DQ: e5, CQ: white squares. ->Pf7,
+->Ph7. CM: 16.Bxh7+ /\Qh5, /\g6 Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->Pf7,
+->Ph7. KZ: 16.Bxh7+ /\Qh5, /\g6} 16. Bxh7+ Kf8 (16... Kxh7 17. Qh5+ Kg8 18. g6
+fxg6 19. Rxg6 Bf8 20. exd6 (20. Rhg1 Ncxe5 21. fxe5 Nxe5) 20... Qxd6 21. Rhg1 {
+/\Rh6;} Nce5 22. fxe5 (22. Rh6 Nf7) 22... Nxe5 23. Rxg7+ Bxg7 24. Rxg7+ Kxg7
+25. Bh6+ $18) {White will try to invade the e5-area via the open h-file: CM:
+Qh5 /\Be4 or Be4 /\Qh5  Weiß wird versuchen auf der offenen h-Linie in den
+e5-Raum einzudringen: KZ: Qh5 /\Be4 oder Be4 /\Qh5} 17. Be4 {/\Qh5} (17. g6 f5)
+(17. Qh5 $1 dxe5 18. Be4 {See game Siehe Partie}) 17... dxe5 $6 (17... d5 $5
+18. Qh5 Bb4 19. g6 dxe4 20. Qh8+ Ke7 21. Qxg7 Rf8) 18. Qh5 $18 Bb4 {[%cal
+Ye4f5,Ye4d5,Gg7e5]} {White: SQ: e4, DQ: f5, CQ: white squares. ->Pf7, ->Ph7.
+CM: 19.f5, 19.g6  Weiß: SF: e4, RF: f5, FF: weißfeldrig. ->Pf7, ->Ph7. KZ: 19.
+f5, 19.g6} 19. f5 $1 {[%cal Ye4f5]} (19. g6 $1 f5 20. Rd1 $18) 19... Nd4 {
+[%cal Gg7e5,Ye4f5]} (19... Na5 20. f6 $18) (19... exf5 20. Nd5 $18) (19... Bxc3
+20. f6 $18) (19... Ke7 20. f6+ $18) 20. f6 gxf6 21. gxf6 Nxf6 22. Qh6+ (22.
+Bh6+ $1 Ke7 23. Qxf7+ Kd6 (23... Kxf7 24. Rg7+) 24. Qxf6) 22... Ke7 {[%cal
+Gg7e5,Yc2e4,Ye4f5] White: SQ: e4, DQ: f5, CQ: black squares. (The squares e4,
+f5, g6, h7 are already under control) ->Pe5, ->Nf6, ->Qc7.CM: 23.Qf6 ->Nf6, 23.
+Bg5 ->Nf6, 23.Bxb7 ->Qc7  Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. (Die
+Felder e4, f5, g6, h7 sind schon unter Kontrolle) ->Pe5, ->Nf6, ->Qc7. KZ: 23.
+Qf6 ->Nf6, 23.Bg5 ->Nf6, 23.Bxb7 ->Qc7} 23. Bxb7 $1 {The strongest
+continuation. In order to divert /\Qc7. Die stärkste Fortsetzung. /\Qc7
+abzulenken.} (23. Qxf6+ $5 Kxf6 24. Bg5+ Kg7 25. Bd8+ Kh6 (25... Kf8 26. Bxc7
+$18) 26. Bxc7 $16) (23. Bg5 $5 {-> Nf6 -> Nf6} Bxc3 24. Bxf6+ Kd6 (24... Kd7
+25. Bxb7 $18) 25. Bxe5+ $1 {-> Pe5 -> Pe5} Kxe5 26. Qe3) 23... Bxc3 (23... Qxb7
+24. Bg5) 24. Nxd4 {This gets rid of the threat Bxb2+.  Dies beseitigt die
+Drohung Bxb2+.} Qxb7 (24... exd4 25. Bg5) (24... Bxd4 25. Bxa8) 25. Rf1 (25.
+Ne2 Bd4 26. Bg5 $18) 25... Nd7 {[%cal Yd4e5,Yd4c5,Gf7d5,Gb7d5]} (25... Bxd4 26.
+Qxf6+ $16) 26. Rxf7+ $1 $18 Kd8 (26... Kxf7 27. Qh7+ $18) 27. Nf3 Bd4 28. Rd1
+Kc8 29. Nxd4 exd4 30. Bxd4 Qc6 31. Bf2 Ne5 32. Rg7 Rf8 33. Bg3 Nf7 34. Qf4 Qb7
+35. Qb4 1-0
+
+[Event "Linares Anibal op 8th"]
+[Site "Linares"]
+[Date "2001.01.12"]
+[Round "5"]
+[White "Sulskis, Sarunas"]
+[Black "Holmsten, Aleksei"]
+[Result "1-0"]
+[WhiteElo "2501"]
+[BlackElo "2435"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "1r1r1n2/p5kp/bqp2pp1/2p1p3/P3P3/RPQPNN1P/1P3PP1/2R3K1 w - - 0 20"]
+[PlyCount "13"]
+[EventDate "2001.01.08"]
+[EventType "swiss"]
+[EventRounds "11"]
+[EventCountry "ESP"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Ye4f5,Gg7e5,Ye4d5,Gc7e5,Ye6d7,Ye6f7] White: SQ: e4, DQ: f5, CQ: black
+squares. -> Pe5, ->Pf6, ->Pc5. CM: 20.Nxe5, 20.Qxc5 - these moves should be
+checked out.  Weiß: SF: e4, RF: f5, FF: schwarzfeldrig. -> Pe5, ->Pf6, ->Pc5.
+KZ: 20.Nxe5, 20.Qxc5 - diese Züge sollen überprüft werden.} 20. Nxe5 $1 $18 {
+The strongest move: it puts offside thsoe pieces or pawns which are defending
+the black squares, it weakens and seizes control of the e5-area. Der stärkste
+Zug: Damit werden die die schwarzen Felder verteidigenden Figuren bzw. Bauern
+beseitigt, der e5-Raum dadurch geschwächt und erobert.} (20. Qxc5 $6 {Take
+note: the squares d6, c7remain in the control of Black. White is playing in
+the "wrong" direction. Man beachte: Die Felder d6, c7 bleiben unter schwarzer
+Kontrolle. Weiß spielt in die "falsche" Richtung.}) 20... fxe5 $2 ({Black
+should be trying to protect the e5-area: Schwarz sollte bestrebt sein den
+e5-Raum zu sichern:} 20... Ne6 $1 {-> _|_d4. /\Nd4, /\Rd4 -> _|_d4. /\Nd4, /
+\Rd4} {White: SQ: e4, DQ: f5, CQ: black squares -> ->Pf6, ->Pc5. 21.N5g4, 21.
+N5c4 Weiß: SF: e4, RF: f5, FF: schwarzfeldrig -> ->Pf6, ->Pc5. 21.N5g4, 21.N5c4
+} 21. N3c4 (21. N5c4 Qb4) (21. N5g4 {-> Pf6 -> Pf6} Rd4 22. Nc2 h5) 21... Qc7
+22. Ng4 Nd4 (22... Rd4 23. Re1 $16) 23. Re1 $16) 21. Qxe5+ Kg8 {[%cal Yd4c5,
+Yd4e5,Gf7d5,Gb7d5,Yd6c7,Yd6e7] White: SQ: d4, DQ: e5, CQ: black squares.
+->_|_f6, _|_g7. CM: 22.Ng4 -> _|_f6  Weiß: SF: d4, RF: e5, FF: schwarzfeldrig.
+->_|_f6, _|_g7. KZ: 22.Ng4 -> _|_f6} 22. Ng4 h5 23. Nh6+ Kh7 24. Nf7 {[%cal
+Gh8e5] /\Qh8+} g5 25. Qh8+ Kg6 26. Ne5# 1-0
+
+[Event "SuperGM"]
+[Site "Linares ESP"]
+[Date "2001.02.28"]
+[Round "5"]
+[White "Kasparov, Garry"]
+[Black "Karpov, Anatoly"]
+[Result "1-0"]
+[WhiteElo "2849"]
+[BlackElo "2679"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "2rq1k1r/1pN1bp2/p1n1p3/2np4/5B1P/8/PPP1QPB1/1K1R3R w - - 0 22"]
+[PlyCount "19"]
+[EventDate "2001.02.23"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Gf7d5,Yd4e5,Gb7d5,Yd4c5] White: SQ: d4, DQ: e5, (Take note: the white
+pieces are cooperating in their attack on the squares d5, e6), CQ: white
+squares. -> Pd5, ->Pe6, ->Pf7, ->Nc5. CM: 22.Nxd5, 22.Bxd5  Weiß: SF: d4, RF:
+e5, (Man beachte: die weißen Figuren wirken auf die Felder d5, e6 zusammen),
+FF: weißfeldig. -> Pd5, ->Pe6, ->Pf7, ->Nc5. KZ: 22.Nxd5, 22.Bxd5} 22. Bxd5 $1
+{-> Pe6} (22. Nxd5 $1 exd5 23. Bxd5 $16 Qb6 {[%cal Yb2d4,Yd4e5,Gf7d5]} 24. Qf3
+{-> Pf7 /\Bh6} Nd8 {[%cal Yb2d4,Yd4e5,Gf7d5]} 25. Be5 $16) 22... exd5 {[%cal
+Yd4e5,Yd4c5,Gf7d5,Gb7d5] White: SQ: d4, DQ: e5, CQ: white squares. -> Pd5,
+->Pf7, ->Nc5. CM: 23.Nxd5, 23.Rxd5 Weiß: SF: d4, RF: e5, FF: weißfeldrig. ->
+Pd5, ->Pf7, ->Nc5. KZ: 23.Nxd5, 23.Rxd5} (22... Rxc7 23. Bxc6 $18) 23. Rxd5 $1
+{-> Nc5} (23. Nxd5 $16) 23... Qxc7 (23... Nd7 {[%cal Ye4d5,Ye4f5,Gg7e5,Gc7e5,
+Ye6d7,Ye6f7] White: SQ: e4, DQ: f5, CQ: white squares. -> Pf7, CM: 23.Ne6+, 23.
+Rh5 /\Bh6 Weiß: SF: e4, RF: f5, FF: weißfeldrig. -> Pf7, KZ: 23.Ne6+, 23.Rh5 /
+\Bh6} 24. Rh5 $1 $18 {/\Bh6+} (24. Ne6+ $5 fxe6 25. Qxe6 {[%cal Gf7e6,Ge6d5]}
+Nf6 $8 (25... Ncb8 26. Bd6 $18 {/\Rf5}) 26. Rxd8+ Rxd8 27. Bg5 $16) 24... Rxh5
+25. Qxh5 Bf6 26. Bd6+ Ne7 27. Nd5 $18) 24. Bxc7 Rxc7 {[%cal Ye4d5,Ye4f5,Gg7e5,
+Gc7e5,Ye6d7,Ye6f7] White: SQ: e4, DQ: f5, CQ: white squares. ->Pf7, ->Nc5. CM:
+25.Rf5, 25.Qf3 Weiß: SF: e4, RF: f5, FF: weißfeldrig. ->Pf7, ->Nc5. KZ: 25.Rf5,
+25.Qf3} 25. Rf5 $1 {[%cal Gf7d5]} (25. Qf3 Ne6) 25... Rd7 {[%cal Yb2d4,Yd4e5] /
+\Nd4} (25... Bd6 26. Rd1) (25... Nd4 26. Qe5) 26. c3 f6 27. Rg1 $18 Nd8 28. Qg4
+Ke8 29. Rh5 Rf8 30. Rxc5 Bxc5 31. Qh5+ 1-0
+
+[Event "Corus"]
+[Site "Wijk aan Zee"]
+[Date "2004.01.10"]
+[Round "1"]
+[White "Akopian, Vladimir"]
+[Black "Kramnik, Vladimir"]
+[Result "1-0"]
+[WhiteElo "2693"]
+[BlackElo "2777"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "r1r3k1/1p2pbb1/p4pn1/3q2p1/1P1N4/P4P2/1BPQB1P1/2KR3R w - - 0 25"]
+[PlyCount "15"]
+[EventDate "2004.01.10"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "19"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yc2e4,Ye4f5,Gg7e5,Ge5d4] White: SQ: e4, (Take note: e7-e5 -> _|_d4: the
+d4-square is unprotected) DQ: f5, (The white pieces cooperate well in the
+attack on e4, f5, g6, e6, h7), CQ: white squares.  Watch out for: 1. the weak
+squares on f5, g6, h7; and  2. Be2, Nd4. White should be trying to occupy the
+squares e4, f5, g6, h7.  CM: 26.Bd3 /\Nf5; 26.g4 /\Nf5  Weiß: SF: e4, (Man
+beachte e7-e5 -> _|_d4: das Feld d4 ist nicht gesichert) RF: f5, (Die weißen
+Figuren wirken auf die Felder e4, f5, g6, e6, h7 zusammen), FF: weißfeldrig. 
+(Man beachte: 1. Die Felderschwächen auf f5, g6, h7; 2. Be2, Nd4;). Weiß soll
+bestrebt sein, die Felder e4, f5, g6, h7 zu besetzen. KZ: 26.Bd3 /\Nf5; 26.g4 /
+\Nf5} 25. Bd3 {This is to strengthen the pressure on the squares e4, f5, g6,
+h7, but also to enable the manoeuvre Qd2-h2 (->_|_h7) or Nd4-f5!  Dies soll
+den Druck auf die Felder e4,f5,g6,h7 verstärken, aber auch das Manöver Qd2-h2 
+(->_|_h7) bzw. Nd4-f5 ermöglichen!} Ne5 {/\Nxd3+ White: SQ: e4, DQ: f5, CQ:
+white squares. keep the Bd3. Prevent Nxd3. CM: 26.Bh7+, 26.Be4 Weiß: SF: e4,
+RF: f5, FF: weißfeldrig. Bd3 zu behalten. Nxd3 verhindern. KZ: 26.Bh7+, 26.Be4}
+(25... Rc7 26. Nf5) (25... e6 26. Be4 (26. g3 {/\Qh2 /\Qh2} f5 $13) 26... Qd7 (
+26... Qa2 27. Bxb7) 27. g4 Nf4 28. Qh2 $16) 26. Be4 {This is stronger than 26.
+Bh7+. Take note: Kf8 is defending the Pe7, which blunts the move Nf5. Dies ist
+stärker als 26.Bh7+. Man beachte, Kf8 verteidigt Pe7, was den Zug Nf5 schwächt.
+} (26. Bh7+ $6 Kf8 27. Be4 Qa2 28. Nf5 Nc4 29. Qc3 Na5) 26... Qa2 {[%cal Yc2e4,
+Ye4f5,Gg7e5] /\Nd3+ White: SQ: e4, DQ: f5, CQ: black squares (!)  Take note:
+the squares f5, g6, h7 are already controlled by White, who should now attack
+the squares g7, f6. CM: 27.Nf5 -> Bg7, -> Pe7. 27.Bxb7 need not be considered
+(!).  Weiß: SF: e4, RF: f5, FF: schwarzfeldrig (!) Man beachte: Die Felder f5,
+g6, h7 sind schon unter weißer Kontrolle, Weiß sollte nun die Felder g7, f6
+angreifen. KZ: 27.Nf5 -> Bg7, -> Pe7. 27.Bxb7 kommt nicht in Betracht (!).} 27.
+Nf5 {-> Be7 /\Rh7! Be aware: (/\Nxe7+) White gains a tempo! Man beachte: (/
+\Nxe7+) Weiß gewinnt damit ein Tempo!} (27. Bxb7 $6 {This weakens the e4-area.
+Dies schwächt den e4-Raum.} Bg6 $1 {[%cal Yc2e4,Yg2e4,Gg7e5,Ge5d4]} (27... Nc4
+28. Qc3 $16) 28. Qe1 (28. Nf5 Nc4 (28... Bxf5 29. Bd5+) 29. Nxe7+ Kf7 30. Qd4
+Bxc2 31. Kxc2 Rc7 $13) (28. Bxc8 Rxc8 29. Qe1 Bf8 {/\Nc4} (29... Nc4 30. Qe6+))
+28... Rab8 29. Bxc8 (29. Bxa6 Rc7) 29... Rxc8 $44) 27... Nc4 (27... Rc7 $142 {
+/\Nc4. /\Nd3+. White: SQ: e4, DQ: f5, CQ: white squares. 28.Qd4, 28.Nxg7 Weiß:
+SF: e4, RF: f5, FF: weißfeldrig. 28.Qd4, 28.Nxg7} 28. Qd4 $1 (28. Rh7 $6 Kxh7
+29. Nxe7+ Bg6 30. Nxg6 Qxb2+ $1 31. Kxb2 Nc4+) 28... Rac8 29. Rh7 $1 {[%cal
+Gg7e5]}) 28. Qc3 {/\Nxe7+} Rc7 {[%cal Yc2e4,Ye4f5,Yf5g6,Gg7e5,Ge5d4] White: SQ:
+e4, DQ: f5, CQ: black squares. Pay attention to: 1. Nf5, Bb2, Qc3; -> the weak
+squares on g7, h8 -> Bg7, Pe7. CM: 29.Rh7!, 29.Nxg7?! Weiß: SF: e4, RF: f5, FF:
+schwarzfeldrig. Man beachte: 1. Nf5, Bb2, Qc3; -> die Felderschwächen auf g7,
+h8 -> Bg7, Pe7. KZ: 29.Rh7!, 29.Nxg7?!} (28... Qxb2+ 29. Qxb2 Nxb2 30. Nxe7+ (
+30. Kxb2 Rc7 31. c3 $14) 30... Kf8 31. Nxc8 Nxd1 32. Bxb7 Rxc8 33. Bxc8 Ne3 34.
+Bxa6 $16 {Akopian}) (28... Nxb2 29. Nxe7+ Kf8 30. Nxc8 Qa1+ 31. Kd2 Nc4+ 32.
+Qxc4 $18) 29. Rh7 $1 $18 {-> Bg7 Take note: the h7-square is covered by the
+Bd3.  Man beachte: das Feld h7 ist durch den Bd3 gesichert.} Qxb2+ (29... Kxh7
+30. Nxe7+ $18) 30. Qxb2 Nxb2 31. Rxg7+ Kf8 32. Rh1 1-0
+
+[Event "Corus-C"]
+[Site "Wijk aan Zee"]
+[Date "2004.01.24"]
+[Round "12"]
+[White "Carlsen, Magnus"]
+[Black "Ernst, Sipke"]
+[Result "1-0"]
+[WhiteElo "2484"]
+[BlackElo "2474"]
+[Annotator "Bangiev,A"]
+[SetUp "1"]
+[FEN "3r1rk1/pp2bpp1/4pn1p/q1p1N2P/3P1B2/8/PPP1QPP1/1K1R3R w - - 0 18"]
+[PlyCount "23"]
+[EventDate "2004.01.10"]
+[EventType "tourn"]
+[EventRounds "13"]
+[EventCountry "NED"]
+[EventCategory "9"]
+[SourceTitle "Learning"]
+[Source "ChessBase"]
+[SourceDate "2004.08.30"]
+[SourceVersion "1"]
+[SourceVersionDate "2004.08.30"]
+[SourceQuality "1"]
+
+{[%cal Yb2d4,Yd4e5,Gf7d5] White: SQ: d4, DQ: e5; CQ: black squares. Take note:
+1. Ne5 and Bf4 can only cooperate well on the black squares; 2. The weak
+squares on g7, h6. -> _|_f6, ->_|_g7; ->Be7, ->Pg7, ->Ph6.  CM: 18.Ng6; 18.
+Bxh6, 18.Bd2 /\dxc5  Weiß: SF: d4, RF: e5; FF: schwarzfeldrig. Man beachte: 1.
+Ne5 und Bf4 können optimal zusammen nur schwarzfeldrig wirken; 2. Die
+Felderschwächen auf g7, h6. -> _|_f6, ->_|_g7; ->Be7, ->Pg7, ->Ph6. KZ: 18.Ng6;
+18.Bxh6, 18.Bd2 /\dxc5} 18. Ng6 {A good, appropriate move: it attacks the Be7
+and challenges the Pf7 (->Pe6). Ein guter bzw. geeigneter Zug: Damit wird der
+Be7 angegriffen, die Pf7 (->Pe6) befragt.} (18. Bd2 Qb6 19. dxc5 Bxc5 $11) (18.
+Bxh6 $6 gxh6) 18... fxg6 {This weakens the squares f7, e6, which White is
+attacking. Dies schwächt die Felder f7, e6, die Weiß angreift.} (18... Rfe8 19.
+Nxe7+ Rxe7 20. dxc5 $14) 19. Qxe6+ Kh8 {[%cal Gg7e5,Gc7e5,Ye4d5,Ye4f5,Ye6d7,
+Ye6f7] White: SQ: e4, (The position is continually changing. Note: 1. the weak
+squares e4, d5, f5; 2. Pc5 -> _|_d4, See 20.d5!?) DQ: f5; CQ: black squares. 
+Pay attention to: 1. the squares are already controlled by White; 2. the weak
+squares on g7, h6. -> _|_f6, ->_|_g7; ->Be7, ->Pg7, ->Ph6.  CM: 20.hxg6 -> Ph6;
+20.Qxe7 Weiß: SF: e4, (Die Stellung ändert sich ständig. Man beachte: 1. Die
+Felderschwächen e4, d5, f5; 2. Pc5 -> _|_d4, Siehe 20.d5!?) RF: f5; FF:
+schwarzfeldrig. Man beachte: 1. die Felder sind schon unter weißer Kontrolle;
+2. Die Felderschwächen auf g7, h6. -> _|_f6, ->_|_g7; ->Be7, ->Pg7, ->Ph6. KZ:
+20.hxg6 -> Ph6; 20.Qxe7} (19... Rf7 20. hxg6) 20. hxg6 $18 {/\Bh6} (20. Qxe7
+Nd5 21. Bd2 $14) (20. d5 {[%cal Ye4d5,Ye4f5,Ya2d5,Yh3f5,Gg7e5,Gc7e5,Ye6d7,
+Ye6f7] In this position the borders of the e4-area (and thus of the e5-area)
+become more clearly visible. In dieser Position werden die Konturen des
+e4-Raums (und entsprechend des e5-Raums) deutlicher sichtbar.}) 20... Ng8 (
+20... Qb6 $5 21. Qxe7 Ng8 22. Qg5 $16) {White: SQ: d4, DQ: e5; CQ: black
+squares. Take note: the weak squares on g7, h6. -> _|_f6, ->_|_g7; ->Be7,
+->Pg7, ->Ph6, ->Ng8. CM: 21.Bxh6, 21.Rxh6  Weiß: SF: d4, RF: e5; FF:
+schwarzfeldrig. Man beachte: Die Felderschwächen auf g7, h6. -> _|_f6, ->_|_g7;
+->Be7, ->Pg7, ->Ph6, ->Ng8. KZ: 21.Bxh6, 21.Rxh6} 21. Bxh6 $1 $18 (21. Rxh6+
+Nxh6 22. Bxh6 Qb6 23. Qh3 Qxg6 24. Bg5+ $16) 21... gxh6 22. Rxh6+ Nxh6 23. Qxe7
+Nf7 24. gxf7 Kg7 25. Rd3 (25. Qe5+ Kxf7 26. Rd3) 25... Rd6 26. Rg3+ Rg6 27.
+Qe5+ Kxf7 28. Qf5+ Rf6 29. Qd7# 1-0
+

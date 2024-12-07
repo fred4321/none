@@ -1,0 +1,8 @@
+{
+  "short_name": "Bangiev",
+  "name": "Bangiev",
+  "start_url": "/#/",
+  "display": "standalone",
+  "description": "Bangiev",
+  "orientation": "portrait-primary"
+}
